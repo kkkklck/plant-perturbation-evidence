@@ -1,0 +1,28 @@
+{
+  "primary_full_universe": {
+    "n_genes": 16335,
+    "spearman_full_vector": 0.41498307222113207,
+    "top100_overlap": 64,
+    "top100_random_expected": 0.6121824303642486,
+    "top100_enrichment": 104.544,
+    "top100_direction_agreement": 1.0
+  },
+  "shuffle_null": {
+    "seed": 20261021,
+    "n_permutations": 10000,
+    "n_genes": 16335,
+    "observed_full_rho": 0.41498307222113207,
+    "null_rho_mean": -1.7890142228196475e-05,
+    "null_rho_sd": 0.007812809409697972,
+    "empirical_p_rho_one_sided": 9.999000099990002e-05,
+    "observed_top100_overlap": 64,
+    "null_top100_mean": 0.6161,
+    "null_top100_q95": 2.0,
+    "null_top100_q99": 3.0,
+    "empirical_p_top100_one_sided": 9.999000099990002e-05
+  },
+  "wrong_programs_n": 7,
+  "true_heat_wins_rho_pairwise": 7,
+  "true_heat_wins_top100_pairwise": 7,
+  "true_heat_ties_top100_pairwise": 0
+}

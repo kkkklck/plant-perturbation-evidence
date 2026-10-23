@@ -1,0 +1,29 @@
+{
+  "version": "PlantVC-v1.0-prototype-2026-10-20",
+  "status": "RANKED",
+  "task_name": "GSE158761 8h -> 20h | Phloem Pole Pericycle",
+  "regime": "persistent",
+  "input": "data/external_lateral_root/GSE158761/plantvc_v1_blind/evidence_phloem_pole_pericycle.tsv.gz",
+  "input_sha256": "dd926d710e365cce4c1774984703e31f1d7a3dcd22737d9f999ef680f9bd25a1",
+  "config_sha256": "ec887ae49502e8f39ae729d0b6557289f275ea2bb8855213cf461f4aab9057e4",
+  "ranking_sha256": "c15fdb2923ecc9ce716026217a4e42ad27a402c518672d86f3ec4c01f6e511a9",
+  "n_input_rows": 18868,
+  "n_ranked_genes": 15779,
+  "top_k": [
+    100,
+    250,
+    500,
+    1000
+  ],
+  "method": {
+    "primary_evidence": "r8",
+    "history_columns_for_confidence_only": [
+      "r8_repA",
+      "r8_repB"
+    ],
+    "ranking_rule": "abs(r8) descending",
+    "confidence_affects_ranking": false
+  },
+  "important_note": "confidence_descriptor is an evidence-consistency descriptor, not a calibrated probability of correctness",
+  "generated_utc": "2026-10-20T14:21:44.206352+00:00"
+}

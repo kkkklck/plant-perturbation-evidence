@@ -1,0 +1,19 @@
+{
+  "task_name": "机制叠加层程序回归",
+  "task_type": "future_time",
+  "input": "data/external_lateral_root/GSE158761/plantvc_v1_blind/evidence_epidermis.tsv.gz",
+  "gene_column": "gene",
+  "latest_column": "r8",
+  "filter": {"column": "technical_universe", "equals": true},
+  "mechanism_overlay": {
+    "input": "tests/fixtures/mechanism_overlay_smoke.tsv",
+    "independent_of_target": true,
+    "gene_column": "gene",
+    "tier_column": "mechanism_tier",
+    "expected_direction_column": "expected_direction",
+    "context_column": "context_compatible",
+    "note_column": "evidence_note"
+  },
+  "output_dir": "data/task_structure_v0_2_regression/mechanism_overlay_smoke",
+  "top_k": [100, 250, 500, 1000]
+}

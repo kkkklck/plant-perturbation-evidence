@@ -1,0 +1,95 @@
+dataset	context	model	metric	value
+salt_3h_to_6h	all	same_state_latest	top100_overlap	30.0
+salt_3h_to_6h	all	same_state_latest	top100_enrichment	42.423
+salt_3h_to_6h	all	same_state_latest	top100_direction	1.0
+salt_6h_to_12h	all	same_state_latest	top100_overlap	30.0
+salt_6h_to_12h	all	same_state_latest	top100_enrichment	42.696
+salt_6h_to_12h	all	same_state_latest	top100_direction	1.0
+lateral_root_8h_to_20h	Ambiguous Stele Cells	same_state_latest	full_rho	0.4199803336644918
+lateral_root_8h_to_20h	Ambiguous Stele Cells	shared_other_states	full_rho	0.0342021223437685
+lateral_root_8h_to_20h	Columella/ Root Cap	same_state_latest	full_rho	0.3367802192618334
+lateral_root_8h_to_20h	Columella/ Root Cap	shared_other_states	full_rho	0.0017414291925171
+lateral_root_8h_to_20h	Epidermis	same_state_latest	full_rho	0.1573817546881369
+lateral_root_8h_to_20h	Epidermis	shared_other_states	full_rho	-0.0607832293140859
+lateral_root_8h_to_20h	Lateral Root Endodermis	same_state_latest	full_rho	0.4212607922471222
+lateral_root_8h_to_20h	Lateral Root Endodermis	shared_other_states	full_rho	0.0212872821805218
+lateral_root_8h_to_20h	Mature Pericycle	same_state_latest	full_rho	0.3915000936595994
+lateral_root_8h_to_20h	Mature Pericycle	shared_other_states	full_rho	-0.0051898023632775
+lateral_root_8h_to_20h	Phloem	same_state_latest	full_rho	0.5003058588783644
+lateral_root_8h_to_20h	Phloem	shared_other_states	full_rho	0.0286220172097476
+lateral_root_8h_to_20h	Phloem Pole Pericycle	same_state_latest	full_rho	0.3660959243962689
+lateral_root_8h_to_20h	Phloem Pole Pericycle	shared_other_states	full_rho	0.0027954615369581
+lateral_root_8h_to_20h	Xylem	same_state_latest	full_rho	0.3792271037434332
+lateral_root_8h_to_20h	Xylem	shared_other_states	full_rho	-0.0042123096034748
+lateral_root_8h_to_20h	Xylem Pole Pericycle	same_state_latest	full_rho	0.245290907015801
+lateral_root_8h_to_20h	Xylem Pole Pericycle	shared_other_states	full_rho	0.0240958351867594
+lateral_root_8h_to_20h	Ambiguous Stele Cells	same_state_latest	top100_overlap	17.0
+lateral_root_8h_to_20h	Ambiguous Stele Cells	shared_other_states	top100_overlap	3.0
+lateral_root_8h_to_20h	Columella/ Root Cap	same_state_latest	top100_overlap	8.0
+lateral_root_8h_to_20h	Columella/ Root Cap	shared_other_states	top100_overlap	1.0
+lateral_root_8h_to_20h	Epidermis	same_state_latest	top100_overlap	4.0
+lateral_root_8h_to_20h	Epidermis	shared_other_states	top100_overlap	4.0
+lateral_root_8h_to_20h	Lateral Root Endodermis	same_state_latest	top100_overlap	13.0
+lateral_root_8h_to_20h	Lateral Root Endodermis	shared_other_states	top100_overlap	1.0
+lateral_root_8h_to_20h	Mature Pericycle	same_state_latest	top100_overlap	10.0
+lateral_root_8h_to_20h	Mature Pericycle	shared_other_states	top100_overlap	1.0
+lateral_root_8h_to_20h	Phloem	same_state_latest	top100_overlap	21.0
+lateral_root_8h_to_20h	Phloem	shared_other_states	top100_overlap	5.0
+lateral_root_8h_to_20h	Phloem Pole Pericycle	same_state_latest	top100_overlap	12.0
+lateral_root_8h_to_20h	Phloem Pole Pericycle	shared_other_states	top100_overlap	3.0
+lateral_root_8h_to_20h	Xylem	same_state_latest	top100_overlap	13.0
+lateral_root_8h_to_20h	Xylem	shared_other_states	top100_overlap	1.0
+lateral_root_8h_to_20h	Xylem Pole Pericycle	same_state_latest	top100_overlap	11.0
+lateral_root_8h_to_20h	Xylem Pole Pericycle	shared_other_states	top100_overlap	5.0
+GSE46205_1h_to_3h	epidermis	shared_other_states	full_rho	0.5295313003233604
+GSE46205_1h_to_3h	epidermis	same_state_latest	full_rho	0.7879020070184011
+GSE46205_1h_to_3h	cortex	shared_other_states	full_rho	0.5506231232768651
+GSE46205_1h_to_3h	cortex	same_state_latest	full_rho	0.6280324054308004
+GSE46205_1h_to_3h	endodermis	shared_other_states	full_rho	0.4701380086031838
+GSE46205_1h_to_3h	endodermis	same_state_latest	full_rho	0.6227117404744638
+GSE46205_1h_to_3h	stele	shared_other_states	full_rho	0.4762382367072897
+GSE46205_1h_to_3h	stele	same_state_latest	full_rho	0.8153182803936855
+GSE46205_1h_to_3h	epidermis	shared_other_states	top100_overlap	42.0
+GSE46205_1h_to_3h	epidermis	shared_other_states	top100_enrichment	95.802
+GSE46205_1h_to_3h	epidermis	same_state_latest	top100_overlap	49.0
+GSE46205_1h_to_3h	epidermis	same_state_latest	top100_enrichment	111.769
+GSE46205_1h_to_3h	cortex	shared_other_states	top100_overlap	18.0
+GSE46205_1h_to_3h	cortex	shared_other_states	top100_enrichment	41.058
+GSE46205_1h_to_3h	cortex	same_state_latest	top100_overlap	32.0
+GSE46205_1h_to_3h	cortex	same_state_latest	top100_enrichment	72.992
+GSE46205_1h_to_3h	endodermis	shared_other_states	top100_overlap	17.0
+GSE46205_1h_to_3h	endodermis	shared_other_states	top100_enrichment	38.777
+GSE46205_1h_to_3h	endodermis	same_state_latest	top100_overlap	39.0
+GSE46205_1h_to_3h	endodermis	same_state_latest	top100_enrichment	88.959
+GSE46205_1h_to_3h	stele	shared_other_states	top100_overlap	38.0
+GSE46205_1h_to_3h	stele	shared_other_states	top100_enrichment	86.67800000000001
+GSE46205_1h_to_3h	stele	same_state_latest	top100_overlap	55.0
+GSE46205_1h_to_3h	stele	same_state_latest	top100_enrichment	125.455
+GSE46205_3h_to_8h	epidermis	same_state_latest	full_rho	0.8951918451812722
+GSE46205_3h_to_8h	epidermis	shared_other_states	full_rho	0.5845375672313241
+GSE46205_3h_to_8h	cortex	same_state_latest	full_rho	0.8265255068740156
+GSE46205_3h_to_8h	cortex	shared_other_states	full_rho	0.661744473430287
+GSE46205_3h_to_8h	endodermis	same_state_latest	full_rho	0.8074175473904831
+GSE46205_3h_to_8h	endodermis	shared_other_states	full_rho	0.5559767418158836
+GSE46205_3h_to_8h	stele	same_state_latest	full_rho	0.7738553861730143
+GSE46205_3h_to_8h	stele	shared_other_states	full_rho	0.6127877024379595
+GSE46205_3h_to_8h	epidermis	same_state_latest	top100_overlap	62.0
+GSE46205_3h_to_8h	epidermis	same_state_latest	top100_enrichment	141.422
+GSE46205_3h_to_8h	epidermis	shared_other_states	top100_overlap	35.0
+GSE46205_3h_to_8h	epidermis	shared_other_states	top100_enrichment	79.83500000000001
+GSE46205_3h_to_8h	cortex	same_state_latest	top100_overlap	40.0
+GSE46205_3h_to_8h	cortex	same_state_latest	top100_enrichment	91.24
+GSE46205_3h_to_8h	cortex	shared_other_states	top100_overlap	35.0
+GSE46205_3h_to_8h	cortex	shared_other_states	top100_enrichment	79.83500000000001
+GSE46205_3h_to_8h	endodermis	same_state_latest	top100_overlap	66.0
+GSE46205_3h_to_8h	endodermis	same_state_latest	top100_enrichment	150.54600000000002
+GSE46205_3h_to_8h	endodermis	shared_other_states	top100_overlap	22.0
+GSE46205_3h_to_8h	endodermis	shared_other_states	top100_enrichment	50.182
+GSE46205_3h_to_8h	stele	same_state_latest	top100_overlap	52.0
+GSE46205_3h_to_8h	stele	same_state_latest	top100_enrichment	118.612
+GSE46205_3h_to_8h	stele	shared_other_states	top100_overlap	34.0
+GSE46205_3h_to_8h	stele	shared_other_states	top100_enrichment	77.554
+sulfur_3h_to_12h	whole_root	same_state_latest	top100_overlap	21.0
+sulfur_3h_to_12h	whole_root	same_state_latest	top100_enrichment	47.901
+sulfur_3h_to_12h	whole_root	same_state_latest	top100_direction	1.0
+sulfur_3h_to_12h	whole_root	same_state_latest	full_rho	0.5553168774938617

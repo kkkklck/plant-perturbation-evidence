@@ -1,0 +1,20 @@
+{
+  "analysis": "immune_missing_state_publication_statistics_v1",
+  "seed": 20261021,
+  "matched_null_draws_per_target": 10000,
+  "hierarchical_bootstrap_draws": 50000,
+  "independent_gate_units": 5,
+  "allowed_stimuli": [
+    "Pep1",
+    "SCOOP10",
+    "SCREW1"
+  ],
+  "rejected_stimuli": [
+    "flg22",
+    "Chitin"
+  ],
+  "matched_null_definition": "source-only control-detection quintile x source-response-dispersion quintile",
+  "multiple_testing": "Benjamini-Hochberg across 20 target-state top100 empirical tests",
+  "stimulus_level_inference_note": "gate is constant within stimulus; effective independent unit is stimulus, not target state",
+  "exact_gate_label_permutation_resolution": 0.1
+}

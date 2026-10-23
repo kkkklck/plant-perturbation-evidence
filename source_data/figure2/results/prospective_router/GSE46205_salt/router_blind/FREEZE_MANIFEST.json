@@ -1,0 +1,89 @@
+{
+  "status": "FROZEN_BEFORE_3H_TARGET",
+  "router_version": "v0.2",
+  "route": "强共享型",
+  "primary_predictor": "shared_other3_1h",
+  "source_geometry": {
+    "rank1_energy": 0.684686860851687,
+    "rank1_3_energy": 0.9373576306993556,
+    "median_pairwise_rho": 0.49953399903247653,
+    "median_loo_shared_rho": 0.5355401993061756,
+    "max_rank1_loading_share": 0.37370374215084273,
+    "effective_states": 3.6082058134879116,
+    "effective_state_fraction": 0.9020514533719779
+  },
+  "thresholds": {
+    "shared": {
+      "rank1_energy_min": 0.5,
+      "median_pairwise_rho_min": 0.35,
+      "effective_state_fraction_min": 0.5
+    },
+    "state_specific": {
+      "rank1_energy_max": 0.4,
+      "median_pairwise_rho_max": 0.2
+    }
+  },
+  "n_celltypes": 4,
+  "celltypes": [
+    "epidermis",
+    "cortex",
+    "endodermis",
+    "stele"
+  ],
+  "n_probes_per_celltype": 22810,
+  "target_samples": {
+    "epidermis": [
+      "GSM1126239",
+      "GSM1126240",
+      "GSM1126241"
+    ],
+    "cortex": [
+      "GSM1126263",
+      "GSM1126264",
+      "GSM1126265"
+    ],
+    "endodermis": [
+      "GSM1126287",
+      "GSM1126288",
+      "GSM1126289"
+    ],
+    "stele": [
+      "GSM1126311",
+      "GSM1126312",
+      "GSM1126313"
+    ]
+  },
+  "target_files_present": false,
+  "target_values_read": false,
+  "rules_sha256": "4932a070a4d70980457c6d5df4058131f4fcde24cbfa8657dee60dd248f2d72a",
+  "router_rules_sha256": "c2b6f7cf26b127219150b3f02007fa6129228fa99948c1b30cdf5972757bdf9d",
+  "source_sample_sha256": {
+    "GSM1126230": "811942ab01c56deda582096662503f68677671767c62a143583aff15d962ceef",
+    "GSM1126231": "42c3ca042985f74cc4be213a43f7883223e182aacda693438dc863913da30a85",
+    "GSM1126232": "ebaa2fd2ecc2fa41a28e5b87f3c110e56424018d52b8f450654a6ce6b86d9329",
+    "GSM1126236": "0ca262872d3a83a8280e6d647edd2d55751cc8e58051ef7e9a5f142c7de1e6a6",
+    "GSM1126237": "5df0db3f8f60b0a797f2affe7d29e37886196c8b8c6fe75264bbdd62ca60aa70",
+    "GSM1126238": "d222cf0d8b8f2d7e2154356b9af9d61203929e175e44457a16a495a664ab5c13",
+    "GSM1126254": "616f8e71676db1b135588bcb671cc3364f53bc0c790ca9d08cabb8fea8af8303",
+    "GSM1126255": "7e3bb37cc1f13d3c424bada0f560674e2489841df7df8d95b5c08c339854fe3f",
+    "GSM1126256": "e5a51a4e06049873a65d0dc05a15a7c0b8b4e8401375a66ff59ef5734a83d654",
+    "GSM1126260": "8a7e3262b96badd934aea4d7814bb744d2e02e14dcb0af8eabf55ae8d78ee51a",
+    "GSM1126261": "0760b17512a316e381b5c43578b1a99e503f3b536733335cf7c5eb8b086635d4",
+    "GSM1126262": "4aee1bcfc481593920c8c35b915b3c9b9e0c14447323ab7366a2e527c5a2383b",
+    "GSM1126278": "3c88bf4733cc3e7779025e9d2534cbc9b9897e664ce37c5243a489efb3dd3cbe",
+    "GSM1126279": "c4b127f123fa651337907c5f61a6e741f2356b8c73e28756b40250b6bf24ee69",
+    "GSM1126280": "c9a68b716a4be1f8d8981cdfe283376690a1854b7a6818fafe53447868aea887",
+    "GSM1126284": "7e4186580bd7791ddc9616208655ae10f67c6c927fa859994bff6c8924947511",
+    "GSM1126285": "f89b47b6a68c4297e0b308f93623b780d2680e65f238faedcfebd259208581e7",
+    "GSM1126286": "7f91ed9dd0ce715df738e513b57ef47dd2eea46439c0ed2037721cc055da0d18",
+    "GSM1126302": "a2527c1fa36de7cefa751e083d69a0599e4e54e94e0dfb0eb41263ba967d64e3",
+    "GSM1126303": "9747e1c16322b32fb7abb2171bef515a41548ba7c40d1e68bccb96b6acae1320",
+    "GSM1126304": "fc8fe36e5e464a633e760abefaab7137ff4d9d2ca2db4b5069833aa147f2da03",
+    "GSM1126308": "bb22a03cd3186c0031e1e7174b373c8b575ec7e16b9427d2cbb33d1b79dbfeb8",
+    "GSM1126309": "85e2932046f7f33c221473aa5756d782ac998adb623c36d88d1e2172c2ff0385",
+    "GSM1126310": "4e638fdf5fa5cd3f436fca602cfcd9b55b26bcf55f644c91a490e4ae99586b1c"
+  },
+  "prediction_sha256": "98b4e79ba5b10a5a3c17e54f43bff41a73622ce4df94232fcab6de17a05814f2",
+  "freeze_script_sha256": "a3a1d8e798e94d1b1e9570f8c7bc7ef7ec6231645a68a3437b4a547b212064a4",
+  "candidate_unit": "ATH1 probe set"
+}

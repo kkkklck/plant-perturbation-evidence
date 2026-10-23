@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: plant-perturbation-evidence
+message: "If you use this repository, please cite the associated manuscript when available."
+type: software
+version: 0.1.0
+license: MIT
+authors:
+  - name: "plant-perturbation-evidence contributors"

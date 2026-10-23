@@ -1,0 +1,31 @@
+{
+  "n_targets": 4,
+  "median_composition_rho": 0.5140263778903904,
+  "median_composition_sign_agreement_all": 0.6764641187792136,
+  "composition_beats_best_single_rho": 1,
+  "composition_ties_best_single_rho": 0,
+  "composition_beats_best_single_top100": 1,
+  "composition_ties_best_single_top100": 0,
+  "topk": {
+    "100": {
+      "median_overlap": 22.0,
+      "median_enrichment": 40.007,
+      "median_sign_agreement_overlap": 1.0
+    },
+    "250": {
+      "median_overlap": 85.0,
+      "median_enrichment": 24.7316,
+      "median_sign_agreement_overlap": 0.9933333333333334
+    },
+    "500": {
+      "median_overlap": 182.0,
+      "median_enrichment": 13.238679999999999,
+      "median_sign_agreement_overlap": 0.9889630078835658
+    },
+    "1000": {
+      "median_overlap": 382.5,
+      "median_enrichment": 6.9557625,
+      "median_sign_agreement_overlap": 0.9791310648420304
+    }
+  }
+}

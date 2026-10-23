@@ -1,0 +1,9 @@
+{
+  "status": "MAIN_DATASET_PREPROCESSING_SEMANTIC_AUDIT_COMPLETE",
+  "n_datasets": 8,
+  "n_pass": 7,
+  "n_corrected_post_reveal": 1,
+  "n_unresolved": 0,
+  "known_exception": "GSE46205 historical double-log implementation; corrected separately and provenance downgraded.",
+  "principle": "Manuscript preprocessing descriptions must follow the deposited data semantics, not infer scale from numeric magnitude alone."
+}

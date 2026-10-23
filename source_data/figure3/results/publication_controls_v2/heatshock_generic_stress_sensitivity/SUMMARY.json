@@ -1,0 +1,108 @@
+{
+  "purpose": "Test whether cross-study heat Top100 recovery is explained mainly by genes that are broadly strong responders across unrelated non-heat perturbations.",
+  "all_generic_definitions_use_source_only_nonheat_programs": true,
+  "baseline": {
+    "common_universe_genes": 2870,
+    "wrong_programs": [
+      "salt_6h",
+      "salt_3h",
+      "Pep1",
+      "SCOOP10",
+      "SCREW1",
+      "flg22",
+      "Chitin"
+    ],
+    "generic_score": "mean absolute-rank percentile across 7 non-heat programs",
+    "generic_top100_target_overlap": 6,
+    "true_heat_top100_target_overlap_same_common_universe": 38,
+    "true_minus_generic_overlap": 32
+  },
+  "sensitivities": [
+    {
+      "sensitivity": "none",
+      "excluded_genes": 0,
+      "remaining_genes": 2870,
+      "n_genes": 2870,
+      "spearman_full_vector": 0.500368815835271,
+      "top100_overlap": 38,
+      "top100_direction_agreement": 1.0
+    },
+    {
+      "sensitivity": "exclude_union_wrong_top100",
+      "excluded_genes": 365,
+      "remaining_genes": 2505,
+      "n_genes": 2505,
+      "spearman_full_vector": 0.5034699686450517,
+      "top100_overlap": 43,
+      "top100_direction_agreement": 1.0
+    },
+    {
+      "sensitivity": "exclude_recurrent_wrong_top100_ge2",
+      "excluded_genes": 182,
+      "remaining_genes": 2688,
+      "n_genes": 2688,
+      "spearman_full_vector": 0.5083400909627603,
+      "top100_overlap": 42,
+      "top100_direction_agreement": 1.0
+    },
+    {
+      "sensitivity": "exclude_recurrent_wrong_top250_ge2",
+      "excluded_genes": 428,
+      "remaining_genes": 2442,
+      "n_genes": 2442,
+      "spearman_full_vector": 0.5120566454805205,
+      "top100_overlap": 42,
+      "top100_direction_agreement": 1.0
+    },
+    {
+      "sensitivity": "exclude_panstress_top100_mean_rank",
+      "excluded_genes": 100,
+      "remaining_genes": 2770,
+      "n_genes": 2770,
+      "spearman_full_vector": 0.5056969339414779,
+      "top100_overlap": 40,
+      "top100_direction_agreement": 1.0
+    },
+    {
+      "sensitivity": "exclude_panstress_top250_mean_rank",
+      "excluded_genes": 250,
+      "remaining_genes": 2620,
+      "n_genes": 2620,
+      "spearman_full_vector": 0.5126088591705718,
+      "top100_overlap": 40,
+      "top100_direction_agreement": 1.0
+    }
+  ],
+  "original_overlap_generic_fraction": [
+    {
+      "generic_definition": "exclude_union_wrong_top100",
+      "original_heat_overlap_n": 38,
+      "overlap_genes_flagged_generic": 11,
+      "fraction_original_overlap_flagged_generic": 0.2894736842105263
+    },
+    {
+      "generic_definition": "exclude_recurrent_wrong_top100_ge2",
+      "original_heat_overlap_n": 38,
+      "overlap_genes_flagged_generic": 2,
+      "fraction_original_overlap_flagged_generic": 0.05263157894736842
+    },
+    {
+      "generic_definition": "exclude_recurrent_wrong_top250_ge2",
+      "original_heat_overlap_n": 38,
+      "overlap_genes_flagged_generic": 12,
+      "fraction_original_overlap_flagged_generic": 0.3157894736842105
+    },
+    {
+      "generic_definition": "exclude_panstress_top100_mean_rank",
+      "original_heat_overlap_n": 38,
+      "overlap_genes_flagged_generic": 1,
+      "fraction_original_overlap_flagged_generic": 0.02631578947368421
+    },
+    {
+      "generic_definition": "exclude_panstress_top250_mean_rank",
+      "original_heat_overlap_n": 38,
+      "overlap_genes_flagged_generic": 6,
+      "fraction_original_overlap_flagged_generic": 0.15789473684210525
+    }
+  ]
+}

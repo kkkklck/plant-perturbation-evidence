@@ -1,0 +1,26 @@
+{
+  "freeze_task_type": "future_time",
+  "freeze_primary_predictor": "persistent_whole_24h",
+  "rule_version": "task_structure_v0.1",
+  "n_probes": 22810,
+  "source_shared_geometry_descriptive_only": {
+    "rank1_energy": 0.38760284550727747,
+    "rank1_3_energy": 0.725311379753622,
+    "median_pairwise_rho": 0.27582059616904675,
+    "median_loo_shared_rho": 0.3715101682908638,
+    "max_rank1_loading_share": 0.34250400711509876,
+    "effective_states": 4.327462849665328,
+    "effective_state_fraction": 0.8654925699330656
+  },
+  "target_replicate_rho": 0.12272157900929632,
+  "target_replicate_top100_overlap": 10,
+  "primary_full_rho": 0.1071765893696974,
+  "alternative_full_rho": 0.051053599830715134,
+  "primary_top100_overlap": 6,
+  "alternative_top100_overlap": 0,
+  "primary_top100_enrichment": 13.686,
+  "alternative_top100_enrichment": 0.0,
+  "primary_top100_direction": 0.3333333333333333,
+  "primary_wins_full_vector": true,
+  "primary_wins_top100": true
+}

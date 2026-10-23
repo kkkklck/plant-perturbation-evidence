@@ -1,0 +1,29 @@
+{
+  "version": "PlantVC-v1.0-prototype-2026-10-20",
+  "status": "RANKED",
+  "task_name": "GSE158761 8h -> 20h | Xylem",
+  "regime": "persistent",
+  "input": "data/external_lateral_root/GSE158761/plantvc_v1_blind/evidence_xylem.tsv.gz",
+  "input_sha256": "e8c7cf3015460ea67a20087496fefc14e08402e356a62197c69c85e91d6f397f",
+  "config_sha256": "a14603467c743f7be15323c5c5f08bd4b4f7d6cb68eab7e0458cd6cb6cc133bf",
+  "ranking_sha256": "ec4c425638158b7a892007cbb9040a5f74c7aeb78ae6af9b456a64cfa718e7f1",
+  "n_input_rows": 18868,
+  "n_ranked_genes": 11376,
+  "top_k": [
+    100,
+    250,
+    500,
+    1000
+  ],
+  "method": {
+    "primary_evidence": "r8",
+    "history_columns_for_confidence_only": [
+      "r8_repA",
+      "r8_repB"
+    ],
+    "ranking_rule": "abs(r8) descending",
+    "confidence_affects_ranking": false
+  },
+  "important_note": "confidence_descriptor is an evidence-consistency descriptor, not a calibrated probability of correctness",
+  "generated_utc": "2026-10-20T14:21:45.153081+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "suite_version": "publication_baseline_suite_v1",
+  "k_primary": 100,
+  "principles": [
+    "Only target-compatible simple baselines are compared.",
+    "Main baseline rows use information available before target reveal.",
+    "Random ranking is represented by its analytic expectation rather than one arbitrary draw.",
+    "Cross-experiment wrong-perturbation controls are stored separately because each uses a matched common gene universe.",
+    "Combination component mean is intentionally retained even though positive rescaling makes its rank metrics identical to the simple sum."
+  ],
+  "n_rows_long": 194,
+  "n_rows_aggregate": 45,
+  "n_negative_controls": 7,
+  "task_families": [
+    "combination",
+    "cross_experiment",
+    "future_time",
+    "missing_state"
+  ],
+  "outputs": [
+    "baseline_suite_long.tsv",
+    "baseline_suite_aggregate.tsv",
+    "negative_controls_cross_experiment.tsv",
+    "manuscript_baseline_winners.tsv"
+  ]
+}

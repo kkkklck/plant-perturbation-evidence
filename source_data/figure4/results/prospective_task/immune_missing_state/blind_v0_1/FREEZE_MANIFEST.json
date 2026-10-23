@@ -1,0 +1,231 @@
+{
+  "status": "FROZEN_BEFORE_TARGET_REVEAL",
+  "rule_version": "task_structure_v0.1",
+  "task_type": "missing_state",
+  "stimuli": [
+    "flg22",
+    "Pep1",
+    "Chitin",
+    "SCOOP10",
+    "SCREW1"
+  ],
+  "source_states": [
+    "Rootcap_Columella",
+    "Meristem_Epidermis",
+    "Meristem_Endodermis",
+    "Meristem_Stele",
+    "Elongation_Epidermis",
+    "Elongation_Cortex",
+    "Elongation_Stele",
+    "Maturation_Epidermis",
+    "Maturation_Cortex",
+    "Maturation_Endodermis"
+  ],
+  "target_states_withheld": [
+    "Rootcap_LRC",
+    "Meristem_Cortex",
+    "Elongation_Endodermis",
+    "Maturation_Stele"
+  ],
+  "shared_thresholds": {
+    "rank1_energy_min": 0.5,
+    "median_pairwise_rho_min": 0.35,
+    "effective_state_fraction_min": 0.5
+  },
+  "routes": {
+    "flg22": {
+      "task_type": "missing_state",
+      "route": "REJECT_GENE_LEVEL",
+      "gene_level_output_allowed": false,
+      "source_geometry": {
+        "n_genes": 6227,
+        "n_source_states": 10,
+        "rank1_energy": 0.4079381087809185,
+        "rank1_3_energy": 0.6899650604624987,
+        "median_pairwise_rho": 0.28524956273806334,
+        "median_loo_shared_rho": 0.43154647547884045,
+        "max_rank1_loading_share": 0.23149388287289382,
+        "effective_states": 7.1865331437570035,
+        "effective_state_fraction": 0.7186533143757003
+      },
+      "thresholds": {
+        "rank1_energy_min": 0.5,
+        "median_pairwise_rho_min": 0.35,
+        "effective_state_fraction_min": 0.5
+      },
+      "n_frozen_genes": 6227,
+      "prediction_file": "data\\prospective_task\\immune_missing_state\\blind_v0_1\\FROZEN_flg22_PREDICTION.tsv.gz",
+      "prediction_sha256": "c85bbee1475471018dd2566e3566e9f502aa548ecbc19a1328e8f4918ffff348"
+    },
+    "Pep1": {
+      "task_type": "missing_state",
+      "route": "ALLOW_SHARED_GENE_LEVEL",
+      "gene_level_output_allowed": true,
+      "source_geometry": {
+        "n_genes": 6158,
+        "n_source_states": 10,
+        "rank1_energy": 0.7364424671584291,
+        "rank1_3_energy": 0.8664104385419282,
+        "median_pairwise_rho": 0.5018121911603245,
+        "median_loo_shared_rho": 0.7019206774449303,
+        "max_rank1_loading_share": 0.20630429467171374,
+        "effective_states": 7.7886492724477545,
+        "effective_state_fraction": 0.7788649272447754
+      },
+      "thresholds": {
+        "rank1_energy_min": 0.5,
+        "median_pairwise_rho_min": 0.35,
+        "effective_state_fraction_min": 0.5
+      },
+      "n_frozen_genes": 6158,
+      "prediction_file": "data\\prospective_task\\immune_missing_state\\blind_v0_1\\FROZEN_Pep1_PREDICTION.tsv.gz",
+      "prediction_sha256": "c7ec406e213cb80fcba418851616325c587c24f4245a52b703b4a36308651fe1"
+    },
+    "Chitin": {
+      "task_type": "missing_state",
+      "route": "REJECT_GENE_LEVEL",
+      "gene_level_output_allowed": false,
+      "source_geometry": {
+        "n_genes": 5102,
+        "n_source_states": 10,
+        "rank1_energy": 0.3547873993567279,
+        "rank1_3_energy": 0.6895669973220289,
+        "median_pairwise_rho": 0.2641465522826387,
+        "median_loo_shared_rho": 0.414921036565679,
+        "max_rank1_loading_share": 0.15179017203699696,
+        "effective_states": 9.176604594457643,
+        "effective_state_fraction": 0.9176604594457644
+      },
+      "thresholds": {
+        "rank1_energy_min": 0.5,
+        "median_pairwise_rho_min": 0.35,
+        "effective_state_fraction_min": 0.5
+      },
+      "n_frozen_genes": 5102,
+      "prediction_file": "data\\prospective_task\\immune_missing_state\\blind_v0_1\\FROZEN_Chitin_PREDICTION.tsv.gz",
+      "prediction_sha256": "65a71a4ed53a52b6f7b28c6b981b1dc34a2fb5a0807f8407c80b6dc93ac9b360"
+    },
+    "SCOOP10": {
+      "task_type": "missing_state",
+      "route": "ALLOW_SHARED_GENE_LEVEL",
+      "gene_level_output_allowed": true,
+      "source_geometry": {
+        "n_genes": 4406,
+        "n_source_states": 10,
+        "rank1_energy": 0.6704453415726317,
+        "rank1_3_energy": 0.826021269455347,
+        "median_pairwise_rho": 0.4143053974819242,
+        "median_loo_shared_rho": 0.5916771322678114,
+        "max_rank1_loading_share": 0.17558195270279567,
+        "effective_states": 8.819176786471134,
+        "effective_state_fraction": 0.8819176786471135
+      },
+      "thresholds": {
+        "rank1_energy_min": 0.5,
+        "median_pairwise_rho_min": 0.35,
+        "effective_state_fraction_min": 0.5
+      },
+      "n_frozen_genes": 4406,
+      "prediction_file": "data\\prospective_task\\immune_missing_state\\blind_v0_1\\FROZEN_SCOOP10_PREDICTION.tsv.gz",
+      "prediction_sha256": "c189fddcf68493e8b5aedb03fa0e0f3da29b0a7a583561838a22cbd8510543d9"
+    },
+    "SCREW1": {
+      "task_type": "missing_state",
+      "route": "ALLOW_SHARED_GENE_LEVEL",
+      "gene_level_output_allowed": true,
+      "source_geometry": {
+        "n_genes": 4704,
+        "n_source_states": 10,
+        "rank1_energy": 0.6738182410292696,
+        "rank1_3_energy": 0.8376360324283321,
+        "median_pairwise_rho": 0.44634792789877414,
+        "median_loo_shared_rho": 0.5688318527435015,
+        "max_rank1_loading_share": 0.1662200729510148,
+        "effective_states": 8.50225942201735,
+        "effective_state_fraction": 0.850225942201735
+      },
+      "thresholds": {
+        "rank1_energy_min": 0.5,
+        "median_pairwise_rho_min": 0.35,
+        "effective_state_fraction_min": 0.5
+      },
+      "n_frozen_genes": 4704,
+      "prediction_file": "data\\prospective_task\\immune_missing_state\\blind_v0_1\\FROZEN_SCREW1_PREDICTION.tsv.gz",
+      "prediction_sha256": "f5aa5a5e36fde2083fda78d10a5cf96bcf0ee6378b67ab605cc41846ab82b449"
+    }
+  },
+  "source_file_sha256": {
+    "flg22": {
+      "Rootcap_Columella": "ccf76b9ab816eb4f0e3bb18491523917307d639993d8893773311a2c07ed33c2",
+      "Meristem_Epidermis": "e146666b2ce1b86ae66908984fe3d8d2521d9d11a071ddcb1511c94809840fce",
+      "Meristem_Endodermis": "2d6aff1444d62aca5c0163708e1bb19fbecd0f63eb67e69dbea8a23ee44899f1",
+      "Meristem_Stele": "e1b80ce355b87c8c2ceb3ce5b53e38480047c8fdf05fe6046759a4ad5cb5be45",
+      "Elongation_Epidermis": "e75c82ceb55a8443d3412bdc5673e39f6a3a5ae04b2ec50bb4b71fd2c702e6f6",
+      "Elongation_Cortex": "a98c1d2845be412fd205af2cfb53579d4ab3f75c8c38742bd831a398fccb377e",
+      "Elongation_Stele": "5bf97f456a6519700cda13ef21a55d8d98c219379f94275c66d2ff8b30563c9c",
+      "Maturation_Epidermis": "870cf061f60b7b7093dea4aeeb1cd9708387897faebc8140250510e773e7fb33",
+      "Maturation_Cortex": "593b6bce034db541f7f1b3cf1aac7ad890d149d16d3f5d46365ec4c95127be07",
+      "Maturation_Endodermis": "65b14cb5319c113691e01e81f472ffdbcf40969e244402eb59e86bb2e975d1a6"
+    },
+    "Pep1": {
+      "Rootcap_Columella": "f6b49e88c51be651ed9a25a73352c2f74e5797e9599db3b9c8a1e8bde6768cc7",
+      "Meristem_Epidermis": "682e73fd909b742d665a44b9c38ced9081f1dc76c456c5dae92ad1cb466c6fba",
+      "Meristem_Endodermis": "ad53957bfc48ec33f51b8c21ffe0fd30f5243a7f04851bdc9ac4eb5c404a1ec0",
+      "Meristem_Stele": "089170abc11fb4306cf56fcfed46bbad7fc2150cd102423a05923fbf9fe459bd",
+      "Elongation_Epidermis": "72d2cfbfdded8e49f73bd6b7d4f2b593a0b6cb87b4efe1b709195426a4ada626",
+      "Elongation_Cortex": "4ebfeeb9570cca26f398ee318258bd55e10a7c51ab733a1b91654a115efdf958",
+      "Elongation_Stele": "6eaa34a342b233a3baa5bb6a84ff6f02938cd8d906a84cacb021972b3f9b9a3f",
+      "Maturation_Epidermis": "9b5e47a7447a8fe5a2d311ee4d8c448fb3f2277b64cc23cdfe19423202e9e733",
+      "Maturation_Cortex": "157e5f796af2812fcc6ce4196b549124b35a11653e461ce856a973dbc4135ba2",
+      "Maturation_Endodermis": "3a33df5eada1d8309146d45166ceacbf590ae60c60fba8ae3c866758e3acae3a"
+    },
+    "Chitin": {
+      "Rootcap_Columella": "ff110e3b9060bf025e694c0b05efe499a73bc880f46d9ed15abe30c87fc61b4f",
+      "Meristem_Epidermis": "f0d18fbc5e177248ebc2175d421397f4478744b97ba1ca05c8387608da76cf68",
+      "Meristem_Endodermis": "c87513d7fd3ad670d361ab3112d39e509de9418af56e84dd37fd39f7e5cf54f2",
+      "Meristem_Stele": "fc5d023480475bf7a00280465710f3de80dc160b04e2c3b69262dc2244fe5a0a",
+      "Elongation_Epidermis": "89946bd8ff9a62116c9481a6316b20ef15814cf46707e197b32619fc403e6e72",
+      "Elongation_Cortex": "d9c90198ece28bbb3ebf8fa640813c63c42aef1548523ef90513eef387985301",
+      "Elongation_Stele": "d2ac7c7541e14a2bd6110e08ef617da4113a94f783c24849df5bce68e69c2fe5",
+      "Maturation_Epidermis": "16f16eef7a0de3ee2b81ea30ffd0a54efec6ca6d90f034165e165a5556fae22a",
+      "Maturation_Cortex": "ec8890f374547eb426f2d4ddec1cb6479a97bc42a2be9db796f66e99dab4239d",
+      "Maturation_Endodermis": "c1cfd86f96ff1be797dde9b348313b191872f4fb27c4be3eca359de98453cf77"
+    },
+    "SCOOP10": {
+      "Rootcap_Columella": "c2822305ac5f488b9d5bd4941cb8a6bd9205bdc1e87cebe067c9d1331c109906",
+      "Meristem_Epidermis": "a0c887e0f9acaa5e9438e4a49424d8c5a0dca939110d559b3faba668f95bfa9d",
+      "Meristem_Endodermis": "5336d1cb060be4107b04e47ce42f03b2cbe5feb44fa32af96ccb12f9b1bb4e0d",
+      "Meristem_Stele": "6a807c97236092dd9eb43a9ad0b13e5f655f414c14f1262a254a944b911be5a2",
+      "Elongation_Epidermis": "aaa347145d5fe02b85d212dc3ddf1c1ca730e1d77ea8b7b5e57f11be769849b9",
+      "Elongation_Cortex": "9e413e7042262299288ea65e2342ed9b7bfef7001674930aa910342690981575",
+      "Elongation_Stele": "2c319f7f75f7490df4fc969e9a90b4c4a5f6021a596499d7ff5d2c0ee21b1b71",
+      "Maturation_Epidermis": "8aecd5f682c16c6ae44f334e9d98c7818030416f757848859d9e9d71f48ad28a",
+      "Maturation_Cortex": "39827790643fa3c81dc5f010b6b00a37815e82b1b5b36633197c245aafdda4d2",
+      "Maturation_Endodermis": "84cae3b7cac6043325e4b95d87e38b4c0d50c63d8ad3c6c7e427554d1c9fff32"
+    },
+    "SCREW1": {
+      "Rootcap_Columella": "4395e80452f4f2791614f304d2ff0731f634fea0896694f981374dc6f5f82365",
+      "Meristem_Epidermis": "115a1330a2c1746f13d31c0da5ce0a2a8f3978db4bb944b72356f863d6d8adf3",
+      "Meristem_Endodermis": "8a648966b895a9f4bca0e709dec3357eda307f1df9fc6ad21b52acf07cee558e",
+      "Meristem_Stele": "dd9dfc8091329ef3074207f1e469fac068ad88be49783fcdc0e9a8f1aa5c31f8",
+      "Elongation_Epidermis": "c8b581c391e9957c6a3fbfab02d97d88117fff38a1445654f290f33c95527d6c",
+      "Elongation_Cortex": "cb471916fd949df20fb7bac89753b41c56c3b1849da8dbbd74fa97c8d4028595",
+      "Elongation_Stele": "8529bb064469a47bde99482e3bbba231d5dde45459a7430e4322836a845683aa",
+      "Maturation_Epidermis": "353848c61c3a76fa7f807d6be2e6820b67b04afb3dba85993aeb90f7d62b3f91",
+      "Maturation_Cortex": "792d879b51d5ac1f948defb2ea256cde37ef1b78c7bbe8c9ef8dca10a083b7f9",
+      "Maturation_Endodermis": "9ef940dc82d64028c819c05cfb94b5cb3951af0c32fa2b7f9921c1dda96b9d6a"
+    }
+  },
+  "rule_sha256": "a0dd9cfa627d36b936b0e22132d5ea7f3a2b4116219a365cf853cdac4a26a778",
+  "task_rule_sha256": "5d7fe7d289f902c9e42166d96ba270ba047d59f362876ec6250164e88967129c",
+  "script_sha256": {
+    "140_immune_missing_state_source_firewall.R": "ba05a28f71fa05a8c35d83d1e6319a60309160a817f09c39f927e88af49a7082",
+    "141_immune_missing_state_freeze.py": "b9ef1de704c1e955eba307f22fc5b61b45a97534dd7346eadda58ec58c6d5512",
+    "142_immune_missing_state_target_firewall.R": "d86712793c3454e12e0d22a71ea4ff8409aad6c207b9118bf55e76133acc5606",
+    "143_immune_missing_state_score.py": "b4fecc4746792cfc7a3f7ffb94a318fed9e18164002c412de6ded9fe8178be96"
+  },
+  "target_files_present": false,
+  "target_values_read_by_prediction": false,
+  "upstream_monolithic_rds_firewall_limitation": true,
+  "upstream_target_values_used_for_any_decision": false
+}

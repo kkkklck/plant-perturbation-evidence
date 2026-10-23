@@ -1,0 +1,4 @@
+# Preserve archived bytes and hashes on every operating system.
+* -text whitespace=cr-at-eol
+# Final empty TSV fields are part of the tabular schema.
+*.tsv whitespace=cr-at-eol,-blank-at-eol

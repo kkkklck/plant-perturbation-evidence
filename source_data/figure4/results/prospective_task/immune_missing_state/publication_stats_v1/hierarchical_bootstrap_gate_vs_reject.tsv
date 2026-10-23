@@ -1,0 +1,4 @@
+outcome	n_stimuli	n_allowed_stimuli	n_rejected_stimuli	allowed_stimulus_equalweight_mean	rejected_stimulus_equalweight_mean	difference_allow_minus_reject	bootstrap_ci025	bootstrap_ci975	bootstrap_prob_difference_gt0	exact_stimulus_label_permutation_p_one_sided	exact_permutation_n
+full_rho	5	3	2	0.5348388927473499	0.3062427138370977	0.22859617891025213	0.0880445168472114	0.36634905031653725	0.99928	0.1	10
+top100_overlap	5	3	2	58.916666666666664	27.125	31.791666666666664	21.5	43.416666666666664	1.0	0.1	10
+top100_matched_enrichment	5	3	2	5.463230263584292	5.0067995119773325	0.4564307516069599	-0.9536596866818703	2.109681884859772	0.70346	0.4	10

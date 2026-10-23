@@ -1,0 +1,29 @@
+{
+  "version": "PlantVC-v1.0-prototype-2026-10-20",
+  "status": "RANKED",
+  "task_name": "GSE158761 8h -> 20h | Mature Pericycle",
+  "regime": "persistent",
+  "input": "data/external_lateral_root/GSE158761/plantvc_v1_blind/evidence_mature_pericycle.tsv.gz",
+  "input_sha256": "fac0887e3a94a0c8ed01be542b3e81ad125b298bb7a18c0a66e2d6a4ebf96801",
+  "config_sha256": "e54d0fa7ecdc30c29937fb040158e12dcd323fa4a45013d36bd1ecbd67f8c761",
+  "ranking_sha256": "9244792ed79aa41af2be7cccf127f15b3feb0494cfc29dbe5d0f22a68db7975c",
+  "n_input_rows": 18868,
+  "n_ranked_genes": 11746,
+  "top_k": [
+    100,
+    250,
+    500,
+    1000
+  ],
+  "method": {
+    "primary_evidence": "r8",
+    "history_columns_for_confidence_only": [
+      "r8_repA",
+      "r8_repB"
+    ],
+    "ranking_rule": "abs(r8) descending",
+    "confidence_affects_ranking": false
+  },
+  "important_note": "confidence_descriptor is an evidence-consistency descriptor, not a calibrated probability of correctness",
+  "generated_utc": "2026-10-20T14:21:42.325921+00:00"
+}

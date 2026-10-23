@@ -1,0 +1,53 @@
+{
+  "seed": 20261021,
+  "n_permutations_each": 10000,
+  "n_tests": 16,
+  "all_16_q_lt_0_05": true,
+  "matching_variables": [
+    "control mean expression",
+    "absolute control difference between matched batches"
+  ],
+  "purpose": "Test whether cross-replicate Top100 stability exceeds what is expected from genes with similar baseline expression and baseline stability.",
+  "condition_summary": [
+    {
+      "condition": "Mild.Drought",
+      "n_tissue_systems": 4,
+      "median_observed_overlap": 12.0,
+      "median_null_mean": 0.95665,
+      "median_matched_enrichment": 12.611002721136945,
+      "min_matched_enrichment": 12.146643109540637,
+      "n_q_lt_0_05": 4,
+      "max_q": 9.999000099990002e-05
+    },
+    {
+      "condition": "Mild.Salinity",
+      "n_tissue_systems": 4,
+      "median_observed_overlap": 13.0,
+      "median_null_mean": 0.7999,
+      "median_matched_enrichment": 16.784483319000074,
+      "min_matched_enrichment": 14.443909484833895,
+      "n_q_lt_0_05": 4,
+      "max_q": 9.999000099990002e-05
+    },
+    {
+      "condition": "Moderate.Drought",
+      "n_tissue_systems": 4,
+      "median_observed_overlap": 29.0,
+      "median_null_mean": 0.68175,
+      "median_matched_enrichment": 42.53766969024801,
+      "min_matched_enrichment": 41.1522633744856,
+      "n_q_lt_0_05": 4,
+      "max_q": 9.999000099990002e-05
+    },
+    {
+      "condition": "Moderate.Salinity",
+      "n_tissue_systems": 4,
+      "median_observed_overlap": 22.5,
+      "median_null_mean": 0.71835,
+      "median_matched_enrichment": 30.94050667981616,
+      "min_matched_enrichment": 29.850746268656717,
+      "n_q_lt_0_05": 4,
+      "max_q": 9.999000099990002e-05
+    }
+  ]
+}

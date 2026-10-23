@@ -1,0 +1,362 @@
+section	dataset	context	model	metric	value	aux	note
+frozen_reveal_primary_results	salt_3h_to_6h	all	same_state_latest	top100_overlap	30.0		
+frozen_reveal_primary_results	salt_3h_to_6h	all	same_state_latest	top100_enrichment	42.423		
+frozen_reveal_primary_results	salt_3h_to_6h	all	same_state_latest	top100_direction	1.0		
+frozen_reveal_primary_results	salt_6h_to_12h	all	same_state_latest	top100_overlap	30.0		
+frozen_reveal_primary_results	salt_6h_to_12h	all	same_state_latest	top100_enrichment	42.696		
+frozen_reveal_primary_results	salt_6h_to_12h	all	same_state_latest	top100_direction	1.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Ambiguous Stele Cells	same_state_latest	full_rho	0.4199803336644918		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Ambiguous Stele Cells	shared_other_states	full_rho	0.0342021223437685		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Columella/ Root Cap	same_state_latest	full_rho	0.3367802192618334		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Columella/ Root Cap	shared_other_states	full_rho	0.0017414291925171		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Epidermis	same_state_latest	full_rho	0.1573817546881369		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Epidermis	shared_other_states	full_rho	-0.0607832293140859		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Lateral Root Endodermis	same_state_latest	full_rho	0.4212607922471222		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Lateral Root Endodermis	shared_other_states	full_rho	0.0212872821805218		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Mature Pericycle	same_state_latest	full_rho	0.3915000936595994		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Mature Pericycle	shared_other_states	full_rho	-0.0051898023632775		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Phloem	same_state_latest	full_rho	0.5003058588783644		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Phloem	shared_other_states	full_rho	0.0286220172097476		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Phloem Pole Pericycle	same_state_latest	full_rho	0.3660959243962689		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Phloem Pole Pericycle	shared_other_states	full_rho	0.0027954615369581		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Xylem	same_state_latest	full_rho	0.3792271037434332		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Xylem	shared_other_states	full_rho	-0.0042123096034748		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Xylem Pole Pericycle	same_state_latest	full_rho	0.245290907015801		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Xylem Pole Pericycle	shared_other_states	full_rho	0.0240958351867594		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Ambiguous Stele Cells	same_state_latest	top100_overlap	17.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Ambiguous Stele Cells	shared_other_states	top100_overlap	3.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Columella/ Root Cap	same_state_latest	top100_overlap	8.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Columella/ Root Cap	shared_other_states	top100_overlap	1.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Epidermis	same_state_latest	top100_overlap	4.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Epidermis	shared_other_states	top100_overlap	4.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Lateral Root Endodermis	same_state_latest	top100_overlap	13.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Lateral Root Endodermis	shared_other_states	top100_overlap	1.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Mature Pericycle	same_state_latest	top100_overlap	10.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Mature Pericycle	shared_other_states	top100_overlap	1.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Phloem	same_state_latest	top100_overlap	21.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Phloem	shared_other_states	top100_overlap	5.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Phloem Pole Pericycle	same_state_latest	top100_overlap	12.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Phloem Pole Pericycle	shared_other_states	top100_overlap	3.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Xylem	same_state_latest	top100_overlap	13.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Xylem	shared_other_states	top100_overlap	1.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Xylem Pole Pericycle	same_state_latest	top100_overlap	11.0		
+frozen_reveal_primary_results	lateral_root_8h_to_20h	Xylem Pole Pericycle	shared_other_states	top100_overlap	5.0		
+frozen_reveal_primary_results	sulfur_3h_to_12h	whole_root	same_state_latest	top100_overlap	21.0		
+frozen_reveal_primary_results	sulfur_3h_to_12h	whole_root	same_state_latest	top100_enrichment	47.901		
+frozen_reveal_primary_results	sulfur_3h_to_12h	whole_root	same_state_latest	top100_direction	1.0		
+frozen_reveal_primary_results	sulfur_3h_to_12h	whole_root	same_state_latest	full_rho	0.5553168774938617		
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	epidermis	same_state_history	spearman_full_vector	0.7969156614709333		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	epidermis	same_state_history	top100_overlap	45.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	epidermis	same_state_history	top100_enrichment	102.645		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	epidermis	same_state_history	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	epidermis	shared_other3	spearman_full_vector	0.5756527636214724		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	epidermis	shared_other3	top100_overlap	45.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	epidermis	shared_other3	top100_enrichment	102.645		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	epidermis	shared_other3	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	cortex	same_state_history	spearman_full_vector	0.6260010542490462		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	cortex	same_state_history	top100_overlap	26.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	cortex	same_state_history	top100_enrichment	59.306		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	cortex	same_state_history	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	cortex	shared_other3	spearman_full_vector	0.5755901588586372		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	cortex	shared_other3	top100_overlap	17.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	cortex	shared_other3	top100_enrichment	38.777		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	cortex	shared_other3	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	endodermis	same_state_history	spearman_full_vector	0.641524711416776		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	endodermis	same_state_history	top100_overlap	36.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	endodermis	same_state_history	top100_enrichment	82.116		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	endodermis	same_state_history	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	endodermis	shared_other3	spearman_full_vector	0.4952449056713239		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	endodermis	shared_other3	top100_overlap	15.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	endodermis	shared_other3	top100_enrichment	34.215		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	endodermis	shared_other3	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	stele	same_state_history	spearman_full_vector	0.8238810606006236		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	stele	same_state_history	top100_overlap	50.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	stele	same_state_history	top100_enrichment	114.05		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	stele	same_state_history	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	stele	shared_other3	spearman_full_vector	0.5061533051586148		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	stele	shared_other3	top100_overlap	36.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	stele	shared_other3	top100_enrichment	82.116		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_3h_corrected	stele	shared_other3	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	epidermis	same_state_history	spearman_full_vector	0.906627219841146		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	epidermis	same_state_history	top100_overlap	64.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	epidermis	same_state_history	top100_enrichment	145.984		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	epidermis	same_state_history	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	epidermis	shared_other3	spearman_full_vector	0.608712256655532		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	epidermis	shared_other3	top100_overlap	31.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	epidermis	shared_other3	top100_enrichment	70.711		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	epidermis	shared_other3	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	cortex	same_state_history	spearman_full_vector	0.8483174614914929		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	cortex	same_state_history	top100_overlap	43.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	cortex	same_state_history	top100_enrichment	98.083		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	cortex	same_state_history	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	cortex	shared_other3	spearman_full_vector	0.6771255629922286		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	cortex	shared_other3	top100_overlap	30.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	cortex	shared_other3	top100_enrichment	68.43		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	cortex	shared_other3	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	endodermis	same_state_history	spearman_full_vector	0.8157225857394826		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	endodermis	same_state_history	top100_overlap	66.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	endodermis	same_state_history	top100_enrichment	150.54600000000002		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	endodermis	same_state_history	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	endodermis	shared_other3	spearman_full_vector	0.5771383041806714		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	endodermis	shared_other3	top100_overlap	17.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	endodermis	shared_other3	top100_enrichment	38.777		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	endodermis	shared_other3	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	stele	same_state_history	spearman_full_vector	0.7850104897158908		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	stele	same_state_history	top100_overlap	49.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	stele	same_state_history	top100_enrichment	111.769		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	stele	same_state_history	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	stele	shared_other3	spearman_full_vector	0.6298412305478247		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	stele	shared_other3	top100_overlap	37.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	stele	shared_other3	top100_enrichment	84.397		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+post_reveal_preprocessing_corrected_results	GSE46205_salt_8h_corrected	stele	shared_other3	top100_direction	1.0		Deposited GCRMA VALUE used directly; corrected after target reveal, so these scores are not labeled untouched prospective results.
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	history_mean_1h_3h_6h	median_rho	0.432246629917511	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	history_mean_1h_3h_6h	mean_rho	0.432246629917511	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	history_mean_1h_3h_6h	median_top100_overlap	24.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	history_mean_1h_3h_6h	mean_top100_overlap	24.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	history_mean_1h_3h_6h	median_top100_enrichment	34.1568	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	history_mean_1h_3h_6h	median_top100_direction	1.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	latest_6h	median_rho	0.4782137375338084	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	latest_6h	mean_rho	0.4782137375338084	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	latest_6h	median_top100_overlap	30.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	latest_6h	mean_top100_overlap	30.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	latest_6h	median_top100_enrichment	42.696	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	latest_6h	median_top100_direction	1.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_all_0_1_3_6_to_12h	median_rho	0.4321304821823234	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_all_0_1_3_6_to_12h	mean_rho	0.4321304821823234	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_all_0_1_3_6_to_12h	median_top100_overlap	30.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_all_0_1_3_6_to_12h	mean_top100_overlap	30.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_all_0_1_3_6_to_12h	median_top100_enrichment	42.696	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_all_0_1_3_6_to_12h	median_top100_direction	1.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_last2_3h_6h_to_12h	median_rho	0.2593098110347862	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_last2_3h_6h_to_12h	mean_rho	0.2593098110347862	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_last2_3h_6h_to_12h	median_top100_overlap	16.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_last2_3h_6h_to_12h	mean_top100_overlap	16.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_last2_3h_6h_to_12h	median_top100_enrichment	22.7712	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	linear_last2_3h_6h_to_12h	median_top100_direction	0.875	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	older_3h	median_rho	0.3060496224668149	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	older_3h	mean_rho	0.3060496224668149	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	older_3h	median_top100_overlap	16.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	older_3h	mean_top100_overlap	16.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	older_3h	median_top100_enrichment	22.7712	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	older_3h	median_top100_direction	1.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	oldest_1h	median_rho	0.3397628473425307	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	oldest_1h	mean_rho	0.3397628473425307	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	oldest_1h	median_top100_overlap	15.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	oldest_1h	mean_top100_overlap	15.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	oldest_1h	median_top100_enrichment	21.348	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	oldest_1h	median_top100_direction	1.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	random_rank_expectation	median_rho	0.0	n_contexts=1; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	random_rank_expectation	mean_rho	0.0	n_contexts=1; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	random_rank_expectation	median_top100_overlap	0.7026419336706015	n_contexts=1; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	random_rank_expectation	mean_top100_overlap	0.7026419336706015	n_contexts=1; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_12h	aggregate	random_rank_expectation	median_top100_enrichment	1.0	n_contexts=1; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	history_mean_1h_3h	median_rho	0.5324132961268031	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	history_mean_1h_3h	mean_rho	0.5324132961268031	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	history_mean_1h_3h	median_top100_overlap	29.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	history_mean_1h_3h	mean_top100_overlap	29.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	history_mean_1h_3h	median_top100_enrichment	41.0089	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	history_mean_1h_3h	median_top100_direction	1.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	latest_3h	median_rho	0.599226841702849	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	latest_3h	mean_rho	0.599226841702849	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	latest_3h	median_top100_overlap	30.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	latest_3h	mean_top100_overlap	30.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	latest_3h	median_top100_enrichment	42.423	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	latest_3h	median_top100_direction	1.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_last2_to_6h	median_rho	0.4927222262356681	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_last2_to_6h	mean_rho	0.4927222262356681	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_last2_to_6h	median_top100_overlap	36.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_last2_to_6h	mean_top100_overlap	36.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_last2_to_6h	median_top100_enrichment	50.9076	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_last2_to_6h	median_top100_direction	1.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_with_baseline_0_1_3_to_6h	median_rho	0.5992268554877525	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_with_baseline_0_1_3_to_6h	mean_rho	0.5992268554877525	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_with_baseline_0_1_3_to_6h	median_top100_overlap	30.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_with_baseline_0_1_3_to_6h	mean_top100_overlap	30.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_with_baseline_0_1_3_to_6h	median_top100_enrichment	42.423	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	linear_with_baseline_0_1_3_to_6h	median_top100_direction	1.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	older_1h	median_rho	0.3687976400201112	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	older_1h	mean_rho	0.3687976400201112	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	older_1h	median_top100_overlap	16.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	older_1h	mean_top100_overlap	16.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	older_1h	median_top100_enrichment	22.6256	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	older_1h	median_top100_direction	1.0	n_contexts=1; class=strong_baseline; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	random_rank_expectation	median_rho	0.0	n_contexts=1; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	random_rank_expectation	mean_rho	0.0	n_contexts=1; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	random_rank_expectation	median_top100_overlap	0.7071635669330316	n_contexts=1; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	random_rank_expectation	mean_top100_overlap	0.7071635669330316	n_contexts=1; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE153103_salt_6h	aggregate	random_rank_expectation	median_top100_enrichment	1.0	n_contexts=1; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	history_mean_1h_3h	median_rho	0.7964265870208351	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	history_mean_1h_3h	mean_rho	0.8085985627071359	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	history_mean_1h_3h	median_top100_overlap	48.0	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	history_mean_1h_3h	mean_top100_overlap	47.5	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	history_mean_1h_3h	median_top100_enrichment	109.488	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	history_mean_1h_3h	median_top100_direction	1.0	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	latest_3h	median_rho	0.8320200236154878	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	latest_3h	mean_rho	0.8389194391970031	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	latest_3h	median_top100_overlap	56.5	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	latest_3h	mean_top100_overlap	55.5	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	latest_3h	median_top100_enrichment	128.87650000000002	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	latest_3h	median_top100_direction	1.0	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_last2_to_8h	median_rho	0.615370753267143	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_last2_to_8h	mean_rho	0.5907320058911264	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_last2_to_8h	median_top100_overlap	37.5	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_last2_to_8h	mean_top100_overlap	37.5	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_last2_to_8h	median_top100_enrichment	85.5375	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_last2_to_8h	median_top100_direction	1.0	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_with_baseline_0_1_3_to_8h	median_rho	0.82808835906286	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_with_baseline_0_1_3_to_8h	mean_rho	0.8356433751910227	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_with_baseline_0_1_3_to_8h	median_top100_overlap	56.5	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_with_baseline_0_1_3_to_8h	mean_top100_overlap	55.0	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_with_baseline_0_1_3_to_8h	median_top100_enrichment	128.87650000000002	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	linear_with_baseline_0_1_3_to_8h	median_top100_direction	1.0	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	older_1h	median_rho	0.6818601731598961	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	older_1h	mean_rho	0.6680350356562041	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	older_1h	median_top100_overlap	32.0	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	older_1h	mean_top100_overlap	32.75	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	older_1h	median_top100_enrichment	72.992	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	older_1h	median_top100_direction	1.0	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	random_rank_expectation	median_rho	0.0	n_contexts=4; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	random_rank_expectation	mean_rho	0.0	n_contexts=4; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	random_rank_expectation	median_top100_overlap	0.4384042086804033	n_contexts=4; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	random_rank_expectation	mean_top100_overlap	0.4384042086804032	n_contexts=4; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	random_rank_expectation	median_top100_enrichment	1.0	n_contexts=4; class=random_expectation; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	shared_other_states_3h	median_rho	0.6192767436016784	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	shared_other_states_3h	mean_rho	0.6232043385940642	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	shared_other_states_3h	median_top100_overlap	30.5	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	shared_other_states_3h	mean_top100_overlap	28.75	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	shared_other_states_3h	median_top100_enrichment	69.57050000000001	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+strong_baseline_aggregate	GSE46205_salt_8h	aggregate	shared_other_states_3h	median_top100_direction	1.0	n_contexts=4; class=strong_baseline_corrected; pretarget=True	
+matched_empirical_null	GSE153103_salt_6h	bulk	primary_future_time_prediction	observed_overlap	30.0		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	GSE153103_salt_6h	bulk	primary_future_time_prediction	null_mean	3.6826		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	GSE153103_salt_6h	bulk	primary_future_time_prediction	null_q99	8.0		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	GSE153103_salt_6h	bulk	primary_future_time_prediction	matched_enrichment	8.146418291424537		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	GSE153103_salt_6h	bulk	primary_future_time_prediction	empirical_p_one_sided	9.999000099990002e-05		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	GSE153103_salt_6h	bulk	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0001999800019998		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	GSE153103_salt_12h	bulk	primary_future_time_prediction	observed_overlap	30.0		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	GSE153103_salt_12h	bulk	primary_future_time_prediction	null_mean	3.2145		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	GSE153103_salt_12h	bulk	primary_future_time_prediction	null_q99	8.0		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	GSE153103_salt_12h	bulk	primary_future_time_prediction	matched_enrichment	9.332711152589829		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	GSE153103_salt_12h	bulk	primary_future_time_prediction	empirical_p_one_sided	9.999000099990002e-05		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	GSE153103_salt_12h	bulk	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0001999800019998		see original script 152; baseline expression + source temporal variability
+matched_empirical_null	sulfur_3h_to_12h	bulk	primary_future_time_prediction	observed_overlap	21.0		0h mean expression quintile + 3h source-replicate response-SD quintile
+matched_empirical_null	sulfur_3h_to_12h	bulk	primary_future_time_prediction	null_mean	0.9363		0h mean expression quintile + 3h source-replicate response-SD quintile
+matched_empirical_null	sulfur_3h_to_12h	bulk	primary_future_time_prediction	null_q99	4.0		0h mean expression quintile + 3h source-replicate response-SD quintile
+matched_empirical_null	sulfur_3h_to_12h	bulk	primary_future_time_prediction	matched_enrichment	22.42870874719641		0h mean expression quintile + 3h source-replicate response-SD quintile
+matched_empirical_null	sulfur_3h_to_12h	bulk	primary_future_time_prediction	empirical_p_one_sided	9.999000099990002e-05		0h mean expression quintile + 3h source-replicate response-SD quintile
+matched_empirical_null	sulfur_3h_to_12h	bulk	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0001999800019998		0h mean expression quintile + 3h source-replicate response-SD quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Ambiguous Stele Cells	primary_future_time_prediction	observed_overlap	17.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Ambiguous Stele Cells	primary_future_time_prediction	null_mean	8.2691		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Ambiguous Stele Cells	primary_future_time_prediction	null_q99	14.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Ambiguous Stele Cells	primary_future_time_prediction	matched_enrichment	2.055846464548741		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Ambiguous Stele Cells	primary_future_time_prediction	empirical_p_one_sided	0.0007999200079992		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Ambiguous Stele Cells	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0011635200116352		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Columella/ Root Cap	primary_future_time_prediction	observed_overlap	8.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Columella/ Root Cap	primary_future_time_prediction	null_mean	4.7874		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Columella/ Root Cap	primary_future_time_prediction	null_q99	9.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Columella/ Root Cap	primary_future_time_prediction	matched_enrichment	1.6710531812674938		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Columella/ Root Cap	primary_future_time_prediction	empirical_p_one_sided	0.0684931506849315		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Columella/ Root Cap	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0782778864970645		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Epidermis	primary_future_time_prediction	observed_overlap	4.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Epidermis	primary_future_time_prediction	null_mean	2.5622		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Epidermis	primary_future_time_prediction	null_q99	6.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Epidermis	primary_future_time_prediction	matched_enrichment	1.5611583795176025		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Epidermis	primary_future_time_prediction	empirical_p_one_sided	0.2472752724727527		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Epidermis	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.2472752724727527		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Lateral Root Endodermis	primary_future_time_prediction	observed_overlap	13.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Lateral Root Endodermis	primary_future_time_prediction	null_mean	6.265		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Lateral Root Endodermis	primary_future_time_prediction	null_q99	11.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Lateral Root Endodermis	primary_future_time_prediction	matched_enrichment	2.0750199521149244		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Lateral Root Endodermis	primary_future_time_prediction	empirical_p_one_sided	0.0025997400259974		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Lateral Root Endodermis	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0034663200346632		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Mature Pericycle	primary_future_time_prediction	observed_overlap	10.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Mature Pericycle	primary_future_time_prediction	null_mean	7.3785		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Mature Pericycle	primary_future_time_prediction	null_q99	13.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Mature Pericycle	primary_future_time_prediction	matched_enrichment	1.3552890153825303		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Mature Pericycle	primary_future_time_prediction	empirical_p_one_sided	0.173982601739826		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Mature Pericycle	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.1855814418558144		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem	primary_future_time_prediction	observed_overlap	21.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem	primary_future_time_prediction	null_mean	9.6075		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem	primary_future_time_prediction	null_q99	15.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem	primary_future_time_prediction	matched_enrichment	2.185792349726776		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem	primary_future_time_prediction	empirical_p_one_sided	9.999000099990002e-05		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0001999800019998		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem Pole Pericycle	primary_future_time_prediction	observed_overlap	12.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem Pole Pericycle	primary_future_time_prediction	null_mean	4.0815		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem Pole Pericycle	primary_future_time_prediction	null_q99	9.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem Pole Pericycle	primary_future_time_prediction	matched_enrichment	2.940095553105476		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem Pole Pericycle	primary_future_time_prediction	empirical_p_one_sided	0.0002999700029997		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Phloem Pole Pericycle	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0004799520047995		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem	primary_future_time_prediction	observed_overlap	13.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem	primary_future_time_prediction	null_mean	8.6487		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem	primary_future_time_prediction	null_q99	13.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem	primary_future_time_prediction	matched_enrichment	1.5031160752483033		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem	primary_future_time_prediction	empirical_p_one_sided	0.0213978602139786		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0263358279556659		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem Pole Pericycle	primary_future_time_prediction	observed_overlap	11.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem Pole Pericycle	primary_future_time_prediction	null_mean	3.2284		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem Pole Pericycle	primary_future_time_prediction	null_q99	7.0		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem Pole Pericycle	primary_future_time_prediction	matched_enrichment	3.4072605625077435		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem Pole Pericycle	primary_future_time_prediction	empirical_p_one_sided	0.0001999800019998		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE158761_lateral_root_8h_to_20h	Xylem Pole Pericycle	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0003555200035552		|8h same-state response| ventile + 8h replicate-disagreement quintile
+matched_empirical_null	GSE46205_salt_8h	epidermis	primary_future_time_prediction	observed_overlap	64.0		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	epidermis	primary_future_time_prediction	null_mean	3.5562		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	epidermis	primary_future_time_prediction	null_q99	8.0		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	epidermis	primary_future_time_prediction	matched_enrichment	17.996738091220966		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	epidermis	primary_future_time_prediction	empirical_p_one_sided	9.999000099990002e-05		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	epidermis	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0001999800019998		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	cortex	primary_future_time_prediction	observed_overlap	43.0		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	cortex	primary_future_time_prediction	null_mean	3.2923		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	cortex	primary_future_time_prediction	null_q99	8.0		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	cortex	primary_future_time_prediction	matched_enrichment	13.06077817938827		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	cortex	primary_future_time_prediction	empirical_p_one_sided	9.999000099990002e-05		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	cortex	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0001999800019998		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	endodermis	primary_future_time_prediction	observed_overlap	66.0		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	endodermis	primary_future_time_prediction	null_mean	2.9141		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	endodermis	primary_future_time_prediction	null_q99	7.0		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	endodermis	primary_future_time_prediction	matched_enrichment	22.64850211042861		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	endodermis	primary_future_time_prediction	empirical_p_one_sided	9.999000099990002e-05		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	endodermis	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0001999800019998		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	stele	primary_future_time_prediction	observed_overlap	49.0		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	stele	primary_future_time_prediction	null_mean	2.8122		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	stele	primary_future_time_prediction	null_q99	7.0		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	stele	primary_future_time_prediction	matched_enrichment	17.424080790839913		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	stele	primary_future_time_prediction	empirical_p_one_sided	9.999000099990002e-05		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+matched_empirical_null	GSE46205_salt_8h	stele	primary_future_time_prediction	q_bh_all_future_time_tests_corrected	0.0001999800019998		native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile
+paired_context_inference	GSE158761_lateral_root_20h	full_vector_rho	same_state_minus_shared	mean_paired_difference	0.3528071312428463	n_contexts=9; permutations=512	
+paired_context_inference	GSE158761_lateral_root_20h	full_vector_rho	same_state_minus_shared	median_paired_difference	0.383439413346908	n_contexts=9; permutations=512	
+paired_context_inference	GSE158761_lateral_root_20h	full_vector_rho	same_state_minus_shared	wins	9.0	n_contexts=9; permutations=512	
+paired_context_inference	GSE158761_lateral_root_20h	full_vector_rho	same_state_minus_shared	ties	0.0	n_contexts=9; permutations=512	
+paired_context_inference	GSE158761_lateral_root_20h	full_vector_rho	same_state_minus_shared	losses	0.0	n_contexts=9; permutations=512	
+paired_context_inference	GSE158761_lateral_root_20h	full_vector_rho	same_state_minus_shared	exact_signflip_p_one_sided	0.001953125	n_contexts=9; permutations=512	
+paired_context_inference	GSE158761_lateral_root_20h	top100_overlap	same_state_minus_shared	mean_paired_difference	9.444444444444445	n_contexts=9; permutations=512	
+paired_context_inference	GSE158761_lateral_root_20h	top100_overlap	same_state_minus_shared	median_paired_difference	9.0	n_contexts=9; permutations=512	
+paired_context_inference	GSE158761_lateral_root_20h	top100_overlap	same_state_minus_shared	wins	8.0	n_contexts=9; permutations=512	
+paired_context_inference	GSE158761_lateral_root_20h	top100_overlap	same_state_minus_shared	ties	1.0	n_contexts=9; permutations=512	
+paired_context_inference	GSE158761_lateral_root_20h	top100_overlap	same_state_minus_shared	losses	0.0	n_contexts=9; permutations=512	
+paired_context_inference	GSE158761_lateral_root_20h	top100_overlap	same_state_minus_shared	exact_signflip_p_one_sided	0.00390625	n_contexts=9; permutations=512	
+paired_context_inference	GSE46205_salt_3h_corrected	spearman_full_vector	same_state_minus_shared	mean_paired_difference	0.1839203386068327	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_3h_corrected	spearman_full_vector	same_state_minus_shared	median_paired_difference	0.1837713517974565	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_3h_corrected	spearman_full_vector	same_state_minus_shared	wins	4.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_3h_corrected	spearman_full_vector	same_state_minus_shared	ties	0.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_3h_corrected	spearman_full_vector	same_state_minus_shared	losses	0.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_3h_corrected	spearman_full_vector	same_state_minus_shared	exact_signflip_p_one_sided	0.0625	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_3h_corrected	top100_overlap	same_state_minus_shared	mean_paired_difference	11.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_3h_corrected	top100_overlap	same_state_minus_shared	median_paired_difference	11.5	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_3h_corrected	top100_overlap	same_state_minus_shared	wins	3.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_3h_corrected	top100_overlap	same_state_minus_shared	ties	1.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_3h_corrected	top100_overlap	same_state_minus_shared	losses	0.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_3h_corrected	top100_overlap	same_state_minus_shared	exact_signflip_p_one_sided	0.125	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	spearman_full_vector	same_state_minus_shared	mean_paired_difference	0.2157151006029389	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	spearman_full_vector	same_state_minus_shared	median_paired_difference	0.2048880900290378	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	spearman_full_vector	same_state_minus_shared	wins	4.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	spearman_full_vector	same_state_minus_shared	ties	0.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	spearman_full_vector	same_state_minus_shared	losses	0.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	spearman_full_vector	same_state_minus_shared	exact_signflip_p_one_sided	0.0625	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	top100_overlap	same_state_minus_shared	mean_paired_difference	26.75	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	top100_overlap	same_state_minus_shared	median_paired_difference	23.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	top100_overlap	same_state_minus_shared	wins	4.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	top100_overlap	same_state_minus_shared	ties	0.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	top100_overlap	same_state_minus_shared	losses	0.0	n_contexts=4; permutations=16	
+paired_context_inference	GSE46205_salt_8h_corrected	top100_overlap	same_state_minus_shared	exact_signflip_p_one_sided	0.0625	n_contexts=4; permutations=16	
+source_structure_context	GSE46205_salt_3h_test_corrected	1h_source	cross_state_source_structure	rank1_energy_fraction	0.7289499091483366		Post-reveal preprocessing correction using deposited GCRMA log2 values directly; original task split unchanged.
+source_structure_context	GSE46205_salt_8h_test_corrected	3h_source	cross_state_source_structure	rank1_energy_fraction	0.744648398399414		Post-reveal preprocessing correction using deposited GCRMA log2 values directly; rule choice had been fixed before 8h target reveal, but corrected numerical score is post-reveal.

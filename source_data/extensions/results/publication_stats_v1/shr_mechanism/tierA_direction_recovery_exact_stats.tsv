@@ -1,0 +1,3 @@
+property	n	successes	fraction	CI95_low	CI95_high	binomial_null_p	binomial_p_one_sided
+expected_direction	8	6	0.75	0.3491442055871758	0.9681459737500557	0.5	0.14453125
+toward_WT	8	7	0.875	0.47349032912479344	0.9968402764687481	0.5	0.03515625

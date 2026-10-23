@@ -1,0 +1,5 @@
+{
+  "unit_of_inference": "cell type/state context, not genes",
+  "test": "exact paired sign-flip permutation on mean difference",
+  "alternative": "same-state history > broad/shared comparator"
+}

@@ -1,0 +1,29 @@
+{
+  "version": "PlantVC-v1.0-prototype-2026-10-20",
+  "status": "RANKED",
+  "task_name": "GSE158761 8h -> 20h | Phloem",
+  "regime": "persistent",
+  "input": "data/external_lateral_root/GSE158761/plantvc_v1_blind/evidence_phloem.tsv.gz",
+  "input_sha256": "0b369cf4676c6a9a5cd2b940a4be6d3bdad7545d5c465668ae46c54d72ffafa5",
+  "config_sha256": "e5cfbf86748aa1704ad75bcd8b1e2e96b0e4b5c897a6d2f60fd46112a6724b04",
+  "ranking_sha256": "6234bb15ca58a93415078817e822f25536a3f2068375f49dd5b1b2aa7684b86e",
+  "n_input_rows": 18868,
+  "n_ranked_genes": 8767,
+  "top_k": [
+    100,
+    250,
+    500,
+    1000
+  ],
+  "method": {
+    "primary_evidence": "r8",
+    "history_columns_for_confidence_only": [
+      "r8_repA",
+      "r8_repB"
+    ],
+    "ranking_rule": "abs(r8) descending",
+    "confidence_affects_ranking": false
+  },
+  "important_note": "confidence_descriptor is an evidence-consistency descriptor, not a calibrated probability of correctness",
+  "generated_utc": "2026-10-20T14:21:43.193681+00:00"
+}

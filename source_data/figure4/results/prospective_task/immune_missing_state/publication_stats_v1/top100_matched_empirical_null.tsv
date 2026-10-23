@@ -1,0 +1,21 @@
+stimulus	target_state	gene_level_output_allowed	k	match_variables	n_genes	observed_overlap	null_mean	null_median	null_q025	null_q975	empirical_enrichment_vs_matched_mean	empirical_p_one_sided	empirical_q_bh_20_targets
+flg22	Rootcap_LRC	False	100	source_control_detection_quintile + source_response_dispersion_quintile	6227	33	7.7633	8.0	3.0	13.0	4.250769646928497	9.999000099990002e-05	0.0001052526326314737
+flg22	Meristem_Cortex	False	100	source_control_detection_quintile + source_response_dispersion_quintile	6227	39	5.215	5.0	1.0	10.0	7.478427612655801	9.999000099990002e-05	0.0001052526326314737
+flg22	Elongation_Endodermis	False	100	source_control_detection_quintile + source_response_dispersion_quintile	6227	20	3.9349	4.0	1.0	8.0	5.082721288978119	9.999000099990002e-05	0.0001052526326314737
+flg22	Maturation_Stele	False	100	source_control_detection_quintile + source_response_dispersion_quintile	6227	29	6.0621	6.0	2.0	11.0	4.783820788175714	9.999000099990002e-05	0.0001052526326314737
+Pep1	Rootcap_LRC	True	100	source_control_detection_quintile + source_response_dispersion_quintile	6158	59	10.473	10.0	5.0	16.0	5.633533848944905	9.999000099990002e-05	0.0001052526326314737
+Pep1	Meristem_Cortex	True	100	source_control_detection_quintile + source_response_dispersion_quintile	6158	60	8.3669	8.0	4.0	14.0	7.171114749787855	9.999000099990002e-05	0.0001052526326314737
+Pep1	Elongation_Endodermis	True	100	source_control_detection_quintile + source_response_dispersion_quintile	6158	71	10.7682	11.0	6.0	17.0	6.593488233873813	9.999000099990002e-05	0.0001052526326314737
+Pep1	Maturation_Stele	True	100	source_control_detection_quintile + source_response_dispersion_quintile	6158	66	10.446	10.0	5.0	16.0	6.318207926479035	9.999000099990002e-05	0.0001052526326314737
+Chitin	Rootcap_LRC	False	100	source_control_detection_quintile + source_response_dispersion_quintile	5102	39	6.6215	6.0	2.0	12.0	5.889904100279392	9.999000099990002e-05	0.0001052526326314737
+Chitin	Meristem_Cortex	False	100	source_control_detection_quintile + source_response_dispersion_quintile	5102	5	4.706	5.0	1.0	9.0	1.0624734381640457	0.5143485651434857	0.5143485651434857
+Chitin	Elongation_Endodermis	False	100	source_control_detection_quintile + source_response_dispersion_quintile	5102	17	2.9558	3.0	0.0	7.0	5.751404019216456	9.999000099990002e-05	0.0001052526326314737
+Chitin	Maturation_Stele	False	100	source_control_detection_quintile + source_response_dispersion_quintile	5102	35	6.0818	6.0	2.0	11.0	5.7548752014206315	9.999000099990002e-05	0.0001052526326314737
+SCOOP10	Rootcap_LRC	True	100	source_control_detection_quintile + source_response_dispersion_quintile	4406	62	13.7122	14.0	8.0	20.0	4.521520981315908	9.999000099990002e-05	0.0001052526326314737
+SCOOP10	Meristem_Cortex	True	100	source_control_detection_quintile + source_response_dispersion_quintile	4406	42	10.0761	10.0	5.0	16.0	4.168279393813083	9.999000099990002e-05	0.0001052526326314737
+SCOOP10	Elongation_Endodermis	True	100	source_control_detection_quintile + source_response_dispersion_quintile	4406	49	9.3236	9.0	4.0	15.0	5.255480715603414	9.999000099990002e-05	0.0001052526326314737
+SCOOP10	Maturation_Stele	True	100	source_control_detection_quintile + source_response_dispersion_quintile	4406	75	12.0356	12.0	7.0	18.0	6.231513177573199	9.999000099990002e-05	0.0001052526326314737
+SCREW1	Rootcap_LRC	True	100	source_control_detection_quintile + source_response_dispersion_quintile	4704	64	13.7922	14.0	8.0	20.0	4.640303939908065	9.999000099990002e-05	0.0001052526326314737
+SCREW1	Meristem_Cortex	True	100	source_control_detection_quintile + source_response_dispersion_quintile	4704	46	8.9842	9.0	4.0	14.0	5.120099730638231	9.999000099990002e-05	0.0001052526326314737
+SCREW1	Elongation_Endodermis	True	100	source_control_detection_quintile + source_response_dispersion_quintile	4704	49	10.4827	10.0	5.0	16.0	4.674368244822422	9.999000099990002e-05	0.0001052526326314737
+SCREW1	Maturation_Stele	True	100	source_control_detection_quintile + source_response_dispersion_quintile	4704	64	12.2351	12.0	7.0	18.0	5.230852220251571	9.999000099990002e-05	0.0001052526326314737

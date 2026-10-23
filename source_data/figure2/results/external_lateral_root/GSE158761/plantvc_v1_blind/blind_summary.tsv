@@ -1,0 +1,3 @@
+model	n_contexts	median_full_vector_rho	median_sign_agreement_all	median_top100_overlap	median_top100_enrichment	median_top100_direction_agreement	median_top250_overlap	median_top250_enrichment	median_top250_direction_agreement	median_top500_overlap	median_top500_enrichment	median_top500_direction_agreement	median_top1000_overlap	median_top1000_enrichment	median_top1000_direction_agreement
+PlantVC_persistent_same_state	9	0.3792271037434332	0.6184414359803327	12.0	14.7888	1.0	33.0	6.272032	1.0	99.0	4.959936	1.0	256.0	3.033303	0.9926739926739927
+frozen_broad_shared	9	0.0027954615369581346	0.49705304518664045	3.0	4.1727	0.0	9.0	2.002176	0.36363636363636365	28.0	1.5147840000000001	0.4423076923076923	97.0	1.2657189999999998	0.5032679738562091

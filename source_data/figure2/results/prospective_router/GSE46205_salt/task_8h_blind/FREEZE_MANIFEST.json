@@ -1,0 +1,81 @@
+{
+  "status": "FROZEN_BEFORE_8H_TARGET",
+  "rule_version": "task_structure_v0.1",
+  "task_type": "future_time",
+  "decision": "最近同状态历史",
+  "primary_predictor": "same_state_3h",
+  "alternative_predictor": "shared_other3_3h",
+  "shared_geometry_3h_descriptive_only": {
+    "rank1_energy": 0.7217165387620608,
+    "rank1_3_energy": 0.9524612380454269,
+    "median_pairwise_rho": 0.5388789225608552,
+    "median_loo_shared_rho": 0.6320768054777195,
+    "max_rank1_loading_share": 0.35046308497913725,
+    "effective_states": 3.494839081675542,
+    "effective_state_fraction": 0.8737097704188855
+  },
+  "n_celltypes": 4,
+  "celltypes": [
+    "epidermis",
+    "cortex",
+    "endodermis",
+    "stele"
+  ],
+  "n_probes_per_celltype": 22810,
+  "target_8h_samples": {
+    "epidermis": [
+      "GSM1126242",
+      "GSM1126243",
+      "GSM1126244"
+    ],
+    "cortex": [
+      "GSM1126266",
+      "GSM1126267",
+      "GSM1126268"
+    ],
+    "endodermis": [
+      "GSM1126290",
+      "GSM1126291",
+      "GSM1126292"
+    ],
+    "stele": [
+      "GSM1126314",
+      "GSM1126315",
+      "GSM1126316"
+    ]
+  },
+  "target_values_read": false,
+  "target_files_present": false,
+  "rule_sha256": "5d7fe7d289f902c9e42166d96ba270ba047d59f362876ec6250164e88967129c",
+  "source_control_sha256": {
+    "GSM1126230": "811942ab01c56deda582096662503f68677671767c62a143583aff15d962ceef",
+    "GSM1126231": "42c3ca042985f74cc4be213a43f7883223e182aacda693438dc863913da30a85",
+    "GSM1126232": "ebaa2fd2ecc2fa41a28e5b87f3c110e56424018d52b8f450654a6ce6b86d9329",
+    "GSM1126254": "616f8e71676db1b135588bcb671cc3364f53bc0c790ca9d08cabb8fea8af8303",
+    "GSM1126255": "7e3bb37cc1f13d3c424bada0f560674e2489841df7df8d95b5c08c339854fe3f",
+    "GSM1126256": "e5a51a4e06049873a65d0dc05a15a7c0b8b4e8401375a66ff59ef5734a83d654",
+    "GSM1126278": "3c88bf4733cc3e7779025e9d2534cbc9b9897e664ce37c5243a489efb3dd3cbe",
+    "GSM1126279": "c4b127f123fa651337907c5f61a6e741f2356b8c73e28756b40250b6bf24ee69",
+    "GSM1126280": "c9a68b716a4be1f8d8981cdfe283376690a1854b7a6818fafe53447868aea887",
+    "GSM1126302": "a2527c1fa36de7cefa751e083d69a0599e4e54e94e0dfb0eb41263ba967d64e3",
+    "GSM1126303": "9747e1c16322b32fb7abb2171bef515a41548ba7c40d1e68bccb96b6acae1320",
+    "GSM1126304": "fc8fe36e5e464a633e760abefaab7137ff4d9d2ca2db4b5069833aa147f2da03"
+  },
+  "history_3h_sha256": {
+    "GSM1126239": "76f7d879c2343f6ac798c3ac5272fcb78664388fa2a6696d7ef3dd39f80623e9",
+    "GSM1126240": "4b827059b21c316b732d02e65d2b0f151160dda1063e129cb288d0a977a65401",
+    "GSM1126241": "c05d7a5bfb3369b131e27915b92ae5d2e494dfa067bcd01542347a63a8272aab",
+    "GSM1126263": "7248d0a7888849f99e0ce67c47eff626c0fe84f543145e366d81401f8bd13567",
+    "GSM1126264": "b05b6c5060ba8c67ce78a89b725cd2383ad66753c06641e57c3db9d71a9654b8",
+    "GSM1126265": "4a48d399696b4e1fa954ef131e23ef1d189d49519c2d1a2de02204fb6faf90d0",
+    "GSM1126287": "3416c1629994df1f1824ddefa9f98b8adc3fd38a148b4e74a7f482002b55a0cd",
+    "GSM1126288": "14a48b865c1e89630ffa1f0f3cb0697acee7a7310a37cff02548456c48922769",
+    "GSM1126289": "df75aff04170d420597f5a9eb7f1235f84e769d59a9f782c4c886bd13fb133f5",
+    "GSM1126311": "8480891cd7e05fdf7e915b475ec725b3e808ffe91314d71cbd864002414bd0a1",
+    "GSM1126312": "6c01df9a6de364509d9affc738401bca13b05e748d7f256dacfb2609b051da38",
+    "GSM1126313": "afbdff8dce4c5cc6c72d8c3b3ba9450d80e1ef1cb69bef1166c7ba7de61345c5"
+  },
+  "prediction_sha256": "4dd7ff45d8e579797ae5e209281edf8e763e2182dc2b7e76ede3f11fe320e4f4",
+  "freeze_script_sha256": "5182c1bc912cda1a934ca5c305a04ed8107222d330a102b03df794b165177604",
+  "candidate_unit": "ATH1 probe set"
+}

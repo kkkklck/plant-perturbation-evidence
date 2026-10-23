@@ -1,0 +1,49 @@
+{
+  "freeze_task_type": "future_time",
+  "freeze_primary_predictor": "same_state_3h",
+  "rule_version": "task_structure_v0.1",
+  "n_celltypes": 4,
+  "n_probes_per_celltype": 22810,
+  "shared_geometry_3h_descriptive_only": {
+    "rank1_energy": 0.7217165387620608,
+    "rank1_3_energy": 0.9524612380454269,
+    "median_pairwise_rho": 0.5388789225608552,
+    "median_loo_shared_rho": 0.6320768054777195,
+    "max_rank1_loading_share": 0.35046308497913725,
+    "effective_states": 3.494839081675542,
+    "effective_state_fraction": 0.8737097704188855
+  },
+  "target_replicate_rho_median": 0.7864169811960069,
+  "target_replicate_top100_overlap_median": 68.5,
+  "primary_full_rho_by_celltype": {
+    "epidermis": 0.8951918451812722,
+    "cortex": 0.8265255068740156,
+    "endodermis": 0.8074175473904831,
+    "stele": 0.7738553861730143
+  },
+  "alternative_full_rho_by_celltype": {
+    "epidermis": 0.5845375672313241,
+    "cortex": 0.661744473430287,
+    "endodermis": 0.5559767418158836,
+    "stele": 0.6127877024379595
+  },
+  "primary_full_rho_median": 0.8169715271322493,
+  "alternative_full_rho_median": 0.5986626348346418,
+  "primary_full_vector_wins": 4,
+  "primary_top100_overlap_by_celltype": {
+    "epidermis": 62,
+    "cortex": 40,
+    "endodermis": 66,
+    "stele": 52
+  },
+  "alternative_top100_overlap_by_celltype": {
+    "epidermis": 35,
+    "cortex": 35,
+    "endodermis": 22,
+    "stele": 34
+  },
+  "primary_top100_wins": 4,
+  "primary_top100_ties": 0,
+  "primary_top100_enrichment_median": 130.017,
+  "primary_top100_direction_median": 1.0
+}

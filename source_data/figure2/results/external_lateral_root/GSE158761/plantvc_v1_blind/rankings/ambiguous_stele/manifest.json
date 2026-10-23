@@ -1,0 +1,29 @@
+{
+  "version": "PlantVC-v1.0-prototype-2026-10-20",
+  "status": "RANKED",
+  "task_name": "GSE158761 8h -> 20h | Ambiguous Stele Cells",
+  "regime": "persistent",
+  "input": "data/external_lateral_root/GSE158761/plantvc_v1_blind/evidence_ambiguous_stele.tsv.gz",
+  "input_sha256": "cf6e6fa92f3500b5c8d2b296aa050b5090b93647080ea1adc9fc1ddf604016b6",
+  "config_sha256": "00a950575c8af8eefa28b89bb5fcd4cfc38cd6bf8c769d7255698026ace97553",
+  "ranking_sha256": "8b7232dcfa80b43a2b55a3386c5c25f8be1919d2b209c8c6c8f68290249cc1b1",
+  "n_input_rows": 18868,
+  "n_ranked_genes": 13909,
+  "top_k": [
+    100,
+    250,
+    500,
+    1000
+  ],
+  "method": {
+    "primary_evidence": "r8",
+    "history_columns_for_confidence_only": [
+      "r8_repA",
+      "r8_repB"
+    ],
+    "ranking_rule": "abs(r8) descending",
+    "confidence_affects_ranking": false
+  },
+  "important_note": "confidence_descriptor is an evidence-consistency descriptor, not a calibrated probability of correctness",
+  "generated_utc": "2026-10-20T14:21:37.774406+00:00"
+}

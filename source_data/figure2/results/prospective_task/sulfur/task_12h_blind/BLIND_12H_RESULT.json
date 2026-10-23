@@ -1,0 +1,13 @@
+{
+  "freeze_task_type": "future_time",
+  "freeze_primary_predictor": "same_state_3h",
+  "rule_version": "task_structure_v0.1",
+  "n_probes": 22810,
+  "target_replicate_rho": 0.4557485261119089,
+  "target_replicate_top100_overlap": 10,
+  "primary_full_rho": 0.5553168774938617,
+  "primary_sign_agreement_all_nonzero": 0.7270056992547128,
+  "primary_top100_overlap": 21,
+  "primary_top100_enrichment": 47.901,
+  "primary_top100_direction": 1.0
+}

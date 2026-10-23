@@ -1,0 +1,5 @@
+dataset	context	n_genes	k	observed_overlap	null_mean	null_sd	null_q95	null_q99	matched_enrichment	empirical_p_one_sided	matching_variables	preprocessing_status
+GSE46205_salt_8h	epidermis	22810	100	64	3.5562	1.8102401102963366	7.0	8.0	17.996738091220966	9.999000099990002e-05	native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile	corrected_post_reveal_native_GCRMA_log2
+GSE46205_salt_8h	cortex	22810	100	43	3.2923	1.7257921502471223	6.0	8.0	13.06077817938827	9.999000099990002e-05	native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile	corrected_post_reveal_native_GCRMA_log2
+GSE46205_salt_8h	endodermis	22810	100	66	2.9141	1.6392040412922666	6.0	7.0	22.648502110428606	9.999000099990002e-05	native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile	corrected_post_reveal_native_GCRMA_log2
+GSE46205_salt_8h	stele	22810	100	49	2.8122	1.6346248376419537	6.0	7.0	17.424080790839913	9.999000099990002e-05	native GCRMA control expression quintile + 0h/1h/3h history dispersion quintile	corrected_post_reveal_native_GCRMA_log2

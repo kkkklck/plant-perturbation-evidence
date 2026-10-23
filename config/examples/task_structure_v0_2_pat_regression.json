@@ -1,0 +1,10 @@
+{
+  "task_name": "PAT组合回归_v0.2",
+  "task_type": "combination",
+  "input": "data/external_combination/GSE253757/combination_blind/FROZEN_COMBINATION_PREDICTIONS.tsv.gz",
+  "gene_column": "gene",
+  "component_columns": ["resp_path1", "resp_path2"],
+  "filter": {"column": "technical_universe", "equals": true},
+  "output_dir": "data/task_structure_v0_2_regression/pat_path1_path2",
+  "top_k": [100, 250, 500, 1000]
+}

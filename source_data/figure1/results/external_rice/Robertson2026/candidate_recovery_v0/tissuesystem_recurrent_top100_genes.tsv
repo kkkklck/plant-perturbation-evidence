@@ -1,0 +1,134 @@
+condition	gene	direction	n_tissue_systems	tissue_systems	median_abs_delta_rep1	median_abs_delta_rep2
+Mild.Drought	Os05g0256350	down	4	Epidermis | Meristem | Mesophyll | Vasculature	3.310914400278115	3.24602144334352
+Mild.Drought	Os02g0513100	up	4	Epidermis | Meristem | Mesophyll | Vasculature	2.9301626837463766	1.7993939043939151
+Mild.Drought	Os01g0356800	down	4	Epidermis | Meristem | Mesophyll | Vasculature	1.93341901513501	1.93746743955829
+Mild.Drought	Os01g0232000	down	4	Epidermis | Meristem | Mesophyll | Vasculature	1.6621376431366799	1.8160508406393099
+Mild.Drought	Os02g0259900	up	3	Epidermis | Meristem | Mesophyll	1.8338611134494311	1.5287980492751299
+Mild.Drought	Os11g0158666	up	2	Epidermis | Mesophyll	1.8296582521641849	1.876800650315455
+Mild.Drought	Os01g0136100	up	2	Epidermis | Mesophyll	1.7870095262922319	3.746960078091475
+Mild.Drought	Os01g0705200	up	2	Epidermis | Meristem	1.70912108876307	2.065936149763501
+Mild.Drought	Os02g0537000	up	1	Meristem	2.8554188657852797	1.58223471992109
+Mild.Drought	Os07g0209100	up	1	Vasculature	2.2173732113314095	2.37143187373995
+Mild.Drought	Os10g0492900	up	1	Epidermis	2.194496193580123	1.4868325667546598
+Mild.Drought	Os09g0109600	up	1	Vasculature	2.134663221483889	1.9107811979411522
+Mild.Drought	Os05g0519700	up	1	Meristem	2.06972787745315	1.5807801659443097
+Mild.Drought	Os07g0169100	down	1	Mesophyll	1.96179784905843	1.75430421169757
+Mild.Drought	Os08g0535200	down	1	Mesophyll	1.8747280596021	1.5034493302315801
+Mild.Drought	Os10g0552600	down	1	Mesophyll	1.797352927261412	1.60971370280263
+Mild.Drought	Os01g0522800	up	1	Mesophyll	1.79253950805276	1.99442816114845
+Mild.Drought	Os05g0506800	down	1	Mesophyll	1.76451629905934	1.54071590715459
+Mild.Drought	Os04g0415800	up	1	Vasculature	1.7407132848368951	2.428682479730088
+Mild.Drought	Os11g0219750	down	1	Vasculature	1.73669220637074	2.22524447511874
+Mild.Drought	Os02g0306401	down	1	Meristem	1.6920101430559848	2.281836903144442
+Mild.Drought	Os06g0552900	up	1	Vasculature	1.6911393913200399	2.49912947401027
+Mild.Drought	Os03g0643050	up	1	Epidermis	1.68506762567598	1.642670236915234
+Mild.Drought	Os10g0552700	down	1	Mesophyll	1.60046665463977	1.3829675820723302
+Mild.Drought	Os05g0560200	up	1	Meristem	1.5583567664740599	1.90510109436741
+Mild.Drought	Os01g0952800	down	1	Epidermis	1.4960459060312101	1.6233267361329702
+Mild.Drought	Os05g0217800	down	1	Epidermis	1.43423200447691	1.83967726011175
+Mild.Salinity	Os05g0256350	down	4	Epidermis | Meristem | Mesophyll | Vasculature	3.24602144334352	3.287089410989425
+Mild.Salinity	Os04g0445100	up	4	Epidermis | Meristem | Mesophyll | Vasculature	2.894561419295445	1.3658230576876291
+Mild.Salinity	Os11g0575600	down	4	Epidermis | Meristem | Mesophyll | Vasculature	2.50134983283934	2.520248748080875
+Mild.Salinity	Os02g0513100	up	3	Epidermis | Meristem | Mesophyll	3.57012316092355	1.3319181849660802
+Mild.Salinity	Os11g0533400	up	3	Epidermis | Mesophyll | Vasculature	3.198558941227182	1.448226390622501
+Mild.Salinity	Os06g0159900	up	3	Epidermis | Mesophyll | Vasculature	3.04600775326989	1.7523960938192404
+Mild.Salinity	Os10g0419300	up	3	Epidermis | Meristem | Mesophyll	2.94408420866562	1.2623271273706202
+Mild.Salinity	Os11g0244200	up	3	Epidermis | Mesophyll | Vasculature	2.55692814366631	1.5448351317116251
+Mild.Salinity	Os07g0540500	down	3	Epidermis | Meristem | Vasculature	2.26741576089312	1.94496970671894
+Mild.Salinity	Os08g0531900	up	2	Meristem | Vasculature	3.14569872235129	1.638912705786816
+Mild.Salinity	Os06g0195800	up	2	Meristem | Vasculature	2.669200648972671	1.458730412392726
+Mild.Salinity	Os03g0729000	up	1	Mesophyll	3.013446103048881	1.2410998749672668
+Mild.Salinity	Os08g0546800	up	1	Mesophyll	2.742127754502208	1.364264923648547
+Mild.Salinity	Os06g0728700	up	1	Epidermis	2.73459659058613	1.2376298868757198
+Mild.Salinity	Os02g0106100	up	1	Mesophyll	2.73332854596532	1.41537530713881
+Mild.Salinity	Os02g0463500	down	1	Vasculature	2.58683284627717	2.5025415272897
+Mild.Salinity	Os10g0410750	down	1	Meristem	2.52721173356893	1.86907766312757
+Mild.Salinity	Os05g0296800	up	1	Mesophyll	2.523713986633684	1.4633371449003048
+Mild.Salinity	Os11g0158666	up	1	Vasculature	2.39583941951568	2.32316050338078
+Mild.Salinity	Os10g0492900	up	1	Vasculature	2.3210631615455	1.4933688093455801
+Mild.Salinity	Os11g0670900	up	1	Vasculature	2.1763043753043823	1.6743424873054031
+Mild.Salinity	Os10g0445400	down	1	Epidermis	2.161142409713746	1.248054036096664
+Mild.Salinity	Os05g0542500	up	1	Epidermis	2.06959218385498	1.29439905859379
+Moderate.Drought	Os04g0445100	up	4	Epidermis | Meristem | Mesophyll | Vasculature	6.330976555317495	4.35641583997079
+Moderate.Drought	Os11g0244200	up	4	Epidermis | Meristem | Mesophyll | Vasculature	5.518200194138402	3.0200060866605725
+Moderate.Drought	Os11g0533400	up	4	Epidermis | Meristem | Mesophyll | Vasculature	5.40466813978807	3.3505898519168094
+Moderate.Drought	Os10g0343400	down	4	Epidermis | Meristem | Mesophyll | Vasculature	4.860846556285235	5.1428273068468044
+Moderate.Drought	Os11g0454300	up	4	Epidermis | Meristem | Mesophyll | Vasculature	4.4740464894156045	3.585799928378245
+Moderate.Drought	Os05g0580800	down	4	Epidermis | Meristem | Mesophyll | Vasculature	4.34237870139051	4.2637527163256745
+Moderate.Drought	Os05g0381400	up	4	Epidermis | Meristem | Mesophyll | Vasculature	4.316688716092219	3.052206957306472
+Moderate.Drought	Os03g0245800	up	4	Epidermis | Meristem | Mesophyll | Vasculature	4.309104336909045	3.21332280544741
+Moderate.Drought	Os01g0136000	up	4	Epidermis | Meristem | Mesophyll | Vasculature	4.266608410941991	3.0491181574821695
+Moderate.Drought	Os01g0136100	up	4	Epidermis | Meristem | Mesophyll | Vasculature	4.18938188893075	5.549982132588045
+Moderate.Drought	Os03g0277300	up	4	Epidermis | Meristem | Mesophyll | Vasculature	3.834224381069079	2.5268676178507574
+Moderate.Drought	Os11g0149200	up	4	Epidermis | Meristem | Mesophyll | Vasculature	3.813433123404735	2.1479030461503847
+Moderate.Drought	Os03g0729000	up	4	Epidermis | Meristem | Mesophyll | Vasculature	3.680419606120049	2.453967456246601
+Moderate.Drought	Os05g0542500	up	4	Epidermis | Meristem | Mesophyll | Vasculature	3.6596852810692013	3.152888427126701
+Moderate.Drought	Os01g0136200	up	4	Epidermis | Meristem | Mesophyll | Vasculature	3.5916084366185603	2.798261727039785
+Moderate.Drought	Os11g0454200	up	4	Epidermis | Meristem | Mesophyll | Vasculature	3.375116294697594	2.2102294461308594
+Moderate.Drought	Os03g0305600	up	4	Epidermis | Meristem | Mesophyll | Vasculature	3.338261888909806	3.0485321330905233
+Moderate.Drought	Os05g0256350	down	4	Epidermis | Meristem | Mesophyll | Vasculature	3.24602144334352	3.287089410989425
+Moderate.Drought	Os04g0107900	up	4	Epidermis | Meristem | Mesophyll | Vasculature	3.14934031752252	2.56208522481627
+Moderate.Drought	Os03g0266300	up	4	Epidermis | Meristem | Mesophyll | Vasculature	2.929204918043805	2.124016339808265
+Moderate.Drought	Os02g0259900	up	3	Epidermis | Mesophyll | Vasculature	2.79440623053428	2.29555604611468
+Moderate.Drought	Os09g0109600	up	3	Epidermis | Mesophyll | Vasculature	2.7457781146104203	2.5802077678269373
+Moderate.Drought	Os09g0537700	up	3	Epidermis | Meristem | Mesophyll	2.60909562340518	1.8819992216592105
+Moderate.Drought	Os02g0513100	up	2	Epidermis | Meristem	4.301755515964205	1.889087570184165
+Moderate.Drought	Os02g0782500	up	2	Meristem | Vasculature	3.7374087327722902	2.194497894498185
+Moderate.Drought	Os05g0519700	up	2	Meristem | Vasculature	3.594297323174925	1.8307403286333
+Moderate.Drought	Os02g0259850	up	2	Epidermis | Mesophyll	2.9229689534362295	2.1601771528480946
+Moderate.Drought	Os02g0106100	up	2	Epidermis | Mesophyll	2.467952037862725	2.22960310411266
+Moderate.Drought	Os02g0134300	up	2	Epidermis | Mesophyll	2.452605751465572	2.1982726382243674
+Moderate.Drought	Os01g0705200	up	1	Meristem	4.098246543731919	2.2377566207453903
+Moderate.Drought	Os08g0104400	up	1	Epidermis	3.39700611497663	2.04010959587477
+Moderate.Drought	Os04g0415800	up	1	Vasculature	3.351185889499968	2.351350242542442
+Moderate.Drought	Os04g0493600	up	1	Epidermis	3.337819216389947	1.925282606049133
+Moderate.Drought	Os02g0463401	up	1	Meristem	2.981191054687837	2.019372848337502
+Moderate.Drought	Os03g0316200	up	1	Meristem	2.95512446664275	1.8686981869660921
+Moderate.Drought	Os05g0217800	down	1	Meristem	2.919895495268255	1.79169557562776
+Moderate.Drought	Os04g0386700	up	1	Vasculature	2.891907853529802	2.028933095127637
+Moderate.Drought	Os12g0134300	up	1	Mesophyll	2.76192072711937	3.66045857633024
+Moderate.Drought	Os07g0209100	up	1	Vasculature	2.6325112210164603	3.4442608199509155
+Moderate.Drought	Os03g0808900	up	1	Mesophyll	2.575929789196894	2.845161833614577
+Moderate.Drought	Os10g0492900	up	1	Epidermis	2.5349315632253697	1.81829014182607
+Moderate.Drought	Os11g0670900	up	1	Vasculature	2.5048971409102823	1.819994823322163
+Moderate.Drought	Os10g0552700	down	1	Vasculature	2.47927348230174	2.16846543752576
+Moderate.Drought	Os04g0494100	up	1	Epidermis	2.464297576942933	2.0094000056236667
+Moderate.Drought	Os05g0560200	up	1	Meristem	2.46409105671676	2.64783498293808
+Moderate.Drought	Os01g0124401	up	1	Epidermis	2.41504689665189	1.8036150355529803
+Moderate.Salinity	Os11g0533400	up	4	Epidermis | Meristem | Mesophyll | Vasculature	5.01001589498547	2.7630771700592924
+Moderate.Salinity	Os04g0445100	up	4	Epidermis | Meristem | Mesophyll | Vasculature	4.928294219788895	2.4076909531512003
+Moderate.Salinity	Os02g0513100	up	4	Epidermis | Meristem | Mesophyll | Vasculature	4.492133684400789	1.9315400015577202
+Moderate.Salinity	Os11g0454300	up	4	Epidermis | Meristem | Mesophyll | Vasculature	4.464521704616127	2.54872427086774
+Moderate.Salinity	Os01g0705200	up	4	Epidermis | Meristem | Mesophyll | Vasculature	4.41795437763907	2.1970140987337006
+Moderate.Salinity	Os05g0580800	down	4	Epidermis | Meristem | Mesophyll | Vasculature	4.34237870139051	4.2637527163256745
+Moderate.Salinity	Os03g0305600	up	4	Epidermis | Meristem | Mesophyll | Vasculature	4.003978539899535	2.211647658424283
+Moderate.Salinity	Os05g0381400	up	4	Epidermis | Meristem | Mesophyll | Vasculature	3.491186160763439	2.207625595243284
+Moderate.Salinity	Os05g0256350	down	4	Epidermis | Meristem | Mesophyll | Vasculature	3.24602144334352	3.287089410989425
+Moderate.Salinity	Os09g0109600	up	4	Epidermis | Meristem | Mesophyll | Vasculature	3.2356413606942924	2.2804301448392734
+Moderate.Salinity	Os01g0136100	up	4	Epidermis | Meristem | Mesophyll | Vasculature	2.6566861519949647	2.9288417856719597
+Moderate.Salinity	Os07g0431160	down	4	Epidermis | Meristem | Mesophyll | Vasculature	2.594900409047905	2.396914807188545
+Moderate.Salinity	Os05g0542500	up	3	Epidermis | Meristem | Mesophyll	3.47995007012716	2.1813211337845
+Moderate.Salinity	Os02g0106100	up	3	Epidermis | Meristem | Mesophyll	2.54243385718846	2.0462334731006298
+Moderate.Salinity	Os06g0159900	up	2	Epidermis | Vasculature	3.7957118810690593	1.6711302863910305
+Moderate.Salinity	Os02g0463401	up	2	Epidermis | Meristem	3.4793287711989183	1.5461081484332746
+Moderate.Salinity	Os10g0492900	up	2	Epidermis | Vasculature	2.911029013913765	1.71482103773408
+Moderate.Salinity	Os11g0454200	up	2	Meristem | Mesophyll	2.876017738623206	1.9063442904837786
+Moderate.Salinity	Os06g0651200	up	2	Meristem | Vasculature	2.80462151202402	1.6659386946253552
+Moderate.Salinity	Os03g0245800	up	2	Meristem | Vasculature	2.74416139016826	1.67214614408973
+Moderate.Salinity	Os07g0209100	up	2	Mesophyll | Vasculature	2.673915193043415	2.4617911986141228
+Moderate.Salinity	Os05g0560200	up	2	Meristem | Mesophyll	2.638712171494705	1.9867409966568301
+Moderate.Salinity	Os11g0573800	down	2	Epidermis | Vasculature	2.57028782420523	2.580813644007965
+Moderate.Salinity	Os02g0782500	up	1	Meristem	3.92235327328233	1.5313865209755804
+Moderate.Salinity	Os11g0149200	up	1	Meristem	3.48829621286781	1.6720440885732222
+Moderate.Salinity	Os11g0244200	up	1	Vasculature	3.47719125471115	1.67555033204585
+Moderate.Salinity	Os03g0723400	up	1	Vasculature	3.40378429842903	1.9997157244225352
+Moderate.Salinity	Os04g0415800	up	1	Vasculature	3.317453055841848	2.5715468637145023
+Moderate.Salinity	Os01g0136000	up	1	Meristem	3.300590914969357	1.452034005623322
+Moderate.Salinity	Os09g0522200	down	1	Mesophyll	3.2392712860825004	2.35618860746927
+Moderate.Salinity	Os04g0386700	up	1	Vasculature	3.1923692522592924	1.701167187683497
+Moderate.Salinity	Os06g0561000	down	1	Mesophyll	3.1881726186467096	2.43129940094202
+Moderate.Salinity	Os10g0173000	up	1	Epidermis	3.105419016478427	1.6002427082472872
+Moderate.Salinity	Os09g0522000	down	1	Mesophyll	2.97473482262823	2.29115709847796
+Moderate.Salinity	Os01g0136200	up	1	Meristem	2.86850583491904	1.45558334347785
+Moderate.Salinity	Os01g0656200	up	1	Meristem	2.8411044024347993	1.522050374781152
+Moderate.Salinity	Os03g0820500	up	1	Epidermis	2.536896464492946	1.628198534753347

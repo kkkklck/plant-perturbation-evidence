@@ -1,0 +1,46 @@
+task_family	dataset	model	model_class	pretarget_eligible	n_contexts	median_rho	mean_rho	median_top100_overlap	mean_top100_overlap	median_top100_enrichment	median_top100_direction
+combination	GSE253757_PAT_family	component_mean	composition	True	4	0.5140263778903904	0.5520785421199621	22.0	27.25	40.007	1.0
+combination	GSE253757_PAT_family	random_rank_expectation	random_expectation	True	4	0.0	0.0	0.5499037668408029	0.5499037668408029	1.0	
+combination	GSE253757_PAT_family	simple_sum	composition	True	4	0.5140263778903904	0.5520785421199621	22.0	27.25	40.007	1.0
+combination	GSE253757_PAT_family	single_pat1	single_baseline	True	3	0.7244115621383379	0.7354143881027732	39.0	41.333333333333336	70.9215	1.0
+combination	GSE253757_PAT_family	single_path1	single_baseline	True	3	0.3034079015232023	0.3311686161396871	15.0	15.666666666666666	27.2775	1.0
+combination	GSE253757_PAT_family	single_path2	single_baseline	True	3	0.0745201317957026	0.12698047675217644	15.0	13.333333333333334	27.2775	0.5333333333333333
+combination	GSE253757_PAT_family	strongest_constituent_per_gene	single_baseline	True	4	0.5119952746695132	0.5437298929767092	33.5	33.75	60.91974999999999	1.0
+combination	GSE253757_PAT_family	strongest_single_pretarget_rms	single_baseline	True	4	0.660903673810187	0.6161358087380562	34.5	33.25	62.738249999999994	1.0
+cross_experiment	GSE121619_to_GSE290176_heatshock	donor_5	matched_perturbation_baseline	True	1	0.3308948517385743	0.3308948517385743	41.0	41.0	66.9735	1.0
+cross_experiment	GSE121619_to_GSE290176_heatshock	donor_6	matched_perturbation_baseline	True	1	0.3355602431445024	0.3355602431445024	52.0	52.0	84.942	1.0
+cross_experiment	GSE121619_to_GSE290176_heatshock	donor_8	matched_perturbation_baseline	True	1	0.3469364727217965	0.3469364727217965	64.0	64.0	104.544	1.0
+cross_experiment	GSE121619_to_GSE290176_heatshock	pooled_donor_prediction	matched_perturbation_baseline	True	1	0.396323455253156	0.396323455253156	63.0	63.0	102.9105	1.0
+cross_experiment	GSE121619_to_GSE290176_heatshock	random_rank_expectation	random_expectation	True	1	0.0	0.0	0.6121824303642486	0.6121824303642486	1.0	
+cross_experiment	GSE121619_to_GSE290176_heatshock	shared_prediction	matched_perturbation_baseline	True	1	0.414983072221132	0.414983072221132	64.0	64.0	104.544	1.0
+future_time	GSE153103_salt_12h	history_mean_1h_3h_6h	strong_baseline	True	1	0.432246629917511	0.432246629917511	24.0	24.0	34.1568	1.0
+future_time	GSE153103_salt_12h	latest_6h	strong_baseline	True	1	0.4782137375338084	0.4782137375338084	30.0	30.0	42.696	1.0
+future_time	GSE153103_salt_12h	linear_all_0_1_3_6_to_12h	strong_baseline	True	1	0.4321304821823234	0.4321304821823234	30.0	30.0	42.696	1.0
+future_time	GSE153103_salt_12h	linear_last2_3h_6h_to_12h	strong_baseline	True	1	0.2593098110347862	0.2593098110347862	16.0	16.0	22.7712	0.875
+future_time	GSE153103_salt_12h	older_3h	strong_baseline	True	1	0.3060496224668149	0.3060496224668149	16.0	16.0	22.7712	1.0
+future_time	GSE153103_salt_12h	oldest_1h	strong_baseline	True	1	0.3397628473425307	0.3397628473425307	15.0	15.0	21.348	1.0
+future_time	GSE153103_salt_12h	random_rank_expectation	random_expectation	True	1	0.0	0.0	0.7026419336706015	0.7026419336706015	1.0	
+future_time	GSE153103_salt_6h	history_mean_1h_3h	strong_baseline	True	1	0.5324132961268031	0.5324132961268031	29.0	29.0	41.0089	1.0
+future_time	GSE153103_salt_6h	latest_3h	strong_baseline	True	1	0.599226841702849	0.599226841702849	30.0	30.0	42.423	1.0
+future_time	GSE153103_salt_6h	linear_last2_to_6h	strong_baseline	True	1	0.4927222262356681	0.4927222262356681	36.0	36.0	50.9076	1.0
+future_time	GSE153103_salt_6h	linear_with_baseline_0_1_3_to_6h	strong_baseline	True	1	0.5992268554877525	0.5992268554877525	30.0	30.0	42.423	1.0
+future_time	GSE153103_salt_6h	older_1h	strong_baseline	True	1	0.3687976400201112	0.3687976400201112	16.0	16.0	22.6256	1.0
+future_time	GSE153103_salt_6h	random_rank_expectation	random_expectation	True	1	0.0	0.0	0.7071635669330316	0.7071635669330316	1.0	
+future_time	GSE46205_salt_8h	history_mean_1h_3h	strong_baseline_corrected	True	4	0.7964265870208351	0.8085985627071359	48.0	47.5	109.488	1.0
+future_time	GSE46205_salt_8h	latest_3h	strong_baseline_corrected	True	4	0.8320200236154878	0.8389194391970031	56.5	55.5	128.87650000000002	1.0
+future_time	GSE46205_salt_8h	linear_last2_to_8h	strong_baseline_corrected	True	4	0.615370753267143	0.5907320058911264	37.5	37.5	85.5375	1.0
+future_time	GSE46205_salt_8h	linear_with_baseline_0_1_3_to_8h	strong_baseline_corrected	True	4	0.82808835906286	0.8356433751910227	56.5	55.0	128.87650000000002	1.0
+future_time	GSE46205_salt_8h	older_1h	strong_baseline_corrected	True	4	0.6818601731598961	0.6680350356562041	32.0	32.75	72.992	1.0
+future_time	GSE46205_salt_8h	random_rank_expectation	random_expectation	True	4	0.0	0.0	0.4384042086804033	0.43840420868040325	1.0	
+future_time	GSE46205_salt_8h	shared_other_states_3h	strong_baseline_corrected	True	4	0.6192767436016784	0.6232043385940642	30.5	28.75	69.57050000000001	1.0
+missing_state	GSE121619_heatshock	pooled_donor	strong_baseline	True	3	0.4462808705198641	0.45605094735432655	67.0	66.33333333333333	112.627	1.0
+missing_state	GSE121619_heatshock	random_rank_expectation	random_expectation	True	3	0.0	0.0	0.594883997620464	0.594883997620464	1.0	
+missing_state	GSE121619_heatshock	rank1_common_axis	strong_baseline	True	3	0.6111731555827701	0.5586993610010073	67.0	68.66666666666667	112.627	1.0
+missing_state	GSE121619_heatshock	signed_mean	strong_baseline	True	3	0.6150992047217253	0.5620220976213909	67.0	68.66666666666667	112.627	1.0
+missing_state	GSE121619_heatshock	signed_median	strong_baseline	True	3	0.5835428028568083	0.5396615877503009	66.0	66.0	110.946	1.0
+missing_state	GSE121619_heatshock	strongest_source_pretarget	strong_baseline	True	3	0.4598601860890779	0.4318203088019356	59.0	59.0	99.179	1.0
+missing_state	immune_missing_state	random_rank_expectation	random_expectation	True	20	0.0	0.0	1.960015680125441	1.917062390517819	1.0	
+missing_state	immune_missing_state	rank1_common_axis	strong_baseline	True	20	0.42246595510814977	0.4321570412727195	47.5	45.95	22.0694	1.0
+missing_state	immune_missing_state	signed_mean	strong_baseline	True	20	0.4647543887008768	0.44340042118324907	47.5	46.2	22.344	1.0
+missing_state	immune_missing_state	signed_median	strong_baseline	True	20	0.46303305927888044	0.44395980835047233	47.5	46.7	22.344	1.0
+missing_state	immune_missing_state	strongest_source_pretarget	strong_baseline	True	20	0.2664945411013411	0.2311544412403713	35.0	35.3	15.9276	1.0

@@ -1,0 +1,7 @@
+sensitivity	excluded_genes	remaining_genes	n_genes	spearman_full_vector	top100_overlap	top100_direction_agreement
+none	0	2870	2870	0.500368815835271	38	1.0
+exclude_union_wrong_top100	365	2505	2505	0.5034699686450517	43	1.0
+exclude_recurrent_wrong_top100_ge2	182	2688	2688	0.5083400909627603	42	1.0
+exclude_recurrent_wrong_top250_ge2	428	2442	2442	0.5120566454805205	42	1.0
+exclude_panstress_top100_mean_rank	100	2770	2770	0.5056969339414779	40	1.0
+exclude_panstress_top250_mean_rank	250	2620	2620	0.5126088591705718	40	1.0

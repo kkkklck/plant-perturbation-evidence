@@ -1,0 +1,29 @@
+{
+  "status": "FROZEN_BEFORE_TARGET",
+  "source_rds_sha256": "367d6fd9edf84397444ea0d6edec71917b33c37034f2ac1e77823d460b471aa8",
+  "rules_sha256": "5e14e17fc9db243f53edb6a6e4d7a8a06253d52ff2af6251587ee57848b824b7",
+  "prediction_sha256": "7b2b11492d4f9b0aa9417afbf4fca881a96c3242e515fe8b322e58468735e29f",
+  "n_genes_all": 37336,
+  "n_genes_technical": 16810,
+  "target_clusters_withheld": [
+    2,
+    3,
+    10
+  ],
+  "donor_clusters_used": [
+    5,
+    6,
+    8
+  ],
+  "n_freeze_cells_used": 1194,
+  "n_heatshock_donor_cells_used": 118,
+  "n_target_heatshock_cells_used": 0,
+  "n_target_heatshock_cells_withheld": 830,
+  "withheld_counts_by_cluster": {
+    "2": 415,
+    "3": 283,
+    "10": 132
+  },
+  "primary_prediction": "equal-weight mean HeatShock-Control log1p(CPM) response across donor clusters 5,6,8",
+  "target_values_read": false
+}

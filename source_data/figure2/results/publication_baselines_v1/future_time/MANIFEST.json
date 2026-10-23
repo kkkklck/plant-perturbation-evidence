@@ -1,0 +1,12 @@
+{
+  "status": "POSTHOC_STRONG_BASELINE_AUDIT",
+  "target_values_used_to_choose_models": false,
+  "models_defined_from_standard_baselines": [
+    "latest history",
+    "older history",
+    "history mean",
+    "linear extrapolation",
+    "cross-state shared"
+  ],
+  "note": "This audit was added after target reveal and is not relabeled as prospective. All model formulas use only pretarget evidence."
+}

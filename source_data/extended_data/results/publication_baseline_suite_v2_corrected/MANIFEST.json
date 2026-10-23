@@ -1,0 +1,8 @@
+{
+  "suite_version": "publication_baseline_suite_v2_corrected",
+  "supersedes": "publication_baseline_suite_v1 for manuscript use",
+  "correction": "All GSE46205 rows replaced with native deposited GCRMA log2-scale calculations from script 160; other datasets copied from v1 unchanged.",
+  "gse46205_prospective_label": "Corrected numerical results are post-reveal implementation audits and must not be described as untouched prospective scores.",
+  "n_rows_long": 214,
+  "n_rows_aggregate": 45
+}

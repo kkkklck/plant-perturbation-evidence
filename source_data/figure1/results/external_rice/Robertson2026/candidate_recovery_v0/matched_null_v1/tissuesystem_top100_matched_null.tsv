@@ -1,0 +1,17 @@
+condition	tissue_system	n_genes	k	observed_overlap	null_mean	null_sd	null_q95	null_q99	matched_enrichment	empirical_p_one_sided	matching_variables	q_bh_16_tests
+Mild.Drought	Epidermis	25950	100	13	1.0077	0.9823121722346578	3.0	4.0	12.90066488042076	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Mild.Drought	Meristem	25950	100	11	0.9056	0.9270245829845861	3.0	4.0	12.146643109540637	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Mild.Drought	Mesophyll	25950	100	16	1.1088	1.0521754926468931	3.0	4.0	14.43001443001443	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Mild.Drought	Vasculature	25950	100	10	0.8116	0.8894855583177536	2.0	3.0	12.32134056185313	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Mild.Salinity	Epidermis	25950	100	13	0.7287	0.8410511558191157	2.0	3.0	17.839989021545218	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Mild.Salinity	Meristem	25950	100	12	0.8308	0.894344086543045	2.0	3.0	14.443909484833895	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Mild.Salinity	Mesophyll	25950	100	13	0.8265	0.895922997696666	2.0	3.0	15.72897761645493	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Mild.Salinity	Vasculature	25950	100	16	0.7733	0.8814674177080218	2.0	3.0	20.69054700633648	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Moderate.Drought	Epidermis	25950	100	32	0.6308	0.7799693553079646	2.0	3.0	50.7292327203551	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Moderate.Drought	Meristem	25950	100	29	0.6808	0.826304809355359	2.0	3.0	42.59694477085782	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Moderate.Drought	Mesophyll	25950	100	29	0.6827	0.8141787265090326	2.0	3.0	42.4783946096382	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Moderate.Drought	Vasculature	25950	100	29	0.7047	0.8331670461154074	2.0	3.0	41.1522633744856	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Moderate.Salinity	Epidermis	25950	100	21	0.7035	0.8341806373523503	2.0	3.0	29.850746268656717	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Moderate.Salinity	Meristem	25950	100	25	0.7843	0.8851281574921896	2.0	3.0	31.87555782226189	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Moderate.Salinity	Mesophyll	25950	100	22	0.7332	0.8505822176667586	2.0	3.0	30.005455537370434	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05
+Moderate.Salinity	Vasculature	25950	100	23	0.6323	0.7993501148186607	2.0	3.0	36.37513838367863	9.999000099990002e-05	control mean expression quintile + control batch-instability quintile	9.999000099990002e-05

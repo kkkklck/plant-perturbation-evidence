@@ -1,0 +1,6 @@
+generic_definition	original_heat_overlap_n	overlap_genes_flagged_generic	fraction_original_overlap_flagged_generic
+exclude_union_wrong_top100	38	11	0.2894736842105263
+exclude_recurrent_wrong_top100_ge2	38	2	0.05263157894736842
+exclude_recurrent_wrong_top250_ge2	38	12	0.3157894736842105
+exclude_panstress_top100_mean_rank	38	1	0.02631578947368421
+exclude_panstress_top250_mean_rank	38	6	0.15789473684210525

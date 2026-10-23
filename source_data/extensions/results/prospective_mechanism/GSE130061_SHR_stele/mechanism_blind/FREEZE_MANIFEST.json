@@ -1,0 +1,29 @@
+{
+  "status": "FROZEN_BEFORE_TARGET_VALUES",
+  "task": "mechanism_specialist_SHR_stele_rescue",
+  "target_dataset": "GSE130061 Supplemental Dataset 2",
+  "target_workbook_present": false,
+  "target_numeric_values_read": false,
+  "primary_prior": "8 positive direct SHR targets from independent 2006 study",
+  "secondary_prior": "top25 SHR ChIP-chip direct-binding candidates from independent GSE21338 / 2011 study",
+  "truth_definition": {
+    "loss": "mean(WT)-mean(shr-2)",
+    "rescue": "mean(SHRdNLELDV)-mean(shr-2)",
+    "restoration": "min(loss,rescue)"
+  },
+  "primary_success_rule": {
+    "tierA_min_measured": 6,
+    "tierA_top10pct_fraction_min": 0.5,
+    "tierA_top10pct_hypergeom_p_max": 0.05,
+    "tierA_expected_direction_fraction_min": 0.75,
+    "scope_if_pass": "local specialist boost only; never replace whole-transcriptome default"
+  },
+  "secondary_rule": "Tier B enrichment in top10% absolute rescue response; descriptive only",
+  "hashes": {
+    "SHR机制先验_中柱非移动救援_盲测规则_2026-10-21.md": "45bed40923e4f2cbb40be75913ac6c8eb37ccab2b0d260c26c6b7b878439099f",
+    "SHR_tierA_positive_direct_targets.tsv": "548bd1f92cd195f6e1b50adda7aa3fa19f7d9c2665c38138c6ade0c3e00c21db",
+    "SHR_tierB_chip_top25.tsv": "68a170cbd9639cca60b21b7c6c0a809639466e4dc2b02d5239060d83dd9e21d8",
+    "144_shr_mechanism_freeze.py": "952f2e4ad40d7fdae79369e04f8d65f0e3a0a09ce1efe49d3642f1c7ae14c07a",
+    "145_shr_mechanism_score.py": "3d799878ee56e90864687b8b8a2b33d28b6376f29357036dd6b19d78234b32ee"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "purpose": "Sensitivity test for the reviewer concern that low-expression genes alone drive limited full-vector replicate concordance in Robertson rice stress data.",
+  "technical_universe_definition": "nonzero in >=25% pseudobulk groups and global mean log1p(CPM) >=0.05",
+  "additional_filters_are_control_only": true,
+  "n_contexts": 16,
+  "overall": [
+    {
+      "universe": "control_mean_gt_0.5",
+      "n_contexts": 16,
+      "median_n_genes": 23961.0,
+      "median_rho": 0.11229262398923347,
+      "mean_rho": 0.10486036316704585,
+      "q25_rho": 0.011239478973099029,
+      "q75_rho": 0.18116502819800323,
+      "n_rho_lt_0_3": 16,
+      "n_rho_lt_0_5": 16
+    },
+    {
+      "universe": "control_mean_gt_1.0",
+      "n_contexts": 16,
+      "median_n_genes": 21328.0,
+      "median_rho": 0.1271389643459077,
+      "mean_rho": 0.11251939024099622,
+      "q25_rho": 0.003105330364826113,
+      "q75_rho": 0.19917527847173366,
+      "n_rho_lt_0_3": 16,
+      "n_rho_lt_0_5": 16
+    },
+    {
+      "universe": "control_top25pct_within_technical",
+      "n_contexts": 16,
+      "median_n_genes": 6488.0,
+      "median_rho": 0.07657624668859242,
+      "mean_rho": 0.0723343298386817,
+      "q25_rho": -0.08694069334176174,
+      "q75_rho": 0.22571886690748655,
+      "n_rho_lt_0_3": 14,
+      "n_rho_lt_0_5": 16
+    },
+    {
+      "universe": "control_top50pct_within_technical",
+      "n_contexts": 16,
+      "median_n_genes": 12975.5,
+      "median_rho": 0.10138913553059473,
+      "mean_rho": 0.1024810343721354,
+      "q25_rho": -0.024961448493227678,
+      "q75_rho": 0.20756117327983298,
+      "n_rho_lt_0_3": 14,
+      "n_rho_lt_0_5": 16
+    },
+    {
+      "universe": "technical_universe",
+      "n_contexts": 16,
+      "median_n_genes": 25950.0,
+      "median_rho": 0.1169597531182329,
+      "mean_rho": 0.10940786211130972,
+      "q25_rho": 0.029970614500127675,
+      "q75_rho": 0.17795831436513096,
+      "n_rho_lt_0_3": 16,
+      "n_rho_lt_0_5": 16
+    }
+  ]
+}

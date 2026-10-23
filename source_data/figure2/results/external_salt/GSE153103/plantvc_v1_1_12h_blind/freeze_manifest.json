@@ -1,0 +1,24 @@
+{
+  "status": "FROZEN_BEFORE_12H_TARGET",
+  "workbook_sha256": "6b9ffb2e4e90202aeafdd500d837d0caa74d5ddb31c60dca5dcb5193cb01035f",
+  "rules_sha256": "7650977b128c4c0c434d5dc1c8711ca01820238523c26cff213a20f76226323d",
+  "ranking_sha256": "d16c4d4444a77d85c41b8f4599de8a25863b1270d951a5df409fdf5086fcb52b",
+  "pretarget_columns_read": [
+    "RAS048",
+    "RAS049",
+    "RAS050",
+    "RAS051",
+    "RAS056",
+    "RAS057",
+    "RAS058",
+    "RAS059"
+  ],
+  "target_columns_not_read": [
+    "RAS052",
+    "RAS060"
+  ],
+  "n_genes_all": 24060,
+  "n_genes_technical": 14232,
+  "primary_rule": "latest same-system response: pred12 = r6",
+  "confidence_used_for_ranking": false
+}

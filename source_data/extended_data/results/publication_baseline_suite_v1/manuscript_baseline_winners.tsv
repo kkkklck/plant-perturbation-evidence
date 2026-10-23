@@ -1,0 +1,8 @@
+task_family	dataset	best_model_by_median_rho	median_rho	median_top100_overlap	n_contexts	required_contexts
+combination	GSE253757_PAT_family	strongest_single_pretarget_rms	0.660903673810187	34.5	4	4
+cross_experiment	GSE121619_to_GSE290176_heatshock	shared_prediction	0.414983072221132	64.0	1	1
+future_time	GSE153103_salt_12h	latest_6h	0.4782137375338084	30.0	1	1
+future_time	GSE153103_salt_6h	linear_with_baseline_0_1_3_to_6h	0.5992268554877525	30.0	1	1
+future_time	GSE46205_salt_8h	latest_3h	0.8169715271322493	57.0	4	4
+missing_state	GSE121619_heatshock	signed_mean	0.6150992047217253	67.0	3	3
+missing_state	immune_missing_state	signed_mean	0.4647543887008768	47.5	20	20

@@ -1,0 +1,209 @@
+dataset	context	model	k	overlap	random_expected_overlap	enrichment	direction_agreement_overlap
+GSE153103_salt_6h	bulk	latest_history_3h	100	30	0.7071635669330316	42.423	1.0
+GSE153103_salt_6h	bulk	latest_history_3h	250	89	4.419772293331447	20.136784000000002	1.0
+GSE153103_salt_6h	bulk	latest_history_3h	500	202	17.67908917332579	11.425928	1.0
+GSE153103_salt_6h	bulk	latest_history_3h	1000	441	70.71635669330315	6.236181	0.9931972789115646
+GSE153103_salt_6h	bulk	older_history_1h	100	16	0.7071635669330316	22.6256	1.0
+GSE153103_salt_6h	bulk	older_history_1h	250	44	4.419772293331447	9.955264000000001	0.9545454545454546
+GSE153103_salt_6h	bulk	older_history_1h	500	115	17.67908917332579	6.504860000000001	0.9391304347826087
+GSE153103_salt_6h	bulk	older_history_1h	1000	288	70.71635669330315	4.072608000000001	0.90625
+GSE153103_salt_6h	bulk	history_mean_1h_3h	100	29	0.7071635669330316	41.0089	1.0
+GSE153103_salt_6h	bulk	history_mean_1h_3h	250	70	4.419772293331447	15.837920000000002	1.0
+GSE153103_salt_6h	bulk	history_mean_1h_3h	500	176	17.67908917332579	9.955264000000001	1.0
+GSE153103_salt_6h	bulk	history_mean_1h_3h	1000	376	70.71635669330315	5.317016000000001	0.9813829787234043
+GSE153103_salt_6h	bulk	linear_extrapolation_1h_3h_to_6h	100	36	0.7071635669330316	50.9076	1.0
+GSE153103_salt_6h	bulk	linear_extrapolation_1h_3h_to_6h	250	90	4.419772293331447	20.36304	0.9888888888888889
+GSE153103_salt_6h	bulk	linear_extrapolation_1h_3h_to_6h	500	187	17.67908917332579	10.577468000000001	0.9893048128342246
+GSE153103_salt_6h	bulk	linear_extrapolation_1h_3h_to_6h	1000	416	70.71635669330315	5.882656000000001	0.9879807692307693
+GSE153103_salt_6h	bulk	frozen_original_v1_persistence_bonus	100	30	0.7071635669330316	42.423	1.0
+GSE153103_salt_6h	bulk	frozen_original_v1_persistence_bonus	250	84	4.419772293331447	19.005504000000002	1.0
+GSE153103_salt_6h	bulk	frozen_original_v1_persistence_bonus	500	192	17.67908917332579	10.860288	1.0
+GSE153103_salt_6h	bulk	frozen_original_v1_persistence_bonus	1000	403	70.71635669330315	5.698823000000001	0.9925558312655087
+GSE153103_salt_12h	bulk	latest_history_6h	100	30	0.7026419336706015	42.696	1.0
+GSE153103_salt_12h	bulk	latest_history_6h	250	81	4.391512085441259	18.444672	1.0
+GSE153103_salt_12h	bulk	latest_history_6h	500	197	17.566048341765036	11.214816	1.0
+GSE153103_salt_12h	bulk	latest_history_6h	1000	428	70.26419336706014	6.091296	0.985981308411215
+GSE153103_salt_12h	bulk	older_history_3h	100	16	0.7026419336706015	22.7712	1.0
+GSE153103_salt_12h	bulk	older_history_3h	250	53	4.391512085441259	12.068736	0.9433962264150944
+GSE153103_salt_12h	bulk	older_history_3h	500	156	17.566048341765036	8.880768	0.9294871794871795
+GSE153103_salt_12h	bulk	older_history_3h	1000	332	70.26419336706014	4.725024	0.927710843373494
+GSE153103_salt_12h	bulk	older_history_1h	100	15	0.7026419336706015	21.348	1.0
+GSE153103_salt_12h	bulk	older_history_1h	250	31	4.391512085441259	7.0590720000000005	0.967741935483871
+GSE153103_salt_12h	bulk	older_history_1h	500	92	17.566048341765036	5.237376	0.9347826086956522
+GSE153103_salt_12h	bulk	older_history_1h	1000	249	70.26419336706014	3.543768	0.8554216867469879
+GSE153103_salt_12h	bulk	history_mean_1h_3h_6h	100	24	0.7026419336706015	34.1568	1.0
+GSE153103_salt_12h	bulk	history_mean_1h_3h_6h	250	63	4.391512085441259	14.345856	0.9841269841269841
+GSE153103_salt_12h	bulk	history_mean_1h_3h_6h	500	166	17.566048341765036	9.450048	0.9819277108433735
+GSE153103_salt_12h	bulk	history_mean_1h_3h_6h	1000	347	70.26419336706014	4.938504	0.9654178674351584
+GSE153103_salt_12h	bulk	linear_extrapolation_1h_3h_6h_to_12h	100	18	0.7026419336706015	25.6176	0.9444444444444444
+GSE153103_salt_12h	bulk	linear_extrapolation_1h_3h_6h_to_12h	250	53	4.391512085441259	12.068736	0.9245283018867925
+GSE153103_salt_12h	bulk	linear_extrapolation_1h_3h_6h_to_12h	500	111	17.566048341765036	6.319008	0.918918918918919
+GSE153103_salt_12h	bulk	linear_extrapolation_1h_3h_6h_to_12h	1000	276	70.26419336706014	3.928032	0.8840579710144928
+GSE46205_salt_8h	epidermis	latest_same_state_3h	100	62	0.4384042086804033	141.422	1.0
+GSE46205_salt_8h	epidermis	latest_same_state_3h	250	174	2.740026304252521	63.50304	1.0
+GSE46205_salt_8h	epidermis	latest_same_state_3h	500	362	10.960105217010083	33.02888	1.0
+GSE46205_salt_8h	epidermis	latest_same_state_3h	1000	760	43.84042086804033	17.3356	1.0
+GSE46205_salt_8h	epidermis	same_state_history_mean_1h_3h	100	58	0.4384042086804033	132.298	1.0
+GSE46205_salt_8h	epidermis	same_state_history_mean_1h_3h	250	158	2.740026304252521	57.66368	1.0
+GSE46205_salt_8h	epidermis	same_state_history_mean_1h_3h	500	328	10.960105217010083	29.92672	1.0
+GSE46205_salt_8h	epidermis	same_state_history_mean_1h_3h	1000	696	43.84042086804033	15.87576	1.0
+GSE46205_salt_8h	epidermis	same_state_linear_extrapolation_1h_3h_to_8h	100	33	0.4384042086804033	75.27300000000001	1.0
+GSE46205_salt_8h	epidermis	same_state_linear_extrapolation_1h_3h_to_8h	250	129	2.740026304252521	47.07984	1.0
+GSE46205_salt_8h	epidermis	same_state_linear_extrapolation_1h_3h_to_8h	500	301	10.960105217010083	27.46324	1.0
+GSE46205_salt_8h	epidermis	same_state_linear_extrapolation_1h_3h_to_8h	1000	646	43.84042086804033	14.73526	1.0
+GSE46205_salt_8h	epidermis	latest_cross_state_shared_3h	100	35	0.4384042086804033	79.83500000000001	1.0
+GSE46205_salt_8h	epidermis	latest_cross_state_shared_3h	250	111	2.740026304252521	40.51056	1.0
+GSE46205_salt_8h	epidermis	latest_cross_state_shared_3h	500	233	10.960105217010083	21.25892	1.0
+GSE46205_salt_8h	epidermis	latest_cross_state_shared_3h	1000	450	43.84042086804033	10.2645	1.0
+GSE46205_salt_8h	epidermis	cross_state_history_mean_1h_3h	100	43	0.4384042086804033	98.08300000000001	1.0
+GSE46205_salt_8h	epidermis	cross_state_history_mean_1h_3h	250	113	2.740026304252521	41.24048	1.0
+GSE46205_salt_8h	epidermis	cross_state_history_mean_1h_3h	500	237	10.960105217010083	21.62388	1.0
+GSE46205_salt_8h	epidermis	cross_state_history_mean_1h_3h	1000	461	43.84042086804033	10.51541	0.9978308026030369
+GSE46205_salt_8h	epidermis	cross_state_linear_extrapolation_1h_3h_to_8h	100	6	0.4384042086804033	13.686	1.0
+GSE46205_salt_8h	epidermis	cross_state_linear_extrapolation_1h_3h_to_8h	250	33	2.740026304252521	12.04368	1.0
+GSE46205_salt_8h	epidermis	cross_state_linear_extrapolation_1h_3h_to_8h	500	122	10.960105217010083	11.13128	0.9918032786885246
+GSE46205_salt_8h	epidermis	cross_state_linear_extrapolation_1h_3h_to_8h	1000	298	43.84042086804033	6.79738	0.9765100671140939
+GSE46205_salt_8h	cortex	latest_same_state_3h	100	40	0.4384042086804033	91.24000000000001	1.0
+GSE46205_salt_8h	cortex	latest_same_state_3h	250	137	2.740026304252521	49.99952	1.0
+GSE46205_salt_8h	cortex	latest_same_state_3h	500	297	10.960105217010083	27.09828	1.0
+GSE46205_salt_8h	cortex	latest_same_state_3h	1000	626	43.84042086804033	14.27906	1.0
+GSE46205_salt_8h	cortex	same_state_history_mean_1h_3h	100	43	0.4384042086804033	98.08300000000001	1.0
+GSE46205_salt_8h	cortex	same_state_history_mean_1h_3h	250	131	2.740026304252521	47.80976	1.0
+GSE46205_salt_8h	cortex	same_state_history_mean_1h_3h	500	285	10.960105217010083	26.0034	1.0
+GSE46205_salt_8h	cortex	same_state_history_mean_1h_3h	1000	605	43.84042086804033	13.80005	1.0
+GSE46205_salt_8h	cortex	same_state_linear_extrapolation_1h_3h_to_8h	100	32	0.4384042086804033	72.992	0.875
+GSE46205_salt_8h	cortex	same_state_linear_extrapolation_1h_3h_to_8h	250	86	2.740026304252521	31.38656	0.8837209302325582
+GSE46205_salt_8h	cortex	same_state_linear_extrapolation_1h_3h_to_8h	500	170	10.960105217010083	15.5108	0.8705882352941177
+GSE46205_salt_8h	cortex	same_state_linear_extrapolation_1h_3h_to_8h	1000	354	43.84042086804033	8.07474	0.8192090395480226
+GSE46205_salt_8h	cortex	latest_cross_state_shared_3h	100	35	0.4384042086804033	79.83500000000001	1.0
+GSE46205_salt_8h	cortex	latest_cross_state_shared_3h	250	92	2.740026304252521	33.57632	1.0
+GSE46205_salt_8h	cortex	latest_cross_state_shared_3h	500	217	10.960105217010083	19.79908	1.0
+GSE46205_salt_8h	cortex	latest_cross_state_shared_3h	1000	476	43.84042086804033	10.85756	1.0
+GSE46205_salt_8h	cortex	cross_state_history_mean_1h_3h	100	27	0.4384042086804033	61.587	1.0
+GSE46205_salt_8h	cortex	cross_state_history_mean_1h_3h	250	88	2.740026304252521	32.11648	1.0
+GSE46205_salt_8h	cortex	cross_state_history_mean_1h_3h	500	203	10.960105217010083	18.52172	1.0
+GSE46205_salt_8h	cortex	cross_state_history_mean_1h_3h	1000	452	43.84042086804033	10.31012	1.0
+GSE46205_salt_8h	cortex	cross_state_linear_extrapolation_1h_3h_to_8h	100	27	0.4384042086804033	61.587	1.0
+GSE46205_salt_8h	cortex	cross_state_linear_extrapolation_1h_3h_to_8h	250	71	2.740026304252521	25.91216	1.0
+GSE46205_salt_8h	cortex	cross_state_linear_extrapolation_1h_3h_to_8h	500	195	10.960105217010083	17.7918	1.0
+GSE46205_salt_8h	cortex	cross_state_linear_extrapolation_1h_3h_to_8h	1000	443	43.84042086804033	10.10483	0.9977426636568849
+GSE46205_salt_8h	endodermis	latest_same_state_3h	100	66	0.4384042086804033	150.54600000000002	1.0
+GSE46205_salt_8h	endodermis	latest_same_state_3h	250	169	2.740026304252521	61.67824	1.0
+GSE46205_salt_8h	endodermis	latest_same_state_3h	500	358	10.960105217010083	32.66392	1.0
+GSE46205_salt_8h	endodermis	latest_same_state_3h	1000	744	43.84042086804033	16.97064	1.0
+GSE46205_salt_8h	endodermis	same_state_history_mean_1h_3h	100	49	0.4384042086804033	111.769	1.0
+GSE46205_salt_8h	endodermis	same_state_history_mean_1h_3h	250	155	2.740026304252521	56.5688	1.0
+GSE46205_salt_8h	endodermis	same_state_history_mean_1h_3h	500	337	10.960105217010083	30.74788	1.0
+GSE46205_salt_8h	endodermis	same_state_history_mean_1h_3h	1000	706	43.84042086804033	16.10386	1.0
+GSE46205_salt_8h	endodermis	same_state_linear_extrapolation_1h_3h_to_8h	100	44	0.4384042086804033	100.364	1.0
+GSE46205_salt_8h	endodermis	same_state_linear_extrapolation_1h_3h_to_8h	250	130	2.740026304252521	47.4448	1.0
+GSE46205_salt_8h	endodermis	same_state_linear_extrapolation_1h_3h_to_8h	500	261	10.960105217010083	23.81364	1.0
+GSE46205_salt_8h	endodermis	same_state_linear_extrapolation_1h_3h_to_8h	1000	576	43.84042086804033	13.13856	0.9965277777777778
+GSE46205_salt_8h	endodermis	latest_cross_state_shared_3h	100	22	0.4384042086804033	50.182	1.0
+GSE46205_salt_8h	endodermis	latest_cross_state_shared_3h	250	81	2.740026304252521	29.56176	1.0
+GSE46205_salt_8h	endodermis	latest_cross_state_shared_3h	500	210	10.960105217010083	19.1604	1.0
+GSE46205_salt_8h	endodermis	latest_cross_state_shared_3h	1000	450	43.84042086804033	10.2645	0.9977777777777778
+GSE46205_salt_8h	endodermis	cross_state_history_mean_1h_3h	100	15	0.4384042086804033	34.215	1.0
+GSE46205_salt_8h	endodermis	cross_state_history_mean_1h_3h	250	72	2.740026304252521	26.27712	1.0
+GSE46205_salt_8h	endodermis	cross_state_history_mean_1h_3h	500	185	10.960105217010083	16.8794	1.0
+GSE46205_salt_8h	endodermis	cross_state_history_mean_1h_3h	1000	405	43.84042086804033	9.23805	0.9950617283950617
+GSE46205_salt_8h	endodermis	cross_state_linear_extrapolation_1h_3h_to_8h	100	26	0.4384042086804033	59.306000000000004	1.0
+GSE46205_salt_8h	endodermis	cross_state_linear_extrapolation_1h_3h_to_8h	250	77	2.740026304252521	28.10192	1.0
+GSE46205_salt_8h	endodermis	cross_state_linear_extrapolation_1h_3h_to_8h	500	187	10.960105217010083	17.06188	1.0
+GSE46205_salt_8h	endodermis	cross_state_linear_extrapolation_1h_3h_to_8h	1000	419	43.84042086804033	9.55739	0.9952267303102625
+GSE46205_salt_8h	stele	latest_same_state_3h	100	52	0.4384042086804033	118.61200000000001	1.0
+GSE46205_salt_8h	stele	latest_same_state_3h	250	159	2.740026304252521	58.02864	1.0
+GSE46205_salt_8h	stele	latest_same_state_3h	500	353	10.960105217010083	32.20772	1.0
+GSE46205_salt_8h	stele	latest_same_state_3h	1000	692	43.84042086804033	15.78452	1.0
+GSE46205_salt_8h	stele	same_state_history_mean_1h_3h	100	43	0.4384042086804033	98.08300000000001	1.0
+GSE46205_salt_8h	stele	same_state_history_mean_1h_3h	250	150	2.740026304252521	54.744	1.0
+GSE46205_salt_8h	stele	same_state_history_mean_1h_3h	500	346	10.960105217010083	31.56904	1.0
+GSE46205_salt_8h	stele	same_state_history_mean_1h_3h	1000	689	43.84042086804033	15.71609	1.0
+GSE46205_salt_8h	stele	same_state_linear_extrapolation_1h_3h_to_8h	100	35	0.4384042086804033	79.83500000000001	1.0
+GSE46205_salt_8h	stele	same_state_linear_extrapolation_1h_3h_to_8h	250	90	2.740026304252521	32.8464	1.0
+GSE46205_salt_8h	stele	same_state_linear_extrapolation_1h_3h_to_8h	500	228	10.960105217010083	20.80272	1.0
+GSE46205_salt_8h	stele	same_state_linear_extrapolation_1h_3h_to_8h	1000	498	43.84042086804033	11.35938	0.9919678714859438
+GSE46205_salt_8h	stele	latest_cross_state_shared_3h	100	34	0.4384042086804033	77.554	1.0
+GSE46205_salt_8h	stele	latest_cross_state_shared_3h	250	107	2.740026304252521	39.05072	1.0
+GSE46205_salt_8h	stele	latest_cross_state_shared_3h	500	245	10.960105217010083	22.3538	1.0
+GSE46205_salt_8h	stele	latest_cross_state_shared_3h	1000	501	43.84042086804033	11.427810000000001	1.0
+GSE46205_salt_8h	stele	cross_state_history_mean_1h_3h	100	29	0.4384042086804033	66.149	1.0
+GSE46205_salt_8h	stele	cross_state_history_mean_1h_3h	250	99	2.740026304252521	36.13104	1.0
+GSE46205_salt_8h	stele	cross_state_history_mean_1h_3h	500	239	10.960105217010083	21.80636	1.0
+GSE46205_salt_8h	stele	cross_state_history_mean_1h_3h	1000	494	43.84042086804033	11.26814	1.0
+GSE46205_salt_8h	stele	cross_state_linear_extrapolation_1h_3h_to_8h	100	21	0.4384042086804033	47.901	1.0
+GSE46205_salt_8h	stele	cross_state_linear_extrapolation_1h_3h_to_8h	250	69	2.740026304252521	25.18224	1.0
+GSE46205_salt_8h	stele	cross_state_linear_extrapolation_1h_3h_to_8h	500	162	10.960105217010083	14.78088	1.0
+GSE46205_salt_8h	stele	cross_state_linear_extrapolation_1h_3h_to_8h	1000	372	43.84042086804033	8.48532	0.9919354838709677
+GSE158761_lateral_root_20h	Ambiguous Stele Cells	PlantVC_persistent_same_state	100	17	0.7189589474441009	23.6453	1.0
+GSE158761_lateral_root_20h	Ambiguous Stele Cells	PlantVC_persistent_same_state	250	59	4.493493421525631	13.130095999999998	1.0
+GSE158761_lateral_root_20h	Ambiguous Stele Cells	PlantVC_persistent_same_state	500	133	17.973973686102525	7.399588	1.0
+GSE158761_lateral_root_20h	Ambiguous Stele Cells	PlantVC_persistent_same_state	1000	323	71.8958947444101	4.492607	0.9938080495356038
+GSE158761_lateral_root_20h	Ambiguous Stele Cells	frozen_broad_shared	100	3	0.7189589474441009	4.1727	0.0
+GSE158761_lateral_root_20h	Ambiguous Stele Cells	frozen_broad_shared	250	12	4.493493421525631	2.670528	0.5
+GSE158761_lateral_root_20h	Ambiguous Stele Cells	frozen_broad_shared	500	34	17.973973686102525	1.891624	0.5882352941176471
+GSE158761_lateral_root_20h	Ambiguous Stele Cells	frozen_broad_shared	1000	91	71.8958947444101	1.2657189999999998	0.5164835164835165
+GSE158761_lateral_root_20h	Columella/ Root Cap	PlantVC_persistent_same_state	100	8	0.6735367414292449	11.8776	1.0
+GSE158761_lateral_root_20h	Columella/ Root Cap	PlantVC_persistent_same_state	250	26	4.209604633932781	6.1763520000000005	0.9615384615384616
+GSE158761_lateral_root_20h	Columella/ Root Cap	PlantVC_persistent_same_state	500	61	16.838418535731122	3.622668	0.9836065573770492
+GSE158761_lateral_root_20h	Columella/ Root Cap	PlantVC_persistent_same_state	1000	196	67.35367414292449	2.9100120000000005	0.9693877551020408
+GSE158761_lateral_root_20h	Columella/ Root Cap	frozen_broad_shared	100	1	0.6735367414292449	1.4847	0.0
+GSE158761_lateral_root_20h	Columella/ Root Cap	frozen_broad_shared	250	4	4.209604633932781	0.950208	0.25
+GSE158761_lateral_root_20h	Columella/ Root Cap	frozen_broad_shared	500	17	16.838418535731122	1.0095960000000002	0.4117647058823529
+GSE158761_lateral_root_20h	Columella/ Root Cap	frozen_broad_shared	1000	80	67.35367414292449	1.18776	0.375
+GSE158761_lateral_root_20h	Epidermis	PlantVC_persistent_same_state	100	4	0.6588483331137173	6.071199999999999	0.75
+GSE158761_lateral_root_20h	Epidermis	PlantVC_persistent_same_state	250	20	4.117802081960733	4.85696	0.75
+GSE158761_lateral_root_20h	Epidermis	PlantVC_persistent_same_state	500	56	16.47120832784293	3.399872	0.75
+GSE158761_lateral_root_20h	Epidermis	PlantVC_persistent_same_state	1000	163	65.88483331137172	2.474014	0.7607361963190185
+GSE158761_lateral_root_20h	Epidermis	frozen_broad_shared	100	4	0.6588483331137173	6.071199999999999	0.75
+GSE158761_lateral_root_20h	Epidermis	frozen_broad_shared	250	9	4.117802081960733	2.185632	0.3333333333333333
+GSE158761_lateral_root_20h	Epidermis	frozen_broad_shared	500	31	16.47120832784293	1.882072	0.2903225806451613
+GSE158761_lateral_root_20h	Epidermis	frozen_broad_shared	1000	75	65.88483331137172	1.13835	0.32
+GSE158761_lateral_root_20h	Lateral Root Endodermis	PlantVC_persistent_same_state	100	13	0.946163307786924	13.7397	1.0
+GSE158761_lateral_root_20h	Lateral Root Endodermis	PlantVC_persistent_same_state	250	52	5.913520673668275	8.793408	1.0
+GSE158761_lateral_root_20h	Lateral Root Endodermis	PlantVC_persistent_same_state	500	142	23.6540826946731	6.003192	1.0
+GSE158761_lateral_root_20h	Lateral Root Endodermis	PlantVC_persistent_same_state	1000	287	94.6163307786924	3.033303	1.0
+GSE158761_lateral_root_20h	Lateral Root Endodermis	frozen_broad_shared	100	1	0.946163307786924	1.0569	0.0
+GSE158761_lateral_root_20h	Lateral Root Endodermis	frozen_broad_shared	250	7	5.913520673668275	1.183728	0.4285714285714285
+GSE158761_lateral_root_20h	Lateral Root Endodermis	frozen_broad_shared	500	24	23.6540826946731	1.014624	0.3333333333333333
+GSE158761_lateral_root_20h	Lateral Root Endodermis	frozen_broad_shared	1000	115	94.6163307786924	1.215435	0.5652173913043478
+GSE158761_lateral_root_20h	Mature Pericycle	PlantVC_persistent_same_state	100	10	0.8513536523071684	11.746	1.0
+GSE158761_lateral_root_20h	Mature Pericycle	PlantVC_persistent_same_state	250	32	5.320960326919803	6.013952	1.0
+GSE158761_lateral_root_20h	Mature Pericycle	PlantVC_persistent_same_state	500	99	21.28384130767921	4.651416	1.0
+GSE158761_lateral_root_20h	Mature Pericycle	PlantVC_persistent_same_state	1000	273	85.13536523071684	3.206658	0.9926739926739928
+GSE158761_lateral_root_20h	Mature Pericycle	frozen_broad_shared	100	1	0.8513536523071684	1.1746	0.0
+GSE158761_lateral_root_20h	Mature Pericycle	frozen_broad_shared	250	8	5.320960326919803	1.503488	0.375
+GSE158761_lateral_root_20h	Mature Pericycle	frozen_broad_shared	500	26	21.28384130767921	1.221584	0.5769230769230769
+GSE158761_lateral_root_20h	Mature Pericycle	frozen_broad_shared	1000	113	85.13536523071684	1.327298	0.5575221238938053
+GSE158761_lateral_root_20h	Phloem	PlantVC_persistent_same_state	100	21	1.1406410402646288	18.4107	1.0
+GSE158761_lateral_root_20h	Phloem	PlantVC_persistent_same_state	250	63	7.1290065016539295	8.837136	1.0
+GSE158761_lateral_root_20h	Phloem	PlantVC_persistent_same_state	500	151	28.51602600661572	5.295268	1.0
+GSE158761_lateral_root_20h	Phloem	PlantVC_persistent_same_state	1000	367	114.06410402646289	3.217489	0.997275204359673
+GSE158761_lateral_root_20h	Phloem	frozen_broad_shared	100	5	1.1406410402646288	4.3835	0.4
+GSE158761_lateral_root_20h	Phloem	frozen_broad_shared	250	16	7.1290065016539295	2.244352	0.3125
+GSE158761_lateral_root_20h	Phloem	frozen_broad_shared	500	52	28.51602600661572	1.823536	0.4423076923076923
+GSE158761_lateral_root_20h	Phloem	frozen_broad_shared	1000	153	114.06410402646289	1.341351	0.5032679738562091
+GSE158761_lateral_root_20h	Phloem Pole Pericycle	PlantVC_persistent_same_state	100	12	0.6337537233031244	18.9348	1.0
+GSE158761_lateral_root_20h	Phloem Pole Pericycle	PlantVC_persistent_same_state	250	33	3.9609607706445273	8.331312	1.0
+GSE158761_lateral_root_20h	Phloem Pole Pericycle	PlantVC_persistent_same_state	500	80	15.84384308257811	5.04928	1.0
+GSE158761_lateral_root_20h	Phloem Pole Pericycle	PlantVC_persistent_same_state	1000	246	63.37537233031244	3.881634	0.9796747967479674
+GSE158761_lateral_root_20h	Phloem Pole Pericycle	frozen_broad_shared	100	3	0.6337537233031244	4.7337	0.6666666666666666
+GSE158761_lateral_root_20h	Phloem Pole Pericycle	frozen_broad_shared	250	7	3.9609607706445273	1.7672480000000002	0.5714285714285714
+GSE158761_lateral_root_20h	Phloem Pole Pericycle	frozen_broad_shared	500	24	15.84384308257811	1.514784	0.5
+GSE158761_lateral_root_20h	Phloem Pole Pericycle	frozen_broad_shared	1000	81	63.37537233031244	1.278099	0.4938271604938271
+GSE158761_lateral_root_20h	Xylem	PlantVC_persistent_same_state	100	13	0.8790436005625879	14.7888	1.0
+GSE158761_lateral_root_20h	Xylem	PlantVC_persistent_same_state	250	34	5.494022503516175	6.188543999999999	1.0
+GSE158761_lateral_root_20h	Xylem	PlantVC_persistent_same_state	500	109	21.9760900140647	4.959936	1.0
+GSE158761_lateral_root_20h	Xylem	PlantVC_persistent_same_state	1000	256	87.9043600562588	2.912256	1.0
+GSE158761_lateral_root_20h	Xylem	frozen_broad_shared	100	1	0.8790436005625879	1.1376	0.0
+GSE158761_lateral_root_20h	Xylem	frozen_broad_shared	250	11	5.494022503516175	2.002176	0.3636363636363636
+GSE158761_lateral_root_20h	Xylem	frozen_broad_shared	500	28	21.9760900140647	1.274112	0.3571428571428571
+GSE158761_lateral_root_20h	Xylem	frozen_broad_shared	1000	109	87.9043600562588	1.239984	0.3486238532110092
+GSE158761_lateral_root_20h	Xylem Pole Pericycle	PlantVC_persistent_same_state	100	11	0.6632619221330504	16.584699999999998	1.0
+GSE158761_lateral_root_20h	Xylem Pole Pericycle	PlantVC_persistent_same_state	250	26	4.145387013331565	6.272032	1.0
+GSE158761_lateral_root_20h	Xylem Pole Pericycle	PlantVC_persistent_same_state	500	62	16.58154805332626	3.739096	0.967741935483871
+GSE158761_lateral_root_20h	Xylem Pole Pericycle	PlantVC_persistent_same_state	1000	163	66.32619221330503	2.457551	0.9693251533742332
+GSE158761_lateral_root_20h	Xylem Pole Pericycle	frozen_broad_shared	100	5	0.6632619221330504	7.5385	0.2
+GSE158761_lateral_root_20h	Xylem Pole Pericycle	frozen_broad_shared	250	9	4.145387013331565	2.171088	0.2222222222222222
+GSE158761_lateral_root_20h	Xylem Pole Pericycle	frozen_broad_shared	500	28	16.58154805332626	1.688624	0.5357142857142857
+GSE158761_lateral_root_20h	Xylem Pole Pericycle	frozen_broad_shared	1000	97	66.32619221330503	1.462469	0.5051546391752577

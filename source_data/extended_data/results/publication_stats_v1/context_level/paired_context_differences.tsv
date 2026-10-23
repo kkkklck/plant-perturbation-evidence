@@ -1,0 +1,27 @@
+dataset	context	metric	paired_difference
+GSE158761_lateral_root_20h	Ambiguous Stele Cells	full_vector_rho	0.38577821132072326
+GSE158761_lateral_root_20h	Columella/ Root Cap	full_vector_rho	0.3350387900693163
+GSE158761_lateral_root_20h	Epidermis	full_vector_rho	0.21816498400222278
+GSE158761_lateral_root_20h	Lateral Root Endodermis	full_vector_rho	0.3999735100666004
+GSE158761_lateral_root_20h	Mature Pericycle	full_vector_rho	0.3966898960228769
+GSE158761_lateral_root_20h	Phloem	full_vector_rho	0.4716838416686168
+GSE158761_lateral_root_20h	Phloem Pole Pericycle	full_vector_rho	0.36330046285931084
+GSE158761_lateral_root_20h	Xylem	full_vector_rho	0.383439413346908
+GSE158761_lateral_root_20h	Xylem Pole Pericycle	full_vector_rho	0.2211950718290416
+GSE158761_lateral_root_20h	Ambiguous Stele Cells	top100_overlap	14.0
+GSE158761_lateral_root_20h	Columella/ Root Cap	top100_overlap	7.0
+GSE158761_lateral_root_20h	Epidermis	top100_overlap	0.0
+GSE158761_lateral_root_20h	Lateral Root Endodermis	top100_overlap	12.0
+GSE158761_lateral_root_20h	Mature Pericycle	top100_overlap	9.0
+GSE158761_lateral_root_20h	Phloem	top100_overlap	16.0
+GSE158761_lateral_root_20h	Phloem Pole Pericycle	top100_overlap	9.0
+GSE158761_lateral_root_20h	Xylem	top100_overlap	12.0
+GSE158761_lateral_root_20h	Xylem Pole Pericycle	top100_overlap	6.0
+GSE46205_salt_8h	cortex	full_vector_rho	0.16478103344372863
+GSE46205_salt_8h	endodermis	full_vector_rho	0.25144080557459947
+GSE46205_salt_8h	epidermis	full_vector_rho	0.31065427794994804
+GSE46205_salt_8h	stele	full_vector_rho	0.16106768373505476
+GSE46205_salt_8h	cortex	top100_overlap	5.0
+GSE46205_salt_8h	endodermis	top100_overlap	44.0
+GSE46205_salt_8h	epidermis	top100_overlap	27.0
+GSE46205_salt_8h	stele	top100_overlap	18.0

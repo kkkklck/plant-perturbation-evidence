@@ -1,0 +1,29 @@
+{
+  "version": "PlantVC-v1.0-prototype-2026-10-20",
+  "status": "RANKED",
+  "task_name": "GSE158761 8h -> 20h | Epidermis",
+  "regime": "persistent",
+  "input": "data/external_lateral_root/GSE158761/plantvc_v1_blind/evidence_epidermis.tsv.gz",
+  "input_sha256": "20041ecae1b5a1e16b9f0e3e4a1fd4e595db3f807bf783b85092486a9d08021c",
+  "config_sha256": "b294d223a5eca317bf0f6cea0a380cd55e0c33dd76a579c53fa63ab01454810a",
+  "ranking_sha256": "b8a624d0c1e3d86f04f7f73e068d7291d3967bd51c84ad108c3ba1e37ff20697",
+  "n_input_rows": 18868,
+  "n_ranked_genes": 15178,
+  "top_k": [
+    100,
+    250,
+    500,
+    1000
+  ],
+  "method": {
+    "primary_evidence": "r8",
+    "history_columns_for_confidence_only": [
+      "r8_repA",
+      "r8_repB"
+    ],
+    "ranking_rule": "abs(r8) descending",
+    "confidence_affects_ranking": false
+  },
+  "important_note": "confidence_descriptor is an evidence-consistency descriptor, not a calibrated probability of correctness",
+  "generated_utc": "2026-10-20T14:21:40.008859+00:00"
+}

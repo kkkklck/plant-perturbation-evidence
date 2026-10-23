@@ -1,0 +1,185 @@
+section	dataset	context	model	metric	value	aux	note
+rice_full_vector	Robertson2026	Mild.Drought|Epidermis	biological_replicates	replicate_response_spearman	0.2265910457424159		
+rice_full_vector	Robertson2026	Mild.Drought|Meristem	biological_replicates	replicate_response_spearman	0.0950238713955672		
+rice_full_vector	Robertson2026	Mild.Drought|Mesophyll	biological_replicates	replicate_response_spearman	0.1870551533896647		
+rice_full_vector	Robertson2026	Mild.Drought|Vasculature	biological_replicates	replicate_response_spearman	0.201814520977179		
+rice_full_vector	Robertson2026	Moderate.Drought|Epidermis	biological_replicates	replicate_response_spearman	0.034802703642611		
+rice_full_vector	Robertson2026	Moderate.Drought|Meristem	biological_replicates	replicate_response_spearman	-0.0041460163667004		
+rice_full_vector	Robertson2026	Moderate.Drought|Mesophyll	biological_replicates	replicate_response_spearman	0.0862189915422469		
+rice_full_vector	Robertson2026	Moderate.Drought|Vasculature	biological_replicates	replicate_response_spearman	0.0154743470726774		
+rice_full_vector	Robertson2026	Mild.Salinity|Epidermis	biological_replicates	replicate_response_spearman	0.1749260346902863		
+rice_full_vector	Robertson2026	Mild.Salinity|Meristem	biological_replicates	replicate_response_spearman	-0.0036213790267105		
+rice_full_vector	Robertson2026	Mild.Salinity|Mesophyll	biological_replicates	replicate_response_spearman	0.2237531609710414		
+rice_full_vector	Robertson2026	Mild.Salinity|Vasculature	biological_replicates	replicate_response_spearman	-0.0010205762873281		
+rice_full_vector	Robertson2026	Moderate.Salinity|Epidermis	biological_replicates	replicate_response_spearman	0.1256204126331085		
+rice_full_vector	Robertson2026	Moderate.Salinity|Meristem	biological_replicates	replicate_response_spearman	0.1092962021873823		
+rice_full_vector	Robertson2026	Moderate.Salinity|Mesophyll	biological_replicates	replicate_response_spearman	0.1541140171684302		
+rice_full_vector	Robertson2026	Moderate.Salinity|Vasculature	biological_replicates	replicate_response_spearman	0.1246233040490834		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Epidermis	Top100_response_candidates	observed_overlap	13.0		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Epidermis	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Epidermis	Top100_response_candidates	random_enrichment	33.735		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Meristem	Top100_response_candidates	observed_overlap	11.0		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Meristem	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Meristem	Top100_response_candidates	random_enrichment	28.545		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Mesophyll	Top100_response_candidates	observed_overlap	16.0		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Mesophyll	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Mesophyll	Top100_response_candidates	random_enrichment	41.52		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Vasculature	Top100_response_candidates	observed_overlap	10.0		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Vasculature	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Mild.Drought|Vasculature	Top100_response_candidates	random_enrichment	25.95		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Epidermis	Top100_response_candidates	observed_overlap	32.0		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Epidermis	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Epidermis	Top100_response_candidates	random_enrichment	83.03999999999999		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Meristem	Top100_response_candidates	observed_overlap	29.0		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Meristem	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Meristem	Top100_response_candidates	random_enrichment	75.255		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Mesophyll	Top100_response_candidates	observed_overlap	29.0		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Mesophyll	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Mesophyll	Top100_response_candidates	random_enrichment	75.255		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Vasculature	Top100_response_candidates	observed_overlap	29.0		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Vasculature	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Moderate.Drought|Vasculature	Top100_response_candidates	random_enrichment	75.255		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Epidermis	Top100_response_candidates	observed_overlap	13.0		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Epidermis	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Epidermis	Top100_response_candidates	random_enrichment	33.735		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Meristem	Top100_response_candidates	observed_overlap	12.0		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Meristem	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Meristem	Top100_response_candidates	random_enrichment	31.14		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Mesophyll	Top100_response_candidates	observed_overlap	13.0		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Mesophyll	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Mesophyll	Top100_response_candidates	random_enrichment	33.735		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Vasculature	Top100_response_candidates	observed_overlap	16.0		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Vasculature	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Mild.Salinity|Vasculature	Top100_response_candidates	random_enrichment	41.52		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Epidermis	Top100_response_candidates	observed_overlap	21.0		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Epidermis	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Epidermis	Top100_response_candidates	random_enrichment	54.495		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Meristem	Top100_response_candidates	observed_overlap	25.0		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Meristem	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Meristem	Top100_response_candidates	random_enrichment	64.875		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Mesophyll	Top100_response_candidates	observed_overlap	22.0		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Mesophyll	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Mesophyll	Top100_response_candidates	random_enrichment	57.09		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Vasculature	Top100_response_candidates	observed_overlap	23.0		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Vasculature	Top100_response_candidates	random_expected_overlap	0.3853564547206166		
+rice_top100_random_expectation	Robertson2026	Moderate.Salinity|Vasculature	Top100_response_candidates	random_enrichment	59.685		
+rice_top100_matched_null	Robertson2026	Mild.Drought|Epidermis	Top100_response_candidates	observed_overlap	13.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Epidermis	Top100_response_candidates	null_mean	1.0077		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Epidermis	Top100_response_candidates	null_q99	4.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Epidermis	Top100_response_candidates	matched_enrichment	12.90066488042076		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Epidermis	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Epidermis	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Meristem	Top100_response_candidates	observed_overlap	11.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Meristem	Top100_response_candidates	null_mean	0.9056		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Meristem	Top100_response_candidates	null_q99	4.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Meristem	Top100_response_candidates	matched_enrichment	12.146643109540635		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Meristem	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Meristem	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Mesophyll	Top100_response_candidates	observed_overlap	16.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Mesophyll	Top100_response_candidates	null_mean	1.1088		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Mesophyll	Top100_response_candidates	null_q99	4.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Mesophyll	Top100_response_candidates	matched_enrichment	14.43001443001443		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Mesophyll	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Mesophyll	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Vasculature	Top100_response_candidates	observed_overlap	10.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Vasculature	Top100_response_candidates	null_mean	0.8116		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Vasculature	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Vasculature	Top100_response_candidates	matched_enrichment	12.32134056185313		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Vasculature	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Drought|Vasculature	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Epidermis	Top100_response_candidates	observed_overlap	13.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Epidermis	Top100_response_candidates	null_mean	0.7287		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Epidermis	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Epidermis	Top100_response_candidates	matched_enrichment	17.839989021545218		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Epidermis	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Epidermis	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Meristem	Top100_response_candidates	observed_overlap	12.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Meristem	Top100_response_candidates	null_mean	0.8308		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Meristem	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Meristem	Top100_response_candidates	matched_enrichment	14.443909484833895		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Meristem	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Meristem	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Mesophyll	Top100_response_candidates	observed_overlap	13.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Mesophyll	Top100_response_candidates	null_mean	0.8265		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Mesophyll	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Mesophyll	Top100_response_candidates	matched_enrichment	15.72897761645493		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Mesophyll	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Mesophyll	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Vasculature	Top100_response_candidates	observed_overlap	16.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Vasculature	Top100_response_candidates	null_mean	0.7733		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Vasculature	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Vasculature	Top100_response_candidates	matched_enrichment	20.69054700633648		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Vasculature	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Mild.Salinity|Vasculature	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Epidermis	Top100_response_candidates	observed_overlap	32.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Epidermis	Top100_response_candidates	null_mean	0.6308		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Epidermis	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Epidermis	Top100_response_candidates	matched_enrichment	50.7292327203551		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Epidermis	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Epidermis	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Meristem	Top100_response_candidates	observed_overlap	29.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Meristem	Top100_response_candidates	null_mean	0.6808		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Meristem	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Meristem	Top100_response_candidates	matched_enrichment	42.59694477085782		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Meristem	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Meristem	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Mesophyll	Top100_response_candidates	observed_overlap	29.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Mesophyll	Top100_response_candidates	null_mean	0.6827		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Mesophyll	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Mesophyll	Top100_response_candidates	matched_enrichment	42.4783946096382		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Mesophyll	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Mesophyll	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Vasculature	Top100_response_candidates	observed_overlap	29.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Vasculature	Top100_response_candidates	null_mean	0.7047		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Vasculature	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Vasculature	Top100_response_candidates	matched_enrichment	41.1522633744856		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Vasculature	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Drought|Vasculature	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Epidermis	Top100_response_candidates	observed_overlap	21.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Epidermis	Top100_response_candidates	null_mean	0.7035		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Epidermis	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Epidermis	Top100_response_candidates	matched_enrichment	29.85074626865672		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Epidermis	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Epidermis	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Meristem	Top100_response_candidates	observed_overlap	25.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Meristem	Top100_response_candidates	null_mean	0.7843		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Meristem	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Meristem	Top100_response_candidates	matched_enrichment	31.87555782226189		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Meristem	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Meristem	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Mesophyll	Top100_response_candidates	observed_overlap	22.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Mesophyll	Top100_response_candidates	null_mean	0.7332		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Mesophyll	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Mesophyll	Top100_response_candidates	matched_enrichment	30.005455537370437		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Mesophyll	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Mesophyll	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Vasculature	Top100_response_candidates	observed_overlap	23.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Vasculature	Top100_response_candidates	null_mean	0.6323		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Vasculature	Top100_response_candidates	null_q99	3.0		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Vasculature	Top100_response_candidates	matched_enrichment	36.37513838367863		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Vasculature	Top100_response_candidates	empirical_p_one_sided	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_top100_matched_null	Robertson2026	Moderate.Salinity|Vasculature	Top100_response_candidates	q_bh_16_tests	9.999000099990002e-05		control mean expression quintile + control batch-instability quintile
+rice_condition_summary	Robertson2026	Mild.Drought	Top100_response_candidates	median_observed_overlap	12.0		
+rice_condition_summary	Robertson2026	Mild.Drought	Top100_response_candidates	median_null_mean	0.95665		
+rice_condition_summary	Robertson2026	Mild.Drought	Top100_response_candidates	median_matched_enrichment	12.611002721136945		
+rice_condition_summary	Robertson2026	Mild.Drought	Top100_response_candidates	min_matched_enrichment	12.146643109540635		
+rice_condition_summary	Robertson2026	Mild.Drought	Top100_response_candidates	n_q_lt_0_05	4.0		
+rice_condition_summary	Robertson2026	Mild.Drought	Top100_response_candidates	max_q	9.999000099990002e-05		
+rice_condition_summary	Robertson2026	Mild.Salinity	Top100_response_candidates	median_observed_overlap	13.0		
+rice_condition_summary	Robertson2026	Mild.Salinity	Top100_response_candidates	median_null_mean	0.7999		
+rice_condition_summary	Robertson2026	Mild.Salinity	Top100_response_candidates	median_matched_enrichment	16.784483319000074		
+rice_condition_summary	Robertson2026	Mild.Salinity	Top100_response_candidates	min_matched_enrichment	14.443909484833895		
+rice_condition_summary	Robertson2026	Mild.Salinity	Top100_response_candidates	n_q_lt_0_05	4.0		
+rice_condition_summary	Robertson2026	Mild.Salinity	Top100_response_candidates	max_q	9.999000099990002e-05		
+rice_condition_summary	Robertson2026	Moderate.Drought	Top100_response_candidates	median_observed_overlap	29.0		
+rice_condition_summary	Robertson2026	Moderate.Drought	Top100_response_candidates	median_null_mean	0.68175		
+rice_condition_summary	Robertson2026	Moderate.Drought	Top100_response_candidates	median_matched_enrichment	42.53766969024801		
+rice_condition_summary	Robertson2026	Moderate.Drought	Top100_response_candidates	min_matched_enrichment	41.1522633744856		
+rice_condition_summary	Robertson2026	Moderate.Drought	Top100_response_candidates	n_q_lt_0_05	4.0		
+rice_condition_summary	Robertson2026	Moderate.Drought	Top100_response_candidates	max_q	9.999000099990002e-05		
+rice_condition_summary	Robertson2026	Moderate.Salinity	Top100_response_candidates	median_observed_overlap	22.5		
+rice_condition_summary	Robertson2026	Moderate.Salinity	Top100_response_candidates	median_null_mean	0.71835		
+rice_condition_summary	Robertson2026	Moderate.Salinity	Top100_response_candidates	median_matched_enrichment	30.94050667981616		
+rice_condition_summary	Robertson2026	Moderate.Salinity	Top100_response_candidates	min_matched_enrichment	29.85074626865672		
+rice_condition_summary	Robertson2026	Moderate.Salinity	Top100_response_candidates	n_q_lt_0_05	4.0		
+rice_condition_summary	Robertson2026	Moderate.Salinity	Top100_response_candidates	max_q	9.999000099990002e-05		

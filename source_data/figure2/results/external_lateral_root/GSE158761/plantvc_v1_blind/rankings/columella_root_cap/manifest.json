@@ -1,0 +1,29 @@
+{
+  "version": "PlantVC-v1.0-prototype-2026-10-20",
+  "status": "RANKED",
+  "task_name": "GSE158761 8h -> 20h | Columella/ Root Cap",
+  "regime": "persistent",
+  "input": "data/external_lateral_root/GSE158761/plantvc_v1_blind/evidence_columella_root_cap.tsv.gz",
+  "input_sha256": "6236e11d582d6c49d2f4f7027d2e237ea09f71b201f6e9c5cb016ab6f9541d29",
+  "config_sha256": "0f0d03d199f23acb11737d8f3749383c04789d992d014ffc983f60f21af2e2cb",
+  "ranking_sha256": "923570e8357cf756353017f961c68f2901c344a6ee8daaa8c51d87cb9eed0915",
+  "n_input_rows": 18868,
+  "n_ranked_genes": 14847,
+  "top_k": [
+    100,
+    250,
+    500,
+    1000
+  ],
+  "method": {
+    "primary_evidence": "r8",
+    "history_columns_for_confidence_only": [
+      "r8_repA",
+      "r8_repB"
+    ],
+    "ranking_rule": "abs(r8) descending",
+    "confidence_affects_ranking": false
+  },
+  "important_note": "confidence_descriptor is an evidence-consistency descriptor, not a calibrated probability of correctness",
+  "generated_utc": "2026-10-20T14:21:38.784476+00:00"
+}

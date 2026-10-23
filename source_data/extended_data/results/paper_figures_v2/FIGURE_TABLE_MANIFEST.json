@@ -1,0 +1,108 @@
+{
+  "status": "PAPER_FIGURE_TABLES_V2_TOP_TIER_CLOSURE",
+  "output_dir": "data/paper_figures_v2",
+  "main_figure_count": 4,
+  "story": [
+    "candidate stability and prediction-target redefinition",
+    "future time: latest same-state history as robust default",
+    "missing state / experiment: cross-state shared evidence transfer",
+    "task structure first; source capability controls output granularity and uncertainty boundary"
+  ],
+  "source_files": [
+    {
+      "path": "data/external_rice/Robertson2026/candidate_recovery_v0/candidate_overlap_significance.tsv",
+      "sha256": "583222ec3121d5f515ddba6ec69e45340e710cc26eff96344673bda66e0fa1fc"
+    },
+    {
+      "path": "data/external_rice/Robertson2026/candidate_recovery_v0/matched_null_v1/condition_summary.tsv",
+      "sha256": "d8c15a2501d5b8554b009cf41499bce482112ca75a557902055b281eac37cfcb"
+    },
+    {
+      "path": "data/external_rice/Robertson2026/candidate_recovery_v0/matched_null_v1/tissuesystem_top100_matched_null.tsv",
+      "sha256": "8a951fb7a070a1b91c200f6baa93a285d2b0cdadfabfdd4fa7044eeb2ec53233"
+    },
+    {
+      "path": "data/external_rice/Robertson2026/tissuesystem_structure_v0/state_metrics.tsv",
+      "sha256": "64b42ff87edeb630faf319c0f54647c8679c6609bc55ead0e21a447f94ecd9b4"
+    },
+    {
+      "path": "data/paper_figures_v1/fig3_future_time.tsv",
+      "sha256": "ff2e9af6c9bec7e700f5b0b1bc1b3b5f877a2825fb5f8979e920f2eb0748a6f0"
+    },
+    {
+      "path": "data/paper_figures_v1/fig4_missing_state_transfer.tsv",
+      "sha256": "c96fd9f480da5b93d3dfad14dec7d147c13969af82961bb94361a0ca5954e175"
+    },
+    {
+      "path": "data/prospective_task/immune_missing_state/publication_stats_v1/hierarchical_bootstrap_gate_vs_reject.tsv",
+      "sha256": "14e302fed26754cbb6cac01eba038b54981ca54cb228bcb30e70ec0a355dffd0"
+    },
+    {
+      "path": "data/prospective_task/immune_missing_state/publication_stats_v1/stimulus_level_confounder_correlations.tsv",
+      "sha256": "d0233f2c340ddfc91a7a2b62473240f3f8c789ba13a8cc265dd8b72078114c5d"
+    },
+    {
+      "path": "data/prospective_task/immune_missing_state/publication_stats_v1/stimulus_level_source_vs_target.tsv",
+      "sha256": "c15ff6f9e6c08715cfd7de576bbb2fc66c475516481f2a76eb013247f28c329d"
+    },
+    {
+      "path": "data/prospective_task/immune_missing_state/publication_stats_v1/top100_matched_empirical_null.tsv",
+      "sha256": "6007e20a4cc3100381e7ad4085f146b765d14f79e006ba37eea2132b0a23ae54"
+    },
+    {
+      "path": "data/publication_baseline_suite_v2_corrected/baseline_suite_aggregate.tsv",
+      "sha256": "0e13079f9d1f186f4bb37baa2f17012ee5949453070bee5de2062ba59cb81480"
+    },
+    {
+      "path": "data/publication_baselines_v1/heatshock/heatshock_baseline_summary.tsv",
+      "sha256": "f72d0f95123f2e9b33563d2985fd7271033da65d91768cb1b1365cfeba66b606"
+    },
+    {
+      "path": "data/publication_controls_v1/gse46205_corrected_publication_stats/corrected_paired_context_inference.tsv",
+      "sha256": "924c3e620f3f26be3d48ec5894eacca9a8603a5b9badd474484ffb8439faa972"
+    },
+    {
+      "path": "data/publication_controls_v1/gse46205_corrected_publication_stats/future_time_matched_null_complete_corrected.tsv",
+      "sha256": "f8ddcf63fb8d4fe2d18a5d16d4f44bf9bb7483b92f3144560aeccc6cab45e57d"
+    },
+    {
+      "path": "data/publication_controls_v1/gse46205_preprocessing_correction/corrected_route_comparison.tsv",
+      "sha256": "4895fa633acf7c6873cb284dbeaef660e63c033bb78ea7f196cf998699b54fdd"
+    },
+    {
+      "path": "data/publication_controls_v1/heatshock_crossstudy_negative_controls/wrong_perturbation_pairwise.tsv",
+      "sha256": "7fc1a5567be702318a549433fc7761712337ff90cfe3fb06d535a580bb86897d"
+    },
+    {
+      "path": "data/publication_controls_v1/heatshock_matched_nulls/heatshock_matched_null_summary.tsv",
+      "sha256": "acf0c99bc598c864429fa698e8d2bd40216ec1c013afcb0c3b7b8a22c8a3a757"
+    },
+    {
+      "path": "data/publication_stats_v1/context_level/paired_context_inference.tsv",
+      "sha256": "422367a10a500d5a9756e9da503e92b29d6e555bdda5a438e8eb2a23cfaec60c"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "data/paper_figures_v2/fig1_candidate_stability_and_problem_definition.tsv",
+      "rows": 184,
+      "sha256": "e1431292b1a9ed08c97b71a6d980a5cbaf586bdfb6f0a8eb37bf572fbfe65d79"
+    },
+    {
+      "path": "data/paper_figures_v2/fig2_future_time.tsv",
+      "rows": 361,
+      "sha256": "2fe380e202a7da7521442f5c8bf391acc92527949e7c33c5e12f59b3e6251f5c"
+    },
+    {
+      "path": "data/paper_figures_v2/fig3_missing_state_and_cross_experiment.tsv",
+      "rows": 162,
+      "sha256": "b58eff4b3b2c38854a7164dde5a406c95ae72d5efe8f98a062290bccf631f897"
+    },
+    {
+      "path": "data/paper_figures_v2/fig4_reliability_stratification_and_boundary.tsv",
+      "rows": 366,
+      "sha256": "733099600fe8731521d3464617d600d0ccdb9905a9d29fec4373f3d73e272a06"
+    }
+  ],
+  "important_boundary": "Immune source geometry is retained as the historically frozen reliability rule, but the v2 story does not claim geometry is independent of response amplitude."
+}

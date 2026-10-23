@@ -1,0 +1,55 @@
+{
+  "status": "REVEALED_AND_SCORED",
+  "rule_version": "task_structure_v0.1",
+  "task_type": "missing_state",
+  "stimuli_total": 5,
+  "stimuli_allowed_gene_level": [
+    "Pep1",
+    "SCOOP10",
+    "SCREW1"
+  ],
+  "stimuli_rejected_gene_level": [
+    "flg22",
+    "Chitin"
+  ],
+  "n_allowed": 3,
+  "n_rejected": 2,
+  "allowed_median_full_rho": 0.5458441936421977,
+  "rejected_median_full_rho": 0.3154772763285514,
+  "allowed_median_top100_enrichment": 26.577600000000004,
+  "rejected_median_top100_enrichment": 16.28445,
+  "target_file_sha256": {
+    "flg22": {
+      "Rootcap_LRC": "068dc690511273420b7cc6ae9352e8569ba9d53b1aa801d02f97f7b6eb19e681",
+      "Meristem_Cortex": "b5e34915c5d889ce303f622767c2d34fbc76612cc95baa1a09be4e1e90b48bf8",
+      "Elongation_Endodermis": "63b2c89b82e600c19810672a8a562f1231dbe1ecf326749f98ee089e026806e2",
+      "Maturation_Stele": "6647012b10d7ac3bc0af0d0e8b60930c80a487680623cd80e517d0b8f1e186b8"
+    },
+    "Pep1": {
+      "Rootcap_LRC": "2be962bab965a37fb79ff44aad4b910052843f8e96016682ce94fa4f9e0816ab",
+      "Meristem_Cortex": "c104a995df7d10361d785939475c0eb9989d22ab39a9367bc21b37917fc14005",
+      "Elongation_Endodermis": "f61b8f812af7685d588ac0f53f2d581b0750322b66e4a1225c56db5fcfeea7a7",
+      "Maturation_Stele": "e1e8fd65d6342ad5149a7126807c1618306a6baf277033f0dee126d5d1dd0acf"
+    },
+    "Chitin": {
+      "Rootcap_LRC": "6b1858352987dfb7b74426dc3aadd6ce13ba41c2db245e1271f233ccdc42a919",
+      "Meristem_Cortex": "537ab453df0df60f3ef286eeec4192e2ea82e8480751095c57ac66eb3f978341",
+      "Elongation_Endodermis": "93b2eb7ab7695d53a23714ceebba0ceaee8244637dead778a5237aada9b66a66",
+      "Maturation_Stele": "58583d083b57f270053976a083228a1f90dd47f9311f34312aab90ffbe469e6c"
+    },
+    "SCOOP10": {
+      "Rootcap_LRC": "b9c8d8ab4b48937d9f1bcbcbaaaf50b49d4bc66ffec2379c590723f7279ed16a",
+      "Meristem_Cortex": "aa6e64c5941567c1b22a5b055306681d603ab59e57b271c598f19db5195801a0",
+      "Elongation_Endodermis": "071b76b2581273273cb9b89ee0ae588d08d01e9fa17dce3bde6289f4244e6151",
+      "Maturation_Stele": "63157c023706adada13ae8f9f9773549be3783f6fe2745a26c278b437d659c60"
+    },
+    "SCREW1": {
+      "Rootcap_LRC": "22d660e470a923332c6cee32e936e4e4f60a255aabd9c8a078e241e043424d6e",
+      "Meristem_Cortex": "52f877216b4a8466b46225ee2be599abc6a7a526c374a9ada728078ce3488ba2",
+      "Elongation_Endodermis": "c652ce3947d92ce8cc45c8c427b14f68339adf191b80a1f843f8aa9cb01c6d12",
+      "Maturation_Stele": "1f00cc21a9038fd9a21701a4b33695b011048727860ed5dec70e9692636e152e"
+    }
+  },
+  "upstream_monolithic_rds_firewall_limitation": true,
+  "target_values_used_for_route_or_prediction": false
+}

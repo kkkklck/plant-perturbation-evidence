@@ -1,0 +1,18 @@
+{
+  "task_name": "拒判与机制专门候选程序回归",
+  "task_type": "missing_state",
+  "input": "tests/fixtures/rejected_sharedness_smoke.tsv",
+  "gene_column": "gene",
+  "donor_columns": ["donor_a", "donor_b"],
+  "mechanism_overlay": {
+    "input": "tests/fixtures/rejected_mechanism_overlay_smoke.tsv",
+    "independent_of_target": true,
+    "gene_column": "gene",
+    "tier_column": "mechanism_tier",
+    "expected_direction_column": "expected_direction",
+    "context_column": "context_compatible",
+    "note_column": "evidence_note"
+  },
+  "output_dir": "data/task_structure_v0_2_regression/reject_with_mechanism_smoke",
+  "top_k": [100]
+}

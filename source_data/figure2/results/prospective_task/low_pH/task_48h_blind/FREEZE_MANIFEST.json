@@ -1,0 +1,46 @@
+{
+  "status": "FROZEN_BEFORE_48H_TARGET",
+  "rule_version": "task_structure_v0.1",
+  "task_type": "future_time",
+  "decision": "最近同状态历史",
+  "primary_predictor": "persistent_whole_24h",
+  "alternative_predictor": "shared_celltypes_24h",
+  "celltype_shared_geometry_descriptive_only": {
+    "rank1_energy": 0.38760284550727747,
+    "rank1_3_energy": 0.725311379753622,
+    "median_pairwise_rho": 0.27582059616904675,
+    "median_loo_shared_rho": 0.3715101682908638,
+    "max_rank1_loading_share": 0.34250400711509876,
+    "effective_states": 4.327462849665328,
+    "effective_state_fraction": 0.8654925699330656
+  },
+  "n_celltypes": 5,
+  "celltypes": [
+    "columella",
+    "epidermis",
+    "cortex",
+    "endodermis",
+    "stele"
+  ],
+  "n_probes": 22810,
+  "target_samples": [
+    "GSM744784",
+    "GSM744785",
+    "GSM744798",
+    "GSM744799"
+  ],
+  "target_files_present": false,
+  "target_values_read": false,
+  "rule_sha256": "5d7fe7d289f902c9e42166d96ba270ba047d59f362876ec6250164e88967129c",
+  "protocol_sha256": "f47b1ec0358bdd1d8a0abfe871f8b8555aa8b699d2c37082265da05cf586d003",
+  "cell_source_matrix_sha256": "7f8dd7e72c2917f08b6950afb3789d8feafe18c2a8c5ad976ca3f866c400ffbd",
+  "whole_24h_source_sha256": {
+    "GSM744782": "348d86fa37a801a6c559c059aee635283471b6a18b0ca7939ae00dc76aeb4fa4",
+    "GSM744783": "60f6cd8d2d9ae240cc684c17fb7172a3ad4728539a48309d364003bc1c1dd4c9",
+    "GSM744796": "89610054d68e598c11402e7c77ca51fc9c41b18ce2b3c5327b9217c7ea461795",
+    "GSM744797": "f20c2938fb26171c0a070b99f1451e148351327e942e1954ed081cc93333ef4c"
+  },
+  "prediction_sha256": "2c7b82334f75b2d067152b7a9bb87656a5b1ad97ce6025156b6c460715190ec0",
+  "freeze_script_sha256": "04d59a4ee716ff511d8b6e0f45ed86da2bbb6c68dc8f65170231835bbc6a4328",
+  "candidate_unit": "ATH1 probe set"
+}

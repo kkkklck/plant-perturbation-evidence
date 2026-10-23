@@ -1,0 +1,10 @@
+{
+  "task_name": "侧根未来时间回归_v0.2",
+  "task_type": "future_time",
+  "input": "data/external_lateral_root/GSE158761/plantvc_v1_blind/evidence_epidermis.tsv.gz",
+  "gene_column": "gene",
+  "latest_column": "r8",
+  "filter": {"column": "technical_universe", "equals": true},
+  "output_dir": "data/task_structure_v0_2_regression/lateral_root_epidermis",
+  "top_k": [100, 250, 500, 1000]
+}

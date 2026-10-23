@@ -1,0 +1,6 @@
+{
+  "independent_unit": "predefined mechanism-supported genes",
+  "target_universe_N": 29670,
+  "top10_count": 2967,
+  "note": "Tier A was frozen before target expression; this reanalysis adds exact confidence intervals and Fisher/binomial tests post reveal."
+}

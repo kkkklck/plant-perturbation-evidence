@@ -1,0 +1,61 @@
+{
+  "status": "FROZEN_BEFORE_COMBINATION_TARGETS",
+  "source_raw_sha256": "ee43ed0956ac9ac10b4b99151f1163c4be72a404411a42ec689e0783afb13bba",
+  "rules_sha256": "532558f4e55d29ede3a0ba47f5944404531671053a9c11392513fd98cb1a032e",
+  "freeze_script_sha256": "ba76fde1026eeea6b93db566f69af61d6235b010705ebc3e9223f1d3649fde78",
+  "prediction_sha256": "ebfe583b2ec61ae6476592ec93f4c33afdf30927d0dc383e2762541e45b19f54",
+  "pretarget_columns_read": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "target_columns_not_read": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "n_genes_all": 37336,
+  "n_genes_technical": 18185,
+  "target_values_read": false,
+  "primary_rule": "signed sum of constituent single-mutant responses",
+  "targets": {
+    "pat1_path1": [
+      "13",
+      "14",
+      "15"
+    ],
+    "pat1_path2": [
+      "16",
+      "17",
+      "18"
+    ],
+    "path1_path2": [
+      "19",
+      "20",
+      "21"
+    ],
+    "pat1_path1_path2": [
+      "22",
+      "23",
+      "24"
+    ]
+  }
+}

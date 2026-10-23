@@ -1,0 +1,45 @@
+{
+  "status": "POST_REVEAL_PREPROCESSING_CORRECTION_AUDIT",
+  "reason": "GEO GSE46205 deposited VALUE is already GCRMA normalized log2 signal; historical scripts 131-135 applied an additional log2 transform.",
+  "correction": "Use deposited VALUE directly; responses are treatment mean minus matched control mean on that native log2 scale.",
+  "historical_freeze_files_modified": false,
+  "geometry_1h_corrected": {
+    "rank1_energy": 0.7289499091483366,
+    "rank1_3_energy": 0.9473145177578064,
+    "median_pairwise_rho": 0.5433680967805999,
+    "median_loo_shared_rho": 0.5876747055575908,
+    "max_rank1_loading_share": 0.37267479063282544,
+    "effective_states": 3.60685961794792,
+    "effective_state_fraction": 0.90171490448698
+  },
+  "geometry_3h_corrected": {
+    "rank1_energy": 0.744648398399414,
+    "rank1_3_energy": 0.9612513506494731,
+    "median_pairwise_rho": 0.5701483001168828,
+    "median_loo_shared_rho": 0.656455899914963,
+    "max_rank1_loading_share": 0.35522744464566863,
+    "effective_states": 3.468054738933235,
+    "effective_state_fraction": 0.8670136847333088
+  },
+  "route_comparison": {
+    "3h": {
+      "same_state_wins_rho": 4,
+      "same_state_wins_top100": 3,
+      "same_state_ties_top100": 1,
+      "median_same_state_rho": 0.7192201864438547,
+      "median_shared_rho": 0.540871732008626,
+      "median_same_state_top100": 40.5,
+      "median_shared_top100": 26.5
+    },
+    "8h": {
+      "same_state_wins_rho": 4,
+      "same_state_wins_top100": 4,
+      "same_state_ties_top100": 0,
+      "median_same_state_rho": 0.8320200236154878,
+      "median_shared_rho": 0.6192767436016784,
+      "median_same_state_top100": 56.5,
+      "median_shared_top100": 30.5
+    }
+  },
+  "prospective_status_note": "Because the implementation error was discovered after target reveal, corrected analyses must not be described as untouched prospective freeze-reveal evidence. The original task split/rule was frozen, but corrected numerical results are post-reveal implementation audits."
+}

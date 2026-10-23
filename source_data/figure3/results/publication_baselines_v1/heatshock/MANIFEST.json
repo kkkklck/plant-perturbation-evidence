@@ -1,0 +1,8 @@
+{
+  "status": "POSTHOC_STRONG_BASELINE_AND_NEGATIVE_CONTROL_AUDIT",
+  "seed": 20261021,
+  "random_gene_label_draws": 10000,
+  "wrong_stress_negative_control": "GSE153103 Arabidopsis salt 3h response, aligned by gene ID; missing genes set to zero",
+  "target_values_used_to_define_baselines": false,
+  "note": "PC1, mean-absolute donor magnitude, individual donors and salt mismatch were added after target reveal and are not relabeled as prospective."
+}

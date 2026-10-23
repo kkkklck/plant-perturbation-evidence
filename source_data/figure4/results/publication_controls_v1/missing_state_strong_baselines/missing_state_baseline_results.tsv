@@ -1,0 +1,96 @@
+dataset	context	model	n_genes	spearman_full_vector	top100_overlap	top100_enrichment	top100_direction_agreement	stimulus	target_state	gate_allowed
+GSE121619_heatshock	cluster_2	signed_mean	16810	0.6150992047217253	67	112.62700000000001	1.0			
+GSE121619_heatshock	cluster_2	signed_median	16810	0.5835428028568083	66	110.94600000000001	1.0			
+GSE121619_heatshock	cluster_2	rank1_common_axis	16810	0.6111731555827701	67	112.62700000000001	1.0			
+GSE121619_heatshock	cluster_2	strongest_source_pretarget	16810	0.46854445352172974	59	99.179	1.0			
+GSE121619_heatshock	cluster_2	pooled_donor	16810	0.4462808705198641	67	112.62700000000001	1.0			
+GSE121619_heatshock	cluster_3	signed_mean	16810	0.6206449569018305	76	127.75600000000001	1.0			
+GSE121619_heatshock	cluster_3	signed_median	16810	0.6007626690985509	73	122.71300000000001	1.0			
+GSE121619_heatshock	cluster_3	rank1_common_axis	16810	0.6155859474005914	76	127.75600000000001	1.0			
+GSE121619_heatshock	cluster_3	strongest_source_pretarget	16810	0.45986018608907797	63	105.903	1.0			
+GSE121619_heatshock	cluster_3	pooled_donor	16810	0.491256125269465	69	115.989	1.0			
+GSE121619_heatshock	cluster_10	signed_mean	16810	0.45032213124061704	63	105.903	1.0			
+GSE121619_heatshock	cluster_10	signed_median	16810	0.43467929129554367	59	99.179	1.0			
+GSE121619_heatshock	cluster_10	rank1_common_axis	16810	0.4493389800196604	63	105.903	1.0			
+GSE121619_heatshock	cluster_10	strongest_source_pretarget	16810	0.36705628679499924	55	92.45500000000001	1.0			
+GSE121619_heatshock	cluster_10	pooled_donor	16810	0.43061584627365057	63	105.903	1.0			
+immune_missing_state	flg22|Rootcap_LRC	signed_mean	6227	0.48240726442543386	33	20.5491	1.0	flg22	Rootcap_LRC	False
+immune_missing_state	flg22|Rootcap_LRC	signed_median	6227	0.5079760446780597	34	21.1718	1.0	flg22	Rootcap_LRC	False
+immune_missing_state	flg22|Rootcap_LRC	rank1_common_axis	6227	0.42162022593577575	28	17.4356	1.0	flg22	Rootcap_LRC	False
+immune_missing_state	flg22|Rootcap_LRC	strongest_source_pretarget	6227	0.1432610739191021	14	8.7178	0.7857142857142857	flg22	Rootcap_LRC	False
+immune_missing_state	flg22|Meristem_Cortex	signed_mean	6227	0.474572726430092	39	24.2853	1.0	flg22	Meristem_Cortex	False
+immune_missing_state	flg22|Meristem_Cortex	signed_median	6227	0.5343308803485985	41	25.5307	1.0	flg22	Meristem_Cortex	False
+immune_missing_state	flg22|Meristem_Cortex	rank1_common_axis	6227	0.38540807176512115	35	21.7945	0.9714285714285714	flg22	Meristem_Cortex	False
+immune_missing_state	flg22|Meristem_Cortex	strongest_source_pretarget	6227	0.09231416814755716	12	7.4724	0.75	flg22	Meristem_Cortex	False
+immune_missing_state	flg22|Elongation_Endodermis	signed_mean	6227	0.20034607808975058	20	12.454	1.0	flg22	Elongation_Endodermis	False
+immune_missing_state	flg22|Elongation_Endodermis	signed_median	6227	0.1678521504253769	19	11.8313	1.0	flg22	Elongation_Endodermis	False
+immune_missing_state	flg22|Elongation_Endodermis	rank1_common_axis	6227	0.21794834261604393	22	13.6994	1.0	flg22	Elongation_Endodermis	False
+immune_missing_state	flg22|Elongation_Endodermis	strongest_source_pretarget	6227	0.14219253582599292	13	8.0951	0.9230769230769231	flg22	Elongation_Endodermis	False
+immune_missing_state	flg22|Maturation_Stele	signed_mean	6227	0.2359087530976327	29	18.0583	0.9310344827586207	flg22	Maturation_Stele	False
+immune_missing_state	flg22|Maturation_Stele	signed_median	6227	0.24728183870950365	30	18.681	0.9333333333333333	flg22	Maturation_Stele	False
+immune_missing_state	flg22|Maturation_Stele	rank1_common_axis	6227	0.21851209235638885	28	17.4356	0.8571428571428571	flg22	Maturation_Stele	False
+immune_missing_state	flg22|Maturation_Stele	strongest_source_pretarget	6227	0.12142308596216367	22	13.6994	0.6818181818181818	flg22	Maturation_Stele	False
+immune_missing_state	Pep1|Rootcap_LRC	signed_mean	6158	0.6336682230594674	59	36.3322	1.0	Pep1	Rootcap_LRC	True
+immune_missing_state	Pep1|Rootcap_LRC	signed_median	6158	0.6555122990743766	57	35.1006	1.0	Pep1	Rootcap_LRC	True
+immune_missing_state	Pep1|Rootcap_LRC	rank1_common_axis	6158	0.6068624631103238	59	36.3322	1.0	Pep1	Rootcap_LRC	True
+immune_missing_state	Pep1|Rootcap_LRC	strongest_source_pretarget	6158	0.367297088546843	52	32.0216	1.0	Pep1	Rootcap_LRC	True
+immune_missing_state	Pep1|Meristem_Cortex	signed_mean	6158	0.7200462777651954	60	36.948	1.0	Pep1	Meristem_Cortex	True
+immune_missing_state	Pep1|Meristem_Cortex	signed_median	6158	0.7600310990186512	64	39.4112	1.0	Pep1	Meristem_Cortex	True
+immune_missing_state	Pep1|Meristem_Cortex	rank1_common_axis	6158	0.6830119299594343	58	35.7164	1.0	Pep1	Meristem_Cortex	True
+immune_missing_state	Pep1|Meristem_Cortex	strongest_source_pretarget	6158	0.3874943070706907	44	27.0952	1.0	Pep1	Meristem_Cortex	True
+immune_missing_state	Pep1|Elongation_Endodermis	signed_mean	6158	0.4549360509716617	71	43.721799999999995	1.0	Pep1	Elongation_Endodermis	True
+immune_missing_state	Pep1|Elongation_Endodermis	signed_median	6158	0.4380106106004141	71	43.721799999999995	1.0	Pep1	Elongation_Endodermis	True
+immune_missing_state	Pep1|Elongation_Endodermis	rank1_common_axis	6158	0.46472036544016787	72	44.337599999999995	1.0	Pep1	Elongation_Endodermis	True
+immune_missing_state	Pep1|Elongation_Endodermis	strongest_source_pretarget	6158	0.3914631542003827	72	44.337599999999995	1.0	Pep1	Elongation_Endodermis	True
+immune_missing_state	Pep1|Maturation_Stele	signed_mean	6158	0.5578895195268755	66	40.6428	1.0	Pep1	Maturation_Stele	True
+immune_missing_state	Pep1|Maturation_Stele	signed_median	6158	0.5363088018674096	63	38.7954	1.0	Pep1	Maturation_Stele	True
+immune_missing_state	Pep1|Maturation_Stele	rank1_common_axis	6158	0.5650845729983233	67	41.258599999999994	1.0	Pep1	Maturation_Stele	True
+immune_missing_state	Pep1|Maturation_Stele	strongest_source_pretarget	6158	0.47442879845806746	64	39.4112	1.0	Pep1	Maturation_Stele	True
+immune_missing_state	Chitin|Rootcap_LRC	signed_mean	5102	0.4494773309263325	39	19.8978	0.9743589743589743	Chitin	Rootcap_LRC	False
+immune_missing_state	Chitin|Rootcap_LRC	signed_median	5102	0.4880555079573468	39	19.8978	0.9743589743589743	Chitin	Rootcap_LRC	False
+immune_missing_state	Chitin|Rootcap_LRC	rank1_common_axis	5102	0.4233116842805238	39	19.8978	0.9743589743589743	Chitin	Rootcap_LRC	False
+immune_missing_state	Chitin|Rootcap_LRC	strongest_source_pretarget	5102	-0.14510597059463357	22	11.224400000000001	0.9090909090909091	Chitin	Rootcap_LRC	False
+immune_missing_state	Chitin|Meristem_Cortex	signed_mean	5102	0.05580193194105972	5	2.551	0.8	Chitin	Meristem_Cortex	False
+immune_missing_state	Chitin|Meristem_Cortex	signed_median	5102	0.052778265617318104	7	3.5714	0.8571428571428571	Chitin	Meristem_Cortex	False
+immune_missing_state	Chitin|Meristem_Cortex	rank1_common_axis	5102	0.06015940457691634	5	2.551	0.8	Chitin	Meristem_Cortex	False
+immune_missing_state	Chitin|Meristem_Cortex	strongest_source_pretarget	5102	-0.07413849488636232	6	3.0612	0.0	Chitin	Meristem_Cortex	False
+immune_missing_state	Chitin|Elongation_Endodermis	signed_mean	5102	0.2651411137445705	17	8.6734	0.8823529411764706	Chitin	Elongation_Endodermis	False
+immune_missing_state	Chitin|Elongation_Endodermis	signed_median	5102	0.27165474977449544	16	8.1632	0.9375	Chitin	Elongation_Endodermis	False
+immune_missing_state	Chitin|Elongation_Endodermis	rank1_common_axis	5102	0.2557632342830091	17	8.6734	0.8823529411764706	Chitin	Elongation_Endodermis	False
+immune_missing_state	Chitin|Elongation_Endodermis	strongest_source_pretarget	5102	0.026283708350226136	10	5.102	1.0	Chitin	Elongation_Endodermis	False
+immune_missing_state	Chitin|Maturation_Stele	signed_mean	5102	0.28628651204191025	35	17.857	1.0	Chitin	Maturation_Stele	False
+immune_missing_state	Chitin|Maturation_Stele	signed_median	5102	0.2519777111739936	39	19.8978	1.0	Chitin	Maturation_Stele	False
+immune_missing_state	Chitin|Maturation_Stele	rank1_common_axis	5102	0.29395563044783934	35	17.857	1.0	Chitin	Maturation_Stele	False
+immune_missing_state	Chitin|Maturation_Stele	strongest_source_pretarget	5102	0.30832505196082494	30	15.306000000000001	0.9666666666666667	Chitin	Maturation_Stele	False
+immune_missing_state	SCOOP10|Rootcap_LRC	signed_mean	4406	0.6427270694224668	62	27.3172	1.0	SCOOP10	Rootcap_LRC	True
+immune_missing_state	SCOOP10|Rootcap_LRC	signed_median	4406	0.6647460866319168	62	27.3172	1.0	SCOOP10	Rootcap_LRC	True
+immune_missing_state	SCOOP10|Rootcap_LRC	rank1_common_axis	4406	0.6399818401130574	63	27.7578	1.0	SCOOP10	Rootcap_LRC	True
+immune_missing_state	SCOOP10|Rootcap_LRC	strongest_source_pretarget	4406	0.301380648898724	43	18.9458	1.0	SCOOP10	Rootcap_LRC	True
+immune_missing_state	SCOOP10|Meristem_Cortex	signed_mean	4406	0.324420345569453	42	18.5052	1.0	SCOOP10	Meristem_Cortex	True
+immune_missing_state	SCOOP10|Meristem_Cortex	signed_median	4406	0.33166540055194504	46	20.267599999999998	1.0	SCOOP10	Meristem_Cortex	True
+immune_missing_state	SCOOP10|Meristem_Cortex	rank1_common_axis	4406	0.31919940018609955	43	18.9458	1.0	SCOOP10	Meristem_Cortex	True
+immune_missing_state	SCOOP10|Meristem_Cortex	strongest_source_pretarget	4406	0.15985292113414362	36	15.8616	0.9722222222222222	SCOOP10	Meristem_Cortex	True
+immune_missing_state	SCOOP10|Elongation_Endodermis	signed_mean	4406	0.349077935038034	49	21.589399999999998	1.0	SCOOP10	Elongation_Endodermis	True
+immune_missing_state	SCOOP10|Elongation_Endodermis	signed_median	4406	0.3314646416780318	50	22.029999999999998	1.0	SCOOP10	Elongation_Endodermis	True
+immune_missing_state	SCOOP10|Elongation_Endodermis	rank1_common_axis	4406	0.3509520307870256	50	22.029999999999998	1.0	SCOOP10	Elongation_Endodermis	True
+immune_missing_state	SCOOP10|Elongation_Endodermis	strongest_source_pretarget	4406	0.23956150911103197	44	19.3864	1.0	SCOOP10	Elongation_Endodermis	True
+immune_missing_state	SCOOP10|Maturation_Stele	signed_mean	4406	0.5995190350182449	75	33.044999999999995	1.0	SCOOP10	Maturation_Stele	True
+immune_missing_state	SCOOP10|Maturation_Stele	signed_median	4406	0.5986798125778918	76	33.4856	1.0	SCOOP10	Maturation_Stele	True
+immune_missing_state	SCOOP10|Maturation_Stele	rank1_common_axis	4406	0.5995143210452436	75	33.044999999999995	1.0	SCOOP10	Maturation_Stele	True
+immune_missing_state	SCOOP10|Maturation_Stele	strongest_source_pretarget	4406	0.3121675239884138	59	25.9954	1.0	SCOOP10	Maturation_Stele	True
+immune_missing_state	SCREW1|Rootcap_LRC	signed_mean	4704	0.6636742550972281	64	30.105600000000003	1.0	SCREW1	Rootcap_LRC	True
+immune_missing_state	SCREW1|Rootcap_LRC	signed_median	4704	0.6841686622935346	62	29.164800000000003	1.0	SCREW1	Rootcap_LRC	True
+immune_missing_state	SCREW1|Rootcap_LRC	rank1_common_axis	4704	0.6478525211559398	66	31.046400000000002	1.0	SCREW1	Rootcap_LRC	True
+immune_missing_state	SCREW1|Rootcap_LRC	strongest_source_pretarget	4704	0.2873881877555498	34	15.9936	1.0	SCREW1	Rootcap_LRC	True
+immune_missing_state	SCREW1|Meristem_Cortex	signed_mean	4704	0.38041961421517717	46	21.6384	1.0	SCREW1	Meristem_Cortex	True
+immune_missing_state	SCREW1|Meristem_Cortex	signed_median	4704	0.379939571108595	47	22.108800000000002	1.0	SCREW1	Meristem_Cortex	True
+immune_missing_state	SCREW1|Meristem_Cortex	rank1_common_axis	4704	0.3813517827533363	47	22.108800000000002	1.0	SCREW1	Meristem_Cortex	True
+immune_missing_state	SCREW1|Meristem_Cortex	strongest_source_pretarget	4704	0.24560089444713232	28	13.1712	1.0	SCREW1	Meristem_Cortex	True
+immune_missing_state	SCREW1|Elongation_Endodermis	signed_mean	4704	0.4932440177780702	49	23.0496	1.0	SCREW1	Elongation_Endodermis	True
+immune_missing_state	SCREW1|Elongation_Endodermis	signed_median	4704	0.4302064303300077	48	22.579200000000004	1.0	SCREW1	Elongation_Endodermis	True
+immune_missing_state	SCREW1|Elongation_Endodermis	rank1_common_axis	4704	0.5095255768422424	48	22.579200000000004	1.0	SCREW1	Elongation_Endodermis	True
+immune_missing_state	SCREW1|Elongation_Endodermis	strongest_source_pretarget	4704	0.46433366609540133	51	23.9904	1.0	SCREW1	Elongation_Endodermis	True
+immune_missing_state	SCREW1|Maturation_Stele	signed_mean	4704	0.5984443695063252	64	30.105600000000003	1.0	SCREW1	Maturation_Stele	True
+immune_missing_state	SCREW1|Maturation_Stele	signed_median	4704	0.5465556025919797	63	29.6352	1.0	SCREW1	Maturation_Stele	True
+immune_missing_state	SCREW1|Maturation_Stele	rank1_common_axis	4704	0.5984053348015786	62	29.164800000000003	1.0	SCREW1	Maturation_Stele	True
+immune_missing_state	SCREW1|Maturation_Stele	strongest_source_pretarget	4704	0.3775649664161744	50	23.520000000000003	1.0	SCREW1	Maturation_Stele	True

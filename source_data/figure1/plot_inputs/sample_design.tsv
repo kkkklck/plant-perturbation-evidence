@@ -1,0 +1,12 @@
+gsm	title	identity	condition	stress_type	severity	replicate	batch	treatment
+GSM9373072	Rice leaf, well-watered, rep 1	Well.Watered.R1	WellWatered	control	control	1	1	Well-watered; 3 g water / g soil
+GSM9373073	Rice leaf, well-watered, rep 2	Well.Watered.R2	WellWatered	control	control	2	2	Well-watered; 3 g water / g soil
+GSM9373074	Rice leaf, well-watered, rep 3	Well.Watered.R3	WellWatered	control	control	3	3	Well-watered; 3 g water / g soil
+GSM9373075	Rice leaf, mild drought, rep 1	Mild.Drought.R1	MildDrought	drought	mild	1	1	Mild drought; 1.5 g water / g soil
+GSM9373076	Rice leaf, mild drought, rep 2	Mild.Drought.R2	MildDrought	drought	mild	2	2	Mild drought; 1.5 g water / g soil
+GSM9373077	Rice leaf, moderate drought, rep 1	Moderate.Drought.R1	ModerateDrought	drought	moderate	1	2	Moderate drought; 1 g water / g soil
+GSM9373078	Rice leaf, moderate drought, rep 2	Moderate.Drought.R2	ModerateDrought	drought	moderate	2	3	Moderate drought; 1 g water / g soil
+GSM9373079	Rice leaf, mild salinity, rep 1	Mild.Salinity.R1	MildSalinity	salinity	mild	1	2	Mild salinity; 3 g 100 mM NaCl / g soil
+GSM9373080	Rice leaf, mild salinity, rep 2	Mild.Salinity.R2	MildSalinity	salinity	mild	2	3	Mild salinity; 3 g 100 mM NaCl / g soil
+GSM9373081	Rice leaf, moderate salinity, rep 1	Moderate.Salinity.R1	ModerateSalinity	salinity	moderate	1	2	Moderate salinity; 3 g 200 mM NaCl / g soil
+GSM9373082	Rice leaf, moderate salinity, rep 2	Moderate.Salinity.R2	ModerateSalinity	salinity	moderate	2	3	Moderate salinity; 3 g 200 mM NaCl / g soil

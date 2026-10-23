@@ -1,0 +1,16 @@
+{
+  "common_universe_genes": 2870,
+  "wrong_programs": [
+    "salt_6h",
+    "salt_3h",
+    "Pep1",
+    "SCOOP10",
+    "SCREW1",
+    "flg22",
+    "Chitin"
+  ],
+  "generic_score": "mean absolute-rank percentile across 7 non-heat programs",
+  "generic_top100_target_overlap": 6,
+  "true_heat_top100_target_overlap_same_common_universe": 38,
+  "true_minus_generic_overlap": 32
+}

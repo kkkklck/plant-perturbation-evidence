@@ -1,0 +1,243 @@
+{
+  "GSE153103_salt_12h": {
+    "best_by_median_rho": "latest_6h",
+    "latest_history_row": [
+      {
+        "dataset": "GSE153103_salt_12h",
+        "model": "latest_6h",
+        "n_contexts": 1,
+        "median_rho": 0.47821373753380847,
+        "mean_rho": 0.47821373753380847,
+        "median_top100_overlap": 30.0,
+        "mean_top100_overlap": 30.0,
+        "median_top100_enrichment": 42.696,
+        "median_direction": 1.0
+      }
+    ],
+    "all_models": [
+      {
+        "dataset": "GSE153103_salt_12h",
+        "model": "history_mean_1h_3h_6h",
+        "n_contexts": 1,
+        "median_rho": 0.43224662991751106,
+        "mean_rho": 0.43224662991751106,
+        "median_top100_overlap": 24.0,
+        "mean_top100_overlap": 24.0,
+        "median_top100_enrichment": 34.1568,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE153103_salt_12h",
+        "model": "latest_6h",
+        "n_contexts": 1,
+        "median_rho": 0.47821373753380847,
+        "mean_rho": 0.47821373753380847,
+        "median_top100_overlap": 30.0,
+        "mean_top100_overlap": 30.0,
+        "median_top100_enrichment": 42.696,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE153103_salt_12h",
+        "model": "linear_all_0_1_3_6_to_12h",
+        "n_contexts": 1,
+        "median_rho": 0.43213048218232347,
+        "mean_rho": 0.43213048218232347,
+        "median_top100_overlap": 30.0,
+        "mean_top100_overlap": 30.0,
+        "median_top100_enrichment": 42.696,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE153103_salt_12h",
+        "model": "linear_last2_3h_6h_to_12h",
+        "n_contexts": 1,
+        "median_rho": 0.25930981103478623,
+        "mean_rho": 0.25930981103478623,
+        "median_top100_overlap": 16.0,
+        "mean_top100_overlap": 16.0,
+        "median_top100_enrichment": 22.7712,
+        "median_direction": 0.875
+      },
+      {
+        "dataset": "GSE153103_salt_12h",
+        "model": "older_3h",
+        "n_contexts": 1,
+        "median_rho": 0.30604962246681494,
+        "mean_rho": 0.30604962246681494,
+        "median_top100_overlap": 16.0,
+        "mean_top100_overlap": 16.0,
+        "median_top100_enrichment": 22.7712,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE153103_salt_12h",
+        "model": "oldest_1h",
+        "n_contexts": 1,
+        "median_rho": 0.33976284734253076,
+        "mean_rho": 0.33976284734253076,
+        "median_top100_overlap": 15.0,
+        "mean_top100_overlap": 15.0,
+        "median_top100_enrichment": 21.348,
+        "median_direction": 1.0
+      }
+    ]
+  },
+  "GSE153103_salt_6h": {
+    "best_by_median_rho": "linear_with_baseline_0_1_3_to_6h",
+    "latest_history_row": [
+      {
+        "dataset": "GSE153103_salt_6h",
+        "model": "latest_3h",
+        "n_contexts": 1,
+        "median_rho": 0.599226841702849,
+        "mean_rho": 0.599226841702849,
+        "median_top100_overlap": 30.0,
+        "mean_top100_overlap": 30.0,
+        "median_top100_enrichment": 42.423,
+        "median_direction": 1.0
+      }
+    ],
+    "all_models": [
+      {
+        "dataset": "GSE153103_salt_6h",
+        "model": "history_mean_1h_3h",
+        "n_contexts": 1,
+        "median_rho": 0.5324132961268031,
+        "mean_rho": 0.5324132961268031,
+        "median_top100_overlap": 29.0,
+        "mean_top100_overlap": 29.0,
+        "median_top100_enrichment": 41.0089,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE153103_salt_6h",
+        "model": "latest_3h",
+        "n_contexts": 1,
+        "median_rho": 0.599226841702849,
+        "mean_rho": 0.599226841702849,
+        "median_top100_overlap": 30.0,
+        "mean_top100_overlap": 30.0,
+        "median_top100_enrichment": 42.423,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE153103_salt_6h",
+        "model": "linear_last2_to_6h",
+        "n_contexts": 1,
+        "median_rho": 0.4927222262356681,
+        "mean_rho": 0.4927222262356681,
+        "median_top100_overlap": 36.0,
+        "mean_top100_overlap": 36.0,
+        "median_top100_enrichment": 50.9076,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE153103_salt_6h",
+        "model": "linear_with_baseline_0_1_3_to_6h",
+        "n_contexts": 1,
+        "median_rho": 0.5992268554877525,
+        "mean_rho": 0.5992268554877525,
+        "median_top100_overlap": 30.0,
+        "mean_top100_overlap": 30.0,
+        "median_top100_enrichment": 42.423,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE153103_salt_6h",
+        "model": "older_1h",
+        "n_contexts": 1,
+        "median_rho": 0.3687976400201112,
+        "mean_rho": 0.3687976400201112,
+        "median_top100_overlap": 16.0,
+        "mean_top100_overlap": 16.0,
+        "median_top100_enrichment": 22.6256,
+        "median_direction": 1.0
+      }
+    ]
+  },
+  "GSE46205_salt_8h": {
+    "best_by_median_rho": "latest_3h",
+    "latest_history_row": [
+      {
+        "dataset": "GSE46205_salt_8h",
+        "model": "latest_3h",
+        "n_contexts": 4,
+        "median_rho": 0.8169715271322493,
+        "mean_rho": 0.8257475714046962,
+        "median_top100_overlap": 57.0,
+        "mean_top100_overlap": 55.0,
+        "median_top100_enrichment": 130.017,
+        "median_direction": 1.0
+      }
+    ],
+    "all_models": [
+      {
+        "dataset": "GSE46205_salt_8h",
+        "model": "history_mean_1h_3h",
+        "n_contexts": 4,
+        "median_rho": 0.7896125430057235,
+        "mean_rho": 0.8037340885999454,
+        "median_top100_overlap": 46.0,
+        "mean_top100_overlap": 48.25,
+        "median_top100_enrichment": 104.92600000000002,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE46205_salt_8h",
+        "model": "latest_3h",
+        "n_contexts": 4,
+        "median_rho": 0.8169715271322493,
+        "mean_rho": 0.8257475714046962,
+        "median_top100_overlap": 57.0,
+        "mean_top100_overlap": 55.0,
+        "median_top100_enrichment": 130.017,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE46205_salt_8h",
+        "model": "linear_last2_to_8h",
+        "n_contexts": 4,
+        "median_rho": 0.592052377842429,
+        "mean_rho": 0.5684088017080824,
+        "median_top100_overlap": 34.0,
+        "mean_top100_overlap": 36.0,
+        "median_top100_enrichment": 77.554,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE46205_salt_8h",
+        "model": "linear_with_baseline_0_1_3_to_8h",
+        "n_contexts": 4,
+        "median_rho": 0.8122201879894138,
+        "mean_rho": 0.8217179759176645,
+        "median_top100_overlap": 57.0,
+        "mean_top100_overlap": 55.5,
+        "median_top100_enrichment": 130.017,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE46205_salt_8h",
+        "model": "older_1h",
+        "n_contexts": 4,
+        "median_rho": 0.6779052814785853,
+        "mean_rho": 0.6649984912862552,
+        "median_top100_overlap": 36.5,
+        "mean_top100_overlap": 36.75,
+        "median_top100_enrichment": 83.2565,
+        "median_direction": 1.0
+      },
+      {
+        "dataset": "GSE46205_salt_8h",
+        "model": "shared_other_states_3h",
+        "n_contexts": 4,
+        "median_rho": 0.5986626348346418,
+        "mean_rho": 0.6037616212288636,
+        "median_top100_overlap": 34.5,
+        "mean_top100_overlap": 31.5,
+        "median_top100_enrichment": 78.6945,
+        "median_direction": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+universe	median_delta_rho_vs_technical	mean_delta_rho_vs_technical	n_improved	n_worsened	n_total
+control_mean_gt_0.5	-0.0046127348079915646	-0.004547498944263871	5	11	16
+control_mean_gt_1.0	0.004069120831235458	0.003111528129686505	9	7	16
+control_top25pct_within_technical	-0.04989319416848145	-0.03707353227262803	5	11	16
+control_top50pct_within_technical	-0.019967869083546374	-0.006926827739174311	6	10	16

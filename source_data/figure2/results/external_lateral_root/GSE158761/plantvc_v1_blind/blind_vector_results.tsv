@@ -1,0 +1,19 @@
+celltype	model	n_genes	spearman_full_vector	sign_agreement_all
+Ambiguous Stele Cells	PlantVC_persistent_same_state	13909	0.4199803336644918	0.6335466244877418
+Ambiguous Stele Cells	frozen_broad_shared	13909	0.03420212234376856	0.5143432310015098
+Columella/ Root Cap	PlantVC_persistent_same_state	14847	0.33678021926183344	0.6184414359803327
+Columella/ Root Cap	frozen_broad_shared	14847	0.0017414291925171499	0.49370243146763654
+Epidermis	PlantVC_persistent_same_state	15178	0.15738175468813695	0.5444063776518645
+Epidermis	frozen_broad_shared	15178	-0.06078322931408597	0.4748978785083674
+Lateral Root Endodermis	PlantVC_persistent_same_state	10569	0.4212607922471222	0.6279685873781815
+Lateral Root Endodermis	frozen_broad_shared	10569	0.021287282180521824	0.4906802914182988
+Mature Pericycle	PlantVC_persistent_same_state	11746	0.3915000936595994	0.612463817469777
+Mature Pericycle	frozen_broad_shared	11746	-0.005189802363277518	0.5036608207049208
+Phloem	PlantVC_persistent_same_state	8767	0.5003058588783644	0.646629405726018
+Phloem	frozen_broad_shared	8767	0.02862201720974765	0.5040492756929394
+Phloem Pole Pericycle	PlantVC_persistent_same_state	15779	0.3660959243962689	0.6118258444768363
+Phloem Pole Pericycle	frozen_broad_shared	15779	0.0027954615369581346	0.49705304518664045
+Xylem	PlantVC_persistent_same_state	11376	0.3792271037434332	0.6191104078762306
+Xylem	frozen_broad_shared	11376	-0.004212309603474853	0.48180379746835444
+Xylem Pole Pericycle	PlantVC_persistent_same_state	15077	0.245290907015801	0.5599920408569344
+Xylem Pole Pericycle	frozen_broad_shared	15077	0.024095835186759416	0.49877296544405386

@@ -1,0 +1,5 @@
+target	composition_rho	best_single_rho	best_single_rho_model	delta_rho_vs_best_single	composition_top100_overlap	best_single_top100_overlap	best_single_top100_model	delta_top100_overlap_vs_best_single
+pat1_path1	0.8581837267825517	0.8844358166879458	single_pat1	-0.02625208990539407	53	55	single_pat1	-2
+pat1_path2	0.4927550169439872	0.5973957854820361	single_pat1	-0.10464076853804888	22	30	single_pat1	-8
+path1_path2	0.32207768591651587	0.30340790152320235	single_path1	0.018669784393313515	12	9	single_path2	3
+pat1_path1_path2	0.5352977388367937	0.7244115621383379	single_pat1	-0.18911382330154425	22	39	single_pat1	-17

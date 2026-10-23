@@ -1,0 +1,47 @@
+{
+  "summary": [
+    {
+      "model": "PlantVC_persistent_same_state",
+      "n_contexts": 9,
+      "median_full_vector_rho": 0.3792271037434332,
+      "median_sign_agreement_all": 0.6184414359803327,
+      "median_top100_overlap": 12.0,
+      "median_top100_enrichment": 14.7888,
+      "median_top100_direction_agreement": 1.0,
+      "median_top250_overlap": 33.0,
+      "median_top250_enrichment": 6.272032,
+      "median_top250_direction_agreement": 1.0,
+      "median_top500_overlap": 99.0,
+      "median_top500_enrichment": 4.959936,
+      "median_top500_direction_agreement": 1.0,
+      "median_top1000_overlap": 256.0,
+      "median_top1000_enrichment": 3.033303,
+      "median_top1000_direction_agreement": 0.9926739926739927
+    },
+    {
+      "model": "frozen_broad_shared",
+      "n_contexts": 9,
+      "median_full_vector_rho": 0.0027954615369581346,
+      "median_sign_agreement_all": 0.49705304518664045,
+      "median_top100_overlap": 3.0,
+      "median_top100_enrichment": 4.1727,
+      "median_top100_direction_agreement": 0.0,
+      "median_top250_overlap": 9.0,
+      "median_top250_enrichment": 2.002176,
+      "median_top250_direction_agreement": 0.36363636363636365,
+      "median_top500_overlap": 28.0,
+      "median_top500_enrichment": 1.5147840000000001,
+      "median_top500_direction_agreement": 0.4423076923076923,
+      "median_top1000_overlap": 97.0,
+      "median_top1000_enrichment": 1.2657189999999998,
+      "median_top1000_direction_agreement": 0.5032679738562091
+    }
+  ],
+  "comparison": {
+    "same_state_wins_rho": 9,
+    "same_state_ties_rho": 0,
+    "same_state_wins_top100_overlap": 8,
+    "same_state_ties_top100_overlap": 1,
+    "n_contexts": 9
+  }
+}

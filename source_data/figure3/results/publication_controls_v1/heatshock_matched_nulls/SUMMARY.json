@@ -1,0 +1,69 @@
+{
+  "seed": 20261021,
+  "n_permutations_each": 10000,
+  "n_tests": 4,
+  "all_q_lt_0_05": true,
+  "matching": "|shared heat response| ventile + donor-response SD quintile; both source-only",
+  "results": [
+    {
+      "dataset": "GSE121619_heatshock_missing_state",
+      "context": "cluster_2",
+      "n_genes": 16810,
+      "k": 100,
+      "observed_overlap": 67,
+      "null_mean": 11.0314,
+      "null_sd": 2.9383800720371034,
+      "null_q95": 16.0,
+      "null_q99": 18.0,
+      "matched_enrichment": 6.073571804122777,
+      "empirical_p_one_sided": 9.999000099990002e-05,
+      "matching_variables": "|shared heat response| ventile + donor-response SD quintile",
+      "q_bh_4_heatshock_tests": 9.999000099990002e-05
+    },
+    {
+      "dataset": "GSE121619_heatshock_missing_state",
+      "context": "cluster_3",
+      "n_genes": 16810,
+      "k": 100,
+      "observed_overlap": 76,
+      "null_mean": 11.5851,
+      "null_sd": 2.990828061799863,
+      "null_q95": 17.0,
+      "null_q99": 19.0,
+      "matched_enrichment": 6.560150538191297,
+      "empirical_p_one_sided": 9.999000099990002e-05,
+      "matching_variables": "|shared heat response| ventile + donor-response SD quintile",
+      "q_bh_4_heatshock_tests": 9.999000099990002e-05
+    },
+    {
+      "dataset": "GSE121619_heatshock_missing_state",
+      "context": "cluster_10",
+      "n_genes": 16810,
+      "k": 100,
+      "observed_overlap": 63,
+      "null_mean": 10.9069,
+      "null_sd": 2.8973905289393973,
+      "null_q95": 16.0,
+      "null_q99": 18.0,
+      "matched_enrichment": 5.7761600454758,
+      "empirical_p_one_sided": 9.999000099990002e-05,
+      "matching_variables": "|shared heat response| ventile + donor-response SD quintile",
+      "q_bh_4_heatshock_tests": 9.999000099990002e-05
+    },
+    {
+      "dataset": "GSE290176_heatshock_crossstudy",
+      "context": "whole_seedling",
+      "n_genes": 16335,
+      "k": 100,
+      "observed_overlap": 64,
+      "null_mean": 11.4779,
+      "null_sd": 3.0024678301868835,
+      "null_q95": 17.0,
+      "null_q99": 19.0,
+      "matched_enrichment": 5.575932879707961,
+      "empirical_p_one_sided": 9.999000099990002e-05,
+      "matching_variables": "|shared heat response| ventile + donor-response SD quintile",
+      "q_bh_4_heatshock_tests": 9.999000099990002e-05
+    }
+  ]
+}

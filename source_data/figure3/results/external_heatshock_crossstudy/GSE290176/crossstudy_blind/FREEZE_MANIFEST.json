@@ -1,0 +1,22 @@
+{
+  "status": "FROZEN_BEFORE_GSE290176_HEATSHOCK_TARGET",
+  "source_prediction_sha256": "7b2b11492d4f9b0aa9417afbf4fca881a96c3242e515fe8b322e58468735e29f",
+  "target_count_file_sha256": "5ffa28a5cad090b5872c3f2c8fe035925cf9898e46df43dff91bace34a04accb",
+  "rules_sha256": "dd074079dc0afa2237e89fb6a11dd1c3905d66cec76ddc560ddd1d2bb045e556",
+  "freeze_script_sha256": "a9170fdc7f0a8a6e7370ce3aaafc9f0e1489f8235c67374d033fdcf111faf2cc",
+  "prediction_sha256": "d344521becd7af5a5c7255913a6ec5844ef43c21f397478d85857d8d08c4a1c0",
+  "source_primary_column": "shared_prediction",
+  "frozen_comparators": [
+    "pooled_donor_prediction",
+    "donor_5",
+    "donor_6",
+    "donor_8"
+  ],
+  "n_target_gene_ids_seen": 27655,
+  "n_source_technical_genes": 16810,
+  "n_frozen_genes": 16335,
+  "target_expression_values_parsed": false,
+  "target_heatshock_values_used": false,
+  "target_control_values_used": false,
+  "target_expression_access_at_freeze": "Geneid field only; no numeric expression field parsed"
+}

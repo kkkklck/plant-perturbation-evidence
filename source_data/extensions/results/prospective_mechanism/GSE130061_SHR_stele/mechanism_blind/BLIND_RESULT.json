@@ -1,0 +1,31 @@
+{
+  "status": "REVEALED_AND_SCORED",
+  "target_workbook_sha256": "3d8eba60239f23fb16938b0b96fa38befad2a4cd9f9d1df09c998613f4d97a88",
+  "n_genes": 29670,
+  "top10_n": 2967,
+  "whole_loss_vs_rescue_spearman": 0.7087051775539266,
+  "whole_positive_loss_rescue_same_direction_fraction": 0.7710544939844303,
+  "tierA": {
+    "measured": 8,
+    "total_prior": 8,
+    "top10_hits": 4,
+    "random_expected_hits": 0.8,
+    "top10_enrichment": 5.0,
+    "hypergeom_p": 0.005017230891341681,
+    "expected_direction_fraction": 0.75,
+    "toward_wt_fraction": 0.875,
+    "median_restoration_percentile": 0.8876942262968082,
+    "frozen_success_rule_passed": true,
+    "decision": "MECHANISM_SUPPORTS_LOCAL_SPECIALIST_BOOST"
+  },
+  "tierB": {
+    "measured": 24,
+    "total_prior": 25,
+    "top10_abs_rescue_hits": 4,
+    "random_expected_hits": 2.4,
+    "top10_abs_rescue_enrichment": 1.6666666666666667,
+    "hypergeom_p": 0.2142012348733376,
+    "chip_rank_vs_abs_rescue_spearman": 0.17043478260869566
+  },
+  "interpretation_scope": "Tier A pass permits local priority boost only for mechanism-supported genes; never whole-transcriptome replacement."
+}

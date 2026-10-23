@@ -1,0 +1,25 @@
+{
+  "status": "FROZEN_BEFORE_12H_TARGET",
+  "rule_version": "task_structure_v0.1",
+  "task_type": "future_time",
+  "decision": "最近同状态历史",
+  "primary_predictor": "same_state_3h",
+  "n_probes": 22810,
+  "target_samples": [
+    "GSM744804",
+    "GSM744805"
+  ],
+  "target_files_present": false,
+  "target_values_read": false,
+  "rule_sha256": "5d7fe7d289f902c9e42166d96ba270ba047d59f362876ec6250164e88967129c",
+  "protocol_sha256": "3d9469d30ea464f4bb57efe57111086344af6ad1c98075590a801491fc3a023a",
+  "source_sha256": {
+    "GSM744800": "3c5219f1ec0945a953ec27b8bda21a0550f643097d0dd6ef884aff87aa05fce7",
+    "GSM744801": "43db5469f82721b592a543005afc1676c2558b7b8cecb15526455a9af55b70b6",
+    "GSM744802": "089a8fe8034ffa6b55c533e11b57c1dd62f3b364f7ac6f8964986e54ff5ef842",
+    "GSM744803": "5f48e7efa8b17bc20b45165d635f8bcf9e9412a32b05fb8a3207547e4b9ba96a"
+  },
+  "prediction_sha256": "5bb15f47b028ceac21fc79cf20a19e4eae48a8896692fe3c8451a309a5a64e5d",
+  "freeze_script_sha256": "78b1dd206058937d1ab8638ef4b689c3971bcd87e46373f445e59fef0b54223a",
+  "candidate_unit": "ATH1 probe set"
+}

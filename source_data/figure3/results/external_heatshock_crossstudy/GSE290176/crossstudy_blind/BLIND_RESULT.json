@@ -1,0 +1,42 @@
+{
+  "status": "TARGET_REVEALED_AFTER_VALID_FREEZE",
+  "n_genes": 16335,
+  "primary_model": "shared_prediction",
+  "primary_full_vector_rho": 0.41498307222113207,
+  "primary_sign_agreement_all_nonzero": 0.753083343714962,
+  "primary_topk": {
+    "100": {
+      "overlap": 64,
+      "enrichment": 104.544,
+      "sign_agreement_overlap": 1.0,
+      "hypergeom_p": 1.1896819655857881e-126
+    },
+    "250": {
+      "overlap": 116,
+      "enrichment": 30.31776,
+      "sign_agreement_overlap": 1.0,
+      "hypergeom_p": 7.3267919064368075e-152
+    },
+    "500": {
+      "overlap": 181,
+      "enrichment": 11.826540000000001,
+      "sign_agreement_overlap": 0.994475138121547,
+      "hypergeom_p": 1.1387805027989979e-152
+    },
+    "1000": {
+      "overlap": 338,
+      "enrichment": 5.52123,
+      "sign_agreement_overlap": 0.9940828402366864,
+      "hypergeom_p": 1.7776744318857185e-173
+    }
+  },
+  "model_rho": {
+    "shared_prediction": 0.41498307222113207,
+    "pooled_donor_prediction": 0.39632345525315604,
+    "donor_5": 0.3308948517385743,
+    "donor_6": 0.3355602431445024,
+    "donor_8": 0.34693647272179656
+  },
+  "target_replicate_rho_median": 0.8730371797002785,
+  "target_replicate_top100_overlap_median": 96.0
+}

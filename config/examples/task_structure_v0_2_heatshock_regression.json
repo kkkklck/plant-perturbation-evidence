@@ -1,0 +1,10 @@
+{
+  "task_name": "热激未见状态回归_v0.2",
+  "task_type": "missing_state",
+  "input": "data/external_heatshock/GSE121619/plantvc_v1_heatshock_blind/frozen_prediction.tsv.gz",
+  "gene_column": "gene",
+  "donor_columns": ["donor_5", "donor_6", "donor_8"],
+  "filter": {"column": "technical", "equals": true},
+  "output_dir": "data/task_structure_v0_2_regression/heatshock_missing_state",
+  "top_k": [100, 250, 500, 1000]
+}

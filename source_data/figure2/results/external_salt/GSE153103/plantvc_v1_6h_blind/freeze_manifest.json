@@ -1,0 +1,30 @@
+{
+  "status": "FROZEN_BEFORE_TARGET",
+  "workbook_sha256": "6b9ffb2e4e90202aeafdd500d837d0caa74d5ddb31c60dca5dcb5193cb01035f",
+  "rules_sha256": "4a36437dc920d2865a39761b16a505dc7627629e38ad9d6c3d9b4aa84ee64408",
+  "ranking_sha256": "57bb6fc5bc5cdedf472f790656cb6fc9035178b3fc66bc37168cb5839d6ee61d",
+  "pretarget_columns_read": [
+    "RAS048",
+    "RAS049",
+    "RAS050",
+    "RAS056",
+    "RAS057",
+    "RAS058"
+  ],
+  "target_columns_not_read": [
+    "RAS051",
+    "RAS059"
+  ],
+  "n_genes_all": 24060,
+  "n_genes_technical": 14141,
+  "library_sizes_pretarget": {
+    "RAS048": 21872822.04867407,
+    "RAS049": 22809977.0944,
+    "RAS050": 24148376.001356915,
+    "RAS056": 21750417.035090297,
+    "RAS057": 18466272.060540676,
+    "RAS058": 19629497.05877088
+  },
+  "formula": "sign(r3)*(0.5*abs(r3)+0.5*sqrt(abs(r1*r3))*I[same_sign])",
+  "confidence_used_for_ranking": false
+}

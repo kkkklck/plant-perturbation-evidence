@@ -1,0 +1,5 @@
+dataset	context	n_genes	k	observed_overlap	null_mean	null_sd	null_q95	null_q99	matched_enrichment	empirical_p_one_sided	matching_variables	q_bh_4_heatshock_tests
+GSE121619_heatshock_missing_state	cluster_2	16810	100	67	11.0314	2.9383800720371034	16.0	18.0	6.073571804122777	9.999000099990002e-05	|shared heat response| ventile + donor-response SD quintile	9.999000099990002e-05
+GSE121619_heatshock_missing_state	cluster_3	16810	100	76	11.5851	2.990828061799863	17.0	19.0	6.560150538191297	9.999000099990002e-05	|shared heat response| ventile + donor-response SD quintile	9.999000099990002e-05
+GSE121619_heatshock_missing_state	cluster_10	16810	100	63	10.9069	2.8973905289393973	16.0	18.0	5.7761600454758	9.999000099990002e-05	|shared heat response| ventile + donor-response SD quintile	9.999000099990002e-05
+GSE290176_heatshock_crossstudy	whole_seedling	16335	100	64	11.4779	3.0024678301868835	17.0	19.0	5.575932879707961	9.999000099990002e-05	|shared heat response| ventile + donor-response SD quintile	9.999000099990002e-05

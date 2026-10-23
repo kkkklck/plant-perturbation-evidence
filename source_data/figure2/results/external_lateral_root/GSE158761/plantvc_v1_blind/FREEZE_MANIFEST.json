@@ -1,0 +1,116 @@
+{
+  "status": "FROZEN_BEFORE_20H_TARGET",
+  "source_rds_sha256": "0c6ac632a6095056060f1ebf348fdeb292a7b76e6014f35328d4f33b11743a4f",
+  "rules_sha256": "2d180136a6a4a932cce65f43a4988ba845cec73b12361c6c82cfc510a21e0e0d",
+  "core_sha256": "0e5e7c787752b330501c05ff11eaa38b2eba6b47368248bde9982900e5604fec",
+  "eligible_celltypes": [
+    "Ambiguous Stele Cells",
+    "Columella/ Root Cap",
+    "Epidermis",
+    "Lateral Root Endodermis",
+    "Mature Pericycle",
+    "Phloem",
+    "Phloem Pole Pericycle",
+    "Xylem",
+    "Xylem Pole Pericycle"
+  ],
+  "pretarget_samples_used": [
+    1,
+    2,
+    5,
+    6
+  ],
+  "target_samples_withheld": [
+    3,
+    7
+  ],
+  "n_freeze_cells_used": 4347,
+  "n_target_cells_withheld": 1607,
+  "n_target_cells_used": 0,
+  "primary_rule": "persistent: latest same-celltype 8h-vs-0h response predicts 20h-vs-0h ranking",
+  "frozen_comparator": "leave-one-celltype-out mean 8h response across the other eight eligible cell types",
+  "target_values_read": false,
+  "contexts": [
+    {
+      "celltype": "Ambiguous Stele Cells",
+      "slug": "ambiguous_stele",
+      "n_genes_all": 18868,
+      "n_technical_genes": 13909,
+      "evidence_sha256": "cf6e6fa92f3500b5c8d2b296aa050b5090b93647080ea1adc9fc1ddf604016b6",
+      "config_sha256": "00a950575c8af8eefa28b89bb5fcd4cfc38cd6bf8c769d7255698026ace97553",
+      "ranking_sha256": "8b7232dcfa80b43a2b55a3386c5c25f8be1919d2b209c8c6c8f68290249cc1b1"
+    },
+    {
+      "celltype": "Columella/ Root Cap",
+      "slug": "columella_root_cap",
+      "n_genes_all": 18868,
+      "n_technical_genes": 14847,
+      "evidence_sha256": "6236e11d582d6c49d2f4f7027d2e237ea09f71b201f6e9c5cb016ab6f9541d29",
+      "config_sha256": "0f0d03d199f23acb11737d8f3749383c04789d992d014ffc983f60f21af2e2cb",
+      "ranking_sha256": "923570e8357cf756353017f961c68f2901c344a6ee8daaa8c51d87cb9eed0915"
+    },
+    {
+      "celltype": "Epidermis",
+      "slug": "epidermis",
+      "n_genes_all": 18868,
+      "n_technical_genes": 15178,
+      "evidence_sha256": "20041ecae1b5a1e16b9f0e3e4a1fd4e595db3f807bf783b85092486a9d08021c",
+      "config_sha256": "b294d223a5eca317bf0f6cea0a380cd55e0c33dd76a579c53fa63ab01454810a",
+      "ranking_sha256": "b8a624d0c1e3d86f04f7f73e068d7291d3967bd51c84ad108c3ba1e37ff20697"
+    },
+    {
+      "celltype": "Lateral Root Endodermis",
+      "slug": "lateral_root_endodermis",
+      "n_genes_all": 18868,
+      "n_technical_genes": 10569,
+      "evidence_sha256": "b1e7f2afd8090fc430889d8f8fe739e7a8c242ad6429a1e0accbb23524489edc",
+      "config_sha256": "3d051b695a3b2c86f382a3607949ee171736fb393e3f5dbab2a3a52886570eda",
+      "ranking_sha256": "dd222a24218581d3566e147e9a92f5db1a4434889cbcb8ac499d7efacebca134"
+    },
+    {
+      "celltype": "Mature Pericycle",
+      "slug": "mature_pericycle",
+      "n_genes_all": 18868,
+      "n_technical_genes": 11746,
+      "evidence_sha256": "fac0887e3a94a0c8ed01be542b3e81ad125b298bb7a18c0a66e2d6a4ebf96801",
+      "config_sha256": "e54d0fa7ecdc30c29937fb040158e12dcd323fa4a45013d36bd1ecbd67f8c761",
+      "ranking_sha256": "9244792ed79aa41af2be7cccf127f15b3feb0494cfc29dbe5d0f22a68db7975c"
+    },
+    {
+      "celltype": "Phloem",
+      "slug": "phloem",
+      "n_genes_all": 18868,
+      "n_technical_genes": 8767,
+      "evidence_sha256": "0b369cf4676c6a9a5cd2b940a4be6d3bdad7545d5c465668ae46c54d72ffafa5",
+      "config_sha256": "e5cfbf86748aa1704ad75bcd8b1e2e96b0e4b5c897a6d2f60fd46112a6724b04",
+      "ranking_sha256": "6234bb15ca58a93415078817e822f25536a3f2068375f49dd5b1b2aa7684b86e"
+    },
+    {
+      "celltype": "Phloem Pole Pericycle",
+      "slug": "phloem_pole_pericycle",
+      "n_genes_all": 18868,
+      "n_technical_genes": 15779,
+      "evidence_sha256": "dd926d710e365cce4c1774984703e31f1d7a3dcd22737d9f999ef680f9bd25a1",
+      "config_sha256": "ec887ae49502e8f39ae729d0b6557289f275ea2bb8855213cf461f4aab9057e4",
+      "ranking_sha256": "c15fdb2923ecc9ce716026217a4e42ad27a402c518672d86f3ec4c01f6e511a9"
+    },
+    {
+      "celltype": "Xylem",
+      "slug": "xylem",
+      "n_genes_all": 18868,
+      "n_technical_genes": 11376,
+      "evidence_sha256": "e8c7cf3015460ea67a20087496fefc14e08402e356a62197c69c85e91d6f397f",
+      "config_sha256": "a14603467c743f7be15323c5c5f08bd4b4f7d6cb68eab7e0458cd6cb6cc133bf",
+      "ranking_sha256": "ec4c425638158b7a892007cbb9040a5f74c7aeb78ae6af9b456a64cfa718e7f1"
+    },
+    {
+      "celltype": "Xylem Pole Pericycle",
+      "slug": "xylem_pole_pericycle",
+      "n_genes_all": 18868,
+      "n_technical_genes": 15077,
+      "evidence_sha256": "0246d7c69ac50707f88b1a8ae24ebd93f5319d67e3ce6075d70de7cf19c28ee9",
+      "config_sha256": "33560f48563fe1e1644d161400bf1bba72dda7ccf3189c494831a5a570a4215a",
+      "ranking_sha256": "6db70a61a2cc0c2c9f5474c22abf58b7a189dfdcfe83fd0cfbc7b549d7f3587e"
+    }
+  ]
+}

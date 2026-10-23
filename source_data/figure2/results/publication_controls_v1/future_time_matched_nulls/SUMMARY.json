@@ -1,0 +1,92 @@
+{
+  "seed": 20261021,
+  "n_permutations_each": 10000,
+  "n_tests": 6,
+  "all_q_lt_0_05": true,
+  "results": [
+    {
+      "dataset": "GSE153103_salt_6h",
+      "context": "bulk",
+      "n_genes": 14141,
+      "k": 100,
+      "observed_overlap": 30,
+      "null_mean": 3.6826,
+      "null_sd": 1.8173022585001857,
+      "null_q95": 7.0,
+      "null_q99": 8.0,
+      "matched_enrichment": 8.146418291424537,
+      "empirical_p_one_sided": 9.999000099990002e-05,
+      "q_bh_6_tests": 9.999000099990002e-05
+    },
+    {
+      "dataset": "GSE153103_salt_12h",
+      "context": "bulk",
+      "n_genes": 14232,
+      "k": 100,
+      "observed_overlap": 30,
+      "null_mean": 3.2145,
+      "null_sd": 1.7336638396848747,
+      "null_q95": 6.0,
+      "null_q99": 8.0,
+      "matched_enrichment": 9.332711152589827,
+      "empirical_p_one_sided": 9.999000099990002e-05,
+      "q_bh_6_tests": 9.999000099990002e-05
+    },
+    {
+      "dataset": "GSE46205_salt_8h",
+      "context": "epidermis",
+      "n_genes": 22810,
+      "k": 100,
+      "observed_overlap": 62,
+      "null_mean": 3.243,
+      "null_sd": 1.72361483075787,
+      "null_q95": 6.0,
+      "null_q99": 8.0,
+      "matched_enrichment": 19.118100524205982,
+      "empirical_p_one_sided": 9.999000099990002e-05,
+      "q_bh_6_tests": 9.999000099990002e-05
+    },
+    {
+      "dataset": "GSE46205_salt_8h",
+      "context": "cortex",
+      "n_genes": 22810,
+      "k": 100,
+      "observed_overlap": 40,
+      "null_mean": 3.064,
+      "null_sd": 1.6887833487217632,
+      "null_q95": 6.0,
+      "null_q99": 8.0,
+      "matched_enrichment": 13.054830287206267,
+      "empirical_p_one_sided": 9.999000099990002e-05,
+      "q_bh_6_tests": 9.999000099990002e-05
+    },
+    {
+      "dataset": "GSE46205_salt_8h",
+      "context": "endodermis",
+      "n_genes": 22810,
+      "k": 100,
+      "observed_overlap": 66,
+      "null_mean": 2.343,
+      "null_sd": 1.5045854504606158,
+      "null_q95": 5.0,
+      "null_q99": 6.0,
+      "matched_enrichment": 28.169014084507044,
+      "empirical_p_one_sided": 9.999000099990002e-05,
+      "q_bh_6_tests": 9.999000099990002e-05
+    },
+    {
+      "dataset": "GSE46205_salt_8h",
+      "context": "stele",
+      "n_genes": 22810,
+      "k": 100,
+      "observed_overlap": 52,
+      "null_mean": 2.9552,
+      "null_sd": 1.6550126484974876,
+      "null_q95": 6.0,
+      "null_q99": 7.0,
+      "matched_enrichment": 17.596101786681103,
+      "empirical_p_one_sided": 9.999000099990002e-05,
+      "q_bh_6_tests": 9.999000099990002e-05
+    }
+  ]
+}
