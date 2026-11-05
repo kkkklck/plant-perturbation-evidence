@@ -57,8 +57,15 @@ The historical combined baseline suite includes PAT rows; those rows do not ente
 ## Data availability
 Acquire source experiments from their public repositories using the accessions and input filenames in the manifests. Raw GEO matrices, expression objects, count matrices, manuscript documents and PDFs are excluded. Included tables contain study-derived statistical summaries, rankings, frozen predictions, null summaries and small visualization coordinates/metadata. No individual exported file exceeds 50 MB.
 
+## Author and correspondence
+**Congkai Liao** — College of Life Sciences, Capital Normal University, Beijing, China.  
+ORCID: [0009-0004-6692-5919](https://orcid.org/0009-0004-6692-5919)  
+Email: [congkailiao@gmail.com](mailto:congkailiao@gmail.com)
+
+Associated manuscript (preprint in preparation): *Task structure determines transferable evidence for plant perturbation prediction*. This is a single-author research project.
+
 ## Citation
-Use `CITATION.cff`. Manuscript author metadata, DOI and journal will be added when verified; no DOI is assigned here.
+Please use [CITATION.cff](CITATION.cff) to cite the analysis software. The associated preprint has not yet been deposited; its DOI and permanent archive of this code release will be added after they have been created. Do not cite an unassigned manuscript DOI.
 
 ## License
 Repository-owned code and documentation are provided under the MIT License. Study-derived tables and visualization metadata retain the applicable upstream terms; this license does not relicense upstream data or dependencies. See [third-party notices](THIRD_PARTY_NOTICES.md).
