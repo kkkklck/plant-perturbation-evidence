@@ -1,8 +1,13 @@
 cff-version: 1.2.0
-title: plant-perturbation-evidence
 message: "If you use this repository, please cite the associated manuscript when available."
+title: "Plant perturbation evidence structure"
 type: software
 version: 0.1.0
 license: MIT
+repository-code: "https://github.com/kkkklck/plant-perturbation-evidence"
 authors:
-  - name: "plant-perturbation-evidence contributors"
+  - family-names: Liao
+    given-names: Congkai
+    affiliation: "College of Life Sciences, Capital Normal University, Beijing, China"
+    orcid: "https://orcid.org/0009-0004-6692-5919"
+    email: "congkailiao@gmail.com"
