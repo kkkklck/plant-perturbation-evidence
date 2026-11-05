@@ -65,7 +65,7 @@ Email: [congkailiao@gmail.com](mailto:congkailiao@gmail.com)
 Associated manuscript (preprint in preparation): *Task structure determines transferable evidence for plant perturbation prediction*. This is a single-author research project.
 
 ## Citation
-Please use [CITATION.cff](CITATION.cff) to cite the analysis software. The associated preprint has not yet been deposited; its DOI and permanent archive of this code release will be added after they have been created. Do not cite an unassigned manuscript DOI.
+For reproducibility, cite the archived **v1.0.0-preprint** source release: [Zenodo DOI: 10.5281/zenodo.23973340](https://doi.org/10.5281/zenodo.23973340). The corresponding GitHub tag is [`v1.0.0-preprint`](https://github.com/kkkklck/plant-perturbation-evidence/releases/tag/v1.0.0-preprint). For current code metadata, see [CITATION.cff](CITATION.cff). The associated manuscript is being prepared for bioRxiv; its own preprint DOI has **not** been assigned yet. Metadata edits to `main` after the release do not change the Zenodo archived code snapshot.
 
 ## License
 Repository-owned code and documentation are provided under the MIT License. Study-derived tables and visualization metadata retain the applicable upstream terms; this license does not relicense upstream data or dependencies. See [third-party notices](THIRD_PARTY_NOTICES.md).
