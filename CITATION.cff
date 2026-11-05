@@ -5,6 +5,7 @@ type: software
 version: 0.1.0
 license: MIT
 repository-code: "https://github.com/kkkklck/plant-perturbation-evidence"
+doi: "10.5281/zenodo.23973340"
 authors:
   - family-names: Liao
     given-names: Congkai
